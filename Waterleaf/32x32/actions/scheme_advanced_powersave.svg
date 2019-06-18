@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="32"
+   width="32"
+   version="1.1"
+   sodipodi:docname="scheme_advanced_powersave.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="16.6875"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     id="g4528"
+     transform="scale(0.5)">
+    <path
+       sodipodi:nodetypes="ccccssssccccc"
+       id="path6763-36"
+       style="opacity:1;fill:#68b723;stroke-width:3.54562116;enable-background:new"
+       d="m 12.6,4.4999999 v 3.928572 H 3 V 12.357143 55.571429 C 3,57.747857 4.4272,59.5 6.2,59.5 h 25.6 c 1.7728,0 3.2,-1.752143 3.2,-3.928571 V 12.357143 8.4285719 h -9.6 v -3.928572 z"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="csssscc"
+       id="path6765-75"
+       style="fill:#0e141f;stroke-width:3.54562116;enable-background:new"
+       d="M 3,24.142857 V 55.571429 C 3,57.747857 4.4272,59.5 6.2,59.5 h 25.6 c 1.7728,0 3.2,-1.752143 3.2,-3.928571 V 24.142857 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       id="path6763-3"
+       style="opacity:1;fill:#f9c440;stroke-width:3.54562116;enable-background:new"
+       d="M 19,20.082456 V 31.86817 h 9.6 L 19,51.511027 V 39.725313 H 9.4 Z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     id="rect213-3"
+     style="opacity:1;fill:#206b00;fill-opacity:1;stroke:none;stroke-width:0.53398877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     d="m 31.5,17.5 v 4 h -20 v -4 z m -12,-8 h 4 v 20 h -4 z"
+     inkscape:connector-curvature="0" />
+</svg>

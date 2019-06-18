@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="crypto.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="/home/john/Github/gui-art/icons_debonaire/drafts/jb/crypto.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <style
+       id="current-color-scheme-6"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview4"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:zoom="16.6875"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-grids="true" />
+  <path
+     style="color:#5294e2;fill:#7e8087;stroke-width:1.75182486"
+     d="M 15.864224,2.2727162 3.7755331,5.6863465 C 3.6105318,5.74134 3.4999997,6.5012995 3.4999997,6.666628 c 0,4.076662 1.1416024,8.793323 3.1319493,12.9334 1.614455,3.358119 4.517834,7.836758 9.180491,10.107011 0.05893,0.0275 0.123215,0.04296 0.187499,0.04296 0.06486,0 0.129018,-0.01478 0.188339,-0.04362 4.661582,-2.26974 7.564961,-6.748551 9.179597,-10.106841 C 27.358936,15.459457 28.5,10.742107 28.5,6.6661335 28.5,6.5008085 28.389285,5.740847 28.225003,5.6858515 L 16.135776,2.2722177 c -0.08879,-0.029624 -0.183266,-0.029624 -0.272035,0 z"
+     id="path4559"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#5c616c;opacity:1;fill:#f9c440;stroke-width:2.04123068"
+     d="m 16,7.75 c -1.657262,-2.645e-4 -3.000254,1.3988035 -3,3.125 v 1.875 h -2 v 7.5 h 10 v -7.5 H 19.000976 V 10.875 C 19.00123,9.1488035 17.657261,7.749735 16,7.75 Z m 0,2.0839845 c 0.552065,1.735e-4 0.999833,0.4659875 1,1.0410155 v 1.875 h -2 v -1.875 c 1.67e-4,-0.575028 0.447936,-1.040841 1,-1.0410155 z M 16,14 c 0.62132,0 1.125,0.516069 1.125,1.153321 0,0.424274 -0.223058,0.795638 -0.555664,0.996093 l 0.482422,2.474609 C 17.092228,18.831566 16.956332,19 16.753906,19 h -1.506835 c -0.205198,0 -0.339884,-0.165453 -0.298829,-0.375977 l 0.482422,-2.474609 C 15.098058,15.94896 14.875,15.577595 14.875,15.153321 14.875,14.516069 15.37868,14 16,14 Z"
+     id="path4526-9"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#5294e2;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:1.75182486"
+     d="m 16,2.2499996 c -0.04541,0 -0.09239,0.00812 -0.136409,0.022678 L 3.7752994,5.686307 C 3.6102982,5.741301 3.5000017,6.5009055 3.5000017,6.666233 c 0,0.1613995 0.013803,0.3296175 0.017359,0.4929475 0.021251,-0.250253 0.1112996,-0.812889 0.2579364,-0.861762 L 15.863589,2.8837893 c 0.08843,-0.029235 0.183183,-0.029499 0.271577,0 l 12.089532,3.4136292 c 0.145998,0.048875 0.236663,0.6115105 0.257936,0.861762 0.0036,-0.163307 0.01736,-0.3315755 0.01736,-0.4929475 0,-0.1653245 -0.111014,-0.92493 -0.275297,-0.979926 L 16.135169,2.2726779 C 16.090776,2.2578646 16.045814,2.2499996 16,2.2499996 Z"
+     id="path4559-7"
+     inkscape:connector-curvature="0" />
+</svg>

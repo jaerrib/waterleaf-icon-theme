@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="64"
+   width="64"
+   version="1.1"
+   sodipodi:docname="autodimm.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.4970776"
+     inkscape:cx="-125.65708"
+     inkscape:cy="71.685979"
+     inkscape:window-x="-3"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4512">
+      <stop
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0"
+         id="stop4508" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4510" />
+    </linearGradient>
+    <filter
+       id="filter7554"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-0">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-9" />
+    </filter>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4747"
+       x="-0.01106"
+       width="1.02212"
+       y="-0.013114624"
+       height="1.0262292">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25136363"
+         id="feGaussianBlur4749" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4512"
+       id="linearGradient4514"
+       x1="8.8181829"
+       y1="29.000002"
+       x2="55.181819"
+       y2="29.000002"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g4745"
+     transform="translate(73.933565,10.786942)"
+     style="stroke:none;fill:#000000;fill-opacity:1;filter:url(#filter4747);opacity:0.2">
+    <rect
+       id="rect4823-6"
+       transform="matrix(0,-1,-1,0,0,0)"
+       ry="1.3636364"
+       rx="2"
+       y="26.933561"
+       x="-45.213058"
+       height="30"
+       width="4"
+       style="fill:#000000;stroke-width:0.82572275;stroke:none;fill-opacity:1" />
+    <rect
+       id="rect4827-26"
+       ry="2.8571429"
+       rx="2.7272727"
+       y="-0.78694153"
+       x="-69.206291"
+       height="40"
+       width="54.545452"
+       style="fill:#000000;stroke:none;stroke-width:1.39572632;fill-opacity:1" />
+    <rect
+       id="rect4827-2-8"
+       ry="0.42857143"
+       rx="0.50000006"
+       y="36.213058"
+       x="-46.933563"
+       height="6"
+       width="10"
+       style="fill:#000000;stroke:none;stroke-width:0.23145501;enable-background:new;fill-opacity:1" />
+  </g>
+  <g
+     id="layer9"
+     inkscape:label="status"
+     style="display:inline"
+     transform="translate(-203.84209,274.18554)" />
+  <g
+     id="layer1"
+     inkscape:label="places"
+     style="display:inline"
+     transform="translate(37.15811,-342.81446)" />
+  <g
+     id="layer14"
+     inkscape:label="mimetypes"
+     style="display:inline"
+     transform="translate(-203.84209,274.18554)" />
+  <g
+     id="layer15"
+     inkscape:label="emblems"
+     style="display:inline"
+     transform="translate(-203.84209,274.18554)" />
+  <g
+     id="g71291"
+     inkscape:label="emotes"
+     style="display:inline"
+     transform="translate(-203.84209,274.18554)" />
+  <g
+     id="layer2"
+     inkscape:label="categories"
+     style="display:inline"
+     transform="translate(37.15811,-192.81446)" />
+  <g
+     id="layer12"
+     inkscape:label="actions"
+     style="display:inline"
+     transform="translate(-203.84209,274.18554)" />
+  <g
+     id="g4770"
+     style="fill:#d4d4d4">
+    <rect
+       id="rect4823"
+       transform="matrix(0,-1,-1,0,0,0)"
+       ry="1.3636364"
+       rx="2"
+       y="-47"
+       x="-55"
+       height="30"
+       width="4"
+       style="fill:#d4d4d4;stroke-width:0.82572275" />
+    <rect
+       id="rect4827"
+       ry="2.8571429"
+       rx="2.7272727"
+       y="9"
+       x="4.7272735"
+       height="40"
+       width="54.545452"
+       style="fill:#d4d4d4;stroke:none;stroke-width:1.39572632" />
+    <rect
+       id="rect4827-2"
+       ry="0.42857143"
+       rx="0.50000006"
+       y="46"
+       x="27"
+       height="6"
+       width="10"
+       style="fill:#d4d4d4;stroke:none;stroke-width:0.23145501;enable-background:new" />
+  </g>
+  <rect
+     style="opacity:1;fill:url(#linearGradient4514);stroke-width:1.39572632;fill-opacity:1"
+     width="46.363636"
+     height="31.428574"
+     x="8.8181829"
+     y="13.285715"
+     id="rect4829" />
+</svg>

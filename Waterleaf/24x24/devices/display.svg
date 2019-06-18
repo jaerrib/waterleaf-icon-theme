@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="24"
+   width="24"
+   version="1.1"
+   sodipodi:docname="display.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="11.976621"
+     inkscape:cx="3.6741368"
+     inkscape:cy="16.296643"
+     inkscape:window-x="-3"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  </defs>
+  <g
+     id="g4513"
+     transform="matrix(0.7826087,0,0,0.7826087,-0.52173901,-0.5217392)">
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="status"
+       id="layer9" />
+    <g
+       transform="matrix(0.5,0,0,0.5,18.579055,-171.40723)"
+       style="display:inline"
+       inkscape:label="places"
+       id="layer1" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="mimetypes"
+       id="layer14" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="emblems"
+       id="layer15" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="emotes"
+       id="g71291" />
+    <g
+       transform="matrix(0.5,0,0,0.5,18.579055,-96.40723)"
+       style="display:inline"
+       inkscape:label="categories"
+       id="layer2" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="actions"
+       id="layer12" />
+    <g
+       transform="scale(0.5)"
+       style="fill:#1a1a1a"
+       id="g4770">
+      <rect
+         style="fill:#1a1a1a;stroke-width:0.82572275"
+         width="4"
+         height="30"
+         x="-55"
+         y="-47"
+         rx="2"
+         ry="1.3636364"
+         transform="matrix(0,-1,-1,0,0,0)"
+         id="rect4823" />
+      <rect
+         style="fill:#1a1a1a;stroke:none;stroke-width:1.39572632"
+         width="54.545452"
+         height="40"
+         x="4.7272735"
+         y="9"
+         rx="2.7272727"
+         ry="2.8571429"
+         id="rect4827" />
+      <rect
+         style="fill:#1a1a1a;stroke:none;stroke-width:0.23145501;enable-background:new"
+         width="10"
+         height="6"
+         x="27"
+         y="46"
+         rx="0.50000006"
+         ry="0.42857143"
+         id="rect4827-2" />
+    </g>
+    <rect
+       id="rect4829"
+       y="6.6428576"
+       x="4.4090915"
+       height="15.714287"
+       width="23.181818"
+       style="opacity:1;fill:#3689e6;stroke-width:0.69786316" />
+  </g>
+</svg>

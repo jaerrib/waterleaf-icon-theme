@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   sodipodi:docname="crypto.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="/home/john/Github/gui-art/icons_debonaire/drafts/jb/crypto.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <style
+       id="current-color-scheme-6"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview4"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:zoom="16.6875"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-grids="true" />
+  <path
+     style="color:#5294e2;fill:#7e8087;stroke-width:1.31386864"
+     d="M 11.898168,1.7045372 2.8316498,4.2647599 c -0.123751,0.041245 -0.20665,0.6112147 -0.20665,0.7352111 0,3.0574965 0.8562018,6.594992 2.348962,9.70005 1.2108412,2.518589 3.3883755,5.877569 6.8853682,7.580258 0.0442,0.02062 0.09241,0.03222 0.140624,0.03222 0.04864,0 0.09676,-0.01108 0.141255,-0.03271 3.496186,-1.702305 5.67372,-5.061413 6.884697,-7.58013 C 20.519202,11.594593 21.375,8.0565803 21.375,4.9996001 c 0,-0.1239937 -0.08304,-0.6939649 -0.206248,-0.7352115 l -9.06692,-2.5602253 c -0.06659,-0.022218 -0.13745,-0.022218 -0.204026,0 z"
+     id="path4559"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#5c616c;opacity:1;fill:#f9c440;stroke-width:1.53092301"
+     d="M 12,5.8125 C 10.757054,5.8123016 9.7498095,6.8616026 9.75,8.15625 V 9.5625 h -1.5 v 5.625 h 7.5 V 9.5625 H 14.250732 V 8.15625 C 14.250923,6.8616026 13.242946,5.8123012 12,5.8125 Z m 0,1.5629884 c 0.414049,1.301e-4 0.749875,0.3494906 0.75,0.7807616 V 9.5625 h -1.5 V 8.15625 C 11.250125,7.724979 11.585952,7.3756192 12,7.3754884 Z M 12,10.5 c 0.46599,0 0.84375,0.387052 0.84375,0.864991 0,0.318205 -0.167294,0.596728 -0.416748,0.74707 l 0.361817,1.855956 C 12.819171,14.123675 12.717249,14.25 12.56543,14.25 h -1.130127 c -0.153898,0 -0.254913,-0.12409 -0.224121,-0.281983 l 0.361816,-1.855956 C 11.323544,11.96172 11.15625,11.683196 11.15625,11.364991 11.15625,10.887052 11.53401,10.5 12,10.5 Z"
+     id="path4526-9"
+     inkscape:connector-curvature="0" />
+</svg>

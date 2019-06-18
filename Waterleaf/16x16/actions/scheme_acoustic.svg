@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="scheme_acoustic.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="16.6875"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     showguides="false" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <style
+       id="style4492"
+       type="text/css">
+    .str0 {stroke:#4D4948;stroke-width:0.0123919}
+    .str1 {stroke:#838281;stroke-width:0.229479;stroke-linecap:round}
+    .fil2 {fill:none}
+    .fil0 {fill:#4D4948}
+    .fil1 {fill:white;fill-rule:nonzero}
+  </style>
+    <style
+       type="text/css"
+       id="style4492-1">
+    .str0 {stroke:#4D4948;stroke-width:0.221746}
+    .str1 {stroke:#00923F;stroke-width:0.887173}
+    .str2 {stroke:#E77817;stroke-width:0.887173;stroke-linecap:round}
+    .fil2 {fill:none}
+    .fil0 {fill:#4D4948}
+    .fil1 {fill:#B6DDC7}
+  </style>
+  </defs>
+  <g
+     id="g4605"
+     transform="scale(0.5)">
+    <g
+       transform="matrix(0.5,0,0,0.5,24.393641,-1.4409595)"
+       id="g4593">
+      <path
+         d="M -45.499903,6.8819186 V 56.881919 h 35.000001 V 6.8819186 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#444444;stroke-width:2.39108205;enable-background:new"
+         id="path8508-3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m -29.301603,12.66625 c 0.411864,-0.0419 0.87881,0 1.301701,0 6.766147,0 12.251298,5.485152 12.251298,12.251299 0,6.766147 -5.485151,12.251298 -12.251298,12.251298 -6.766147,0 -12.251299,-5.485151 -12.251299,-12.251298 0,-6.343232 4.771881,-11.624032 10.949721,-12.251299 z m 0.539057,8.649417 c -1.641674,0.343037 -2.842301,1.862198 -2.842301,3.601882 0,1.98177 1.617049,3.522248 3.598942,3.522248 1.98177,0 3.522248,-1.540478 3.522248,-3.522248 0,-1.98177 -1.540478,-3.598941 -3.522248,-3.598941 -0.247722,0 -0.531829,-0.04803 -0.765707,0 z"
+         inkscape:connector-curvature="0"
+         style="fill:#fafafa;stroke-width:2.45025969"
+         id="path8508"
+         sodipodi:nodetypes="csssscccsssscc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b3b3b3;stroke-width:2.45025969"
+         sodipodi:nodetypes="sssssss"
+         d="m -35.105778,39.539471 11.859257,-10.038224 c 1.053906,-0.89209 2.0517,-1.442541 2.430045,-1.064196 0.378345,0.378344 -0.171763,1.376311 -1.064221,2.430094 l -10.038224,11.859257 c -0.885549,1.046334 -2.457856,1.036435 -3.340684,0.153631 -0.882829,-0.882829 -0.892728,-2.45516 0.153631,-3.340684 z"
+         id="path8510" />
+    </g>
+    <g
+       id="layer1"
+       inkscape:label="Layer 1"
+       transform="matrix(0.08485394,0,0,0.08543506,0.10659323,-25.128839)">
+      <g
+         id="g3905"
+         transform="matrix(1.2164,0,0,1.2164,-77.557,229.4)">
+        <path
+           sodipodi:nodetypes="ccccccccccccccccscccc"
+           id="speaker"
+           style="fill:#d4d4d4"
+           inkscape:connector-curvature="0"
+           d="m 250.78801,170.7508 c 2.256,7.0542 3.4188,14.457 3.4341,21.863 0.0153,7.3918 -1.1124,14.785 -3.3307,21.836 l 14.76,18.532 c 6.0484,-12.536 9.2187,-26.45 9.198,-40.368 -0.0206,-13.899 -3.2231,-27.784 -9.2922,-40.288 l -14.769,18.425 m 42.304,-52.907 -13.488,16.921 c 10.299,17.418 15.841,37.618 15.873,57.853 0.0323,20.303 -5.4836,40.588 -15.793,58.079 l 13.569,16.937 c 14.83,-21.997 22.899,-48.487 22.851,-75.016 -0.0475,-26.465 -8.1714,-52.862 -23.012,-74.774 m 26.719,-33.358005 -13.182,16.518005 c 19.39,26.32 30.103,58.924 30.103,91.614 0,32.691 -10.713,65.295 -30.103,91.614 l 13.263,16.76 c 24.082,-30.603 37.506,-69.432 37.468,-108.37 -0.0382,-38.871 -13.488,-77.603 -37.548,-108.130005" />
+      </g>
+    </g>
+  </g>
+</svg>

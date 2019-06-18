@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="autodimm.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="33.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4512">
+      <stop
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0"
+         id="stop4508" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4510" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4512"
+       id="linearGradient4514"
+       x1="8.8181829"
+       y1="29.000002"
+       x2="55.18182"
+       y2="29.000002"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.5)" />
+  </defs>
+  <g
+     id="g4638"
+     transform="matrix(0.56833336,0,0,0.56833336,-1.0933336,-1.0933338)">
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="status"
+       id="layer9" />
+    <g
+       transform="matrix(0.5,0,0,0.5,18.579055,-171.40723)"
+       style="display:inline"
+       inkscape:label="places"
+       id="layer1" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="mimetypes"
+       id="layer14" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="emblems"
+       id="layer15" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="emotes"
+       id="g71291" />
+    <g
+       transform="matrix(0.5,0,0,0.5,18.579055,-96.40723)"
+       style="display:inline"
+       inkscape:label="categories"
+       id="layer2" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
+       style="display:inline"
+       inkscape:label="actions"
+       id="layer12" />
+    <rect
+       id="rect4823"
+       transform="matrix(0,-1,-1,0,0,0)"
+       ry="0.68181819"
+       rx="1"
+       y="-23.5"
+       x="-27.5"
+       height="15"
+       width="2"
+       style="fill:#d4d4d4;stroke-width:0.41286138" />
+    <rect
+       id="rect4827"
+       ry="1.4285715"
+       rx="1.3636364"
+       y="4.5"
+       x="2.3636367"
+       height="20"
+       width="27.272726"
+       style="fill:#d4d4d4;stroke:none;stroke-width:0.69786316" />
+    <rect
+       id="rect4827-2"
+       ry="0.21428572"
+       rx="0.25000003"
+       y="23"
+       x="13.5"
+       height="3"
+       width="5"
+       style="fill:#d4d4d4;stroke:none;stroke-width:0.11572751;enable-background:new" />
+    <rect
+       id="rect4829"
+       y="6.6428576"
+       x="4.4090915"
+       height="15.714287"
+       width="23.181818"
+       style="opacity:1;fill:url(#linearGradient4514);fill-opacity:1;stroke-width:0.69786316" />
+  </g>
+</svg>

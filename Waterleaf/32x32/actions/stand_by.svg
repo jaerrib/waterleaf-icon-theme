@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="32"
+   width="32"
+   version="1.1"
+   sodipodi:docname="stand_by.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="16.6875"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4875">
+      <stop
+         style="stop-color:#0d52bf;stop-opacity:1"
+         offset="0"
+         id="stop4871" />
+      <stop
+         style="stop-color:#64baff;stop-opacity:1"
+         offset="1"
+         id="stop4873" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4875"
+       id="linearGradient4877"
+       x1="61.95013"
+       y1="7.9531507"
+       x2="62"
+       y2="56.547825"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.5)" />
+  </defs>
+  <g
+     id="layer9"
+     inkscape:label="status"
+     style="display:inline"
+     transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)" />
+  <g
+     id="layer1"
+     inkscape:label="places"
+     style="display:inline"
+     transform="matrix(0.5,0,0,0.5,18.579055,-171.40723)" />
+  <g
+     id="layer14"
+     inkscape:label="mimetypes"
+     style="display:inline"
+     transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)" />
+  <g
+     id="layer15"
+     inkscape:label="emblems"
+     style="display:inline"
+     transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)" />
+  <g
+     id="g71291"
+     inkscape:label="emotes"
+     style="display:inline"
+     transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)" />
+  <g
+     id="layer2"
+     inkscape:label="categories"
+     style="display:inline"
+     transform="matrix(0.5,0,0,0.5,18.579055,-96.40723)" />
+  <g
+     id="layer12"
+     inkscape:label="actions"
+     style="display:inline"
+     transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="path2986"
+     d="M 23.595327,3.5000004 C 26.720063,16.775373 13.790948,25.215225 1.0000003,18.346081 3.5148999,29.869142 19.629614,31.37088 27.328465,23.936655 33.445597,17.242395 31.728629,8.1469645 23.595327,3.5000004 Z"
+     style="fill:url(#linearGradient4877);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#0e141f;stroke-width:1.00010931;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     d="M 2.0071767,7.9976375 H 5.992823 L 2.0071767,13.996388 H 5.992823"
+     id="path4937"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:none;stroke:#0e141f;stroke-width:0.9575814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;enable-background:new"
+     d="M 9.4820525,13.478839 H 12.510832 L 9.4820525,18.021161 H 12.510832"
+     id="path4937-2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+</svg>

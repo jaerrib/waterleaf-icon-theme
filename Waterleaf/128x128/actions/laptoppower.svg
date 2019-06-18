@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="128"
+   width="128"
+   version="1.1"
+   sodipodi:docname="laptoppower.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4.171875"
+     inkscape:cx="87.250338"
+     inkscape:cy="66.239788"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4598"
+       x="-0.0163125"
+       width="1.032625"
+       y="-0.0094909091"
+       height="1.0189818">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2175"
+         id="feGaussianBlur4600" />
+    </filter>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 25.600001,5.4999998 v 3.9285715 h -9.6 v 3.9285717 43.214286 c 0,2.176428 1.4272,3.928571 3.2,3.928571 h 25.6 c 1.7728,0 3.2,-1.752143 3.2,-3.928571 V 13.357143 9.4285713 H 38.4 V 5.4999998 Z"
+     style="opacity:0.2;fill:#000000;stroke-width:3.54562116;filter:url(#filter4598);enable-background:new"
+     id="path6763-67"
+     sodipodi:nodetypes="ccccssssccccc"
+     transform="scale(2)" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 51.2,8.9999998 V 16.857143 H 32 v 7.857143 86.428574 C 32,115.49571 34.8544,119 38.4,119 h 51.2 c 3.5456,0 6.4,-3.50429 6.4,-7.85714 V 24.714286 16.857143 H 76.8 V 8.9999998 Z"
+     style="opacity:1;fill:#f9c440;stroke-width:7.09124231"
+     id="path6763"
+     sodipodi:nodetypes="ccccssssccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 32,48.285714 V 111.14286 C 32,115.49571 34.8544,119 38.4,119 h 51.2 c 3.5456,0 6.4,-3.50429 6.4,-7.85714 V 48.285714 Z"
+     style="fill:#0e141f;stroke-width:7.09124231"
+     id="path6765"
+     sodipodi:nodetypes="csssscc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 64,40.164912 V 63.73634 H 83.2 L 64,103.02205 V 79.450626 H 44.8 Z"
+     style="opacity:1;fill:#fafafa;stroke-width:7.09124231;enable-background:new"
+     id="path6763-3"
+     sodipodi:nodetypes="ccccccc" />
+</svg>
