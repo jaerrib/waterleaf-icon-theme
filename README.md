@@ -14,7 +14,7 @@ Waterleaf is based primarily on Paper icons by Sam Hewitt. It also mixes applica
 - Mixed styles *(Example: Shadows differ between Paper, Deepin & Papirus; original icons closer to Elementary shadow style)*
 - Mixed formats *(Mix of png and svg)*
 - Mixed color pallets *(Paper, Elementary & Material design coloration)*
-- Incomplete for TDE *(Falls back to hicolor in comes cases (Example: devices & some control panel settings)*
+- Incomplete for TDE *(Falls back to hicolor in some cases (Example: devices & some control panel settings)*
 - Sizing variations & fractional pixels lead to blurriness for screen rendering
 - Mixed index.theme structure
 - Icon locations don't always adhere to freedesktop standards
@@ -27,4 +27,4 @@ Waterleaf is based primarily on Paper icons by Sam Hewitt. It also mixes applica
 - Replace all png files with svg variations
 - Fill in icon gaps in TDE
 - Add additional icons as needed
-- Address structure issues *(Possibly use Breeze-icon-set as an example)*
+- Address structure issues *(Possibly use Breeze-icon-theme as an example)*
