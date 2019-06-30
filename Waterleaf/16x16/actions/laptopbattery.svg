@@ -33,9 +33,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="33.375"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="21.458333"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,28 +56,24 @@
      id="title8473">Paper Symbolic Icon Theme</title>
   <defs
      id="defs7386" />
-  <g
-     id="g4635"
-     transform="scale(0.66666667)">
-    <path
-       sodipodi:nodetypes="ccccssssccccc"
-       id="path6763"
-       style="opacity:1;fill:#f9c440;stroke-width:1.32960796"
-       d="m 3.975,1.6875 v 1.4732143 h -3.6 V 4.6339286 20.839285 c 0,0.816162 0.5352,1.473215 1.2,1.473215 h 9.6 c 0.6648,0 1.2,-0.657053 1.2,-1.473215 V 4.6339286 3.1607143 h -3.6 V 1.6875 Z"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="csssscc"
-       id="path6765"
-       style="fill:#0e141f;stroke-width:1.32960796"
-       d="M 0.375,9.0535718 V 20.839285 c 0,0.816162 0.5352,1.473215 1.2,1.473215 h 9.6 c 0.6648,0 1.2,-0.657053 1.2,-1.473215 V 9.0535718 Z"
-       inkscape:connector-curvature="0" />
-    <rect
-       ry="0.71182519"
-       y="1.873893"
-       x="13.686393"
-       height="20.252214"
-       width="9.7522154"
-       id="rect4515"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.37278515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="M 2.65,0.99999996 V 1.9821428 H 0.25 V 2.9642857 13.767857 C 0.25,14.311964 0.60679999,14.75 1.05,14.75 h 6.3999999 c 0.4432,0 0.8,-0.438036 0.8,-0.982143 V 2.9642857 1.9821428 h -2.4 V 0.99999996 Z"
+     style="opacity:1;fill:#f9ce1d;stroke-width:0.88640529"
+     id="path6763"
+     sodipodi:nodetypes="ccccssssccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 0.25,5.9107143 V 13.767857 C 0.25,14.311964 0.60679999,14.75 1.05,14.75 h 6.3999999 c 0.4432,0 0.8,-0.438036 0.8,-0.982143 V 5.9107143 Z"
+     style="fill:#263238;stroke-width:0.88640529"
+     id="path6765"
+     sodipodi:nodetypes="csssscc" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24995908;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4515"
+     width="6.5000405"
+     height="13.500041"
+     x="9.12498"
+     y="1.1249795"
+     ry="0.4744997" />
 </svg>
