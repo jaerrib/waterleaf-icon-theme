@@ -33,9 +33,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="16.6875"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:zoom="32.1875"
+     inkscape:cx="8"
+     inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,22 +56,26 @@
      id="title8473">Paper Symbolic Icon Theme</title>
   <defs
      id="defs7386" />
+  <g
+     id="g4497"
+     transform="matrix(0.25,0,0,0.25,3.7500003,-0.1250005)">
+    <path
+       sodipodi:nodetypes="ccccssssccccc"
+       id="path6763"
+       style="opacity:1;fill:#f9ce1d;stroke-width:3.54562116"
+       d="M 10.6,4.4999999 V 8.4285714 H 1 V 12.357143 55.571429 C 1,57.747857 2.4272,59.5 4.2,59.5 h 25.6 c 1.7728,0 3.2,-1.752143 3.2,-3.928571 V 12.357143 8.4285714 H 23.4 V 4.4999999 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="csssscc"
+       id="path6765"
+       style="fill:#263238;stroke-width:3.54562116"
+       d="M 1,24.142857 V 55.571429 C 1,57.747857 2.4272,59.5 4.2,59.5 h 25.6 c 1.7728,0 3.2,-1.752143 3.2,-3.928571 V 24.142857 Z"
+       inkscape:connector-curvature="0" />
+  </g>
   <path
      inkscape:connector-curvature="0"
-     d="M 6.4,1.125 V 2.1071428 H 4 V 3.0892858 13.892857 C 4,14.436965 4.3568,14.875 4.8,14.875 h 6.4 c 0.4432,0 0.8,-0.438035 0.8,-0.982143 V 3.0892858 2.1071428 H 9.6 V 1.125 Z"
-     style="opacity:1;fill:#f9c440;stroke-width:0.88640529"
-     id="path6763"
-     sodipodi:nodetypes="ccccssssccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     d="M 4,6.0357145 V 13.892857 C 4,14.436965 4.3568,14.875 4.8,14.875 h 6.4 c 0.4432,0 0.8,-0.438035 0.8,-0.982143 V 6.0357145 Z"
-     style="fill:#0e141f;stroke-width:0.88640529"
-     id="path6765"
-     sodipodi:nodetypes="csssscc" />
-  <path
-     inkscape:connector-curvature="0"
-     d="m 8,5.020614 v 2.9464285 h 2.4 L 8,12.877757 V 9.931328 H 5.6 Z"
-     style="opacity:1;fill:#fafafa;stroke-width:0.88640529;enable-background:new"
+     d="M 8.0000007,3.75 V 6.84375 H 10.500001 L 8.0000007,12 V 8.90625 H 5.5000005 Z"
+     style="opacity:1;fill:#fafafa;stroke-width:0.9270249;enable-background:new"
      id="path6763-3"
      sodipodi:nodetypes="ccccccc" />
 </svg>
