@@ -2,7 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -26,19 +25,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
      id="namedview11"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="4.234375"
-     inkscape:cx="64"
+     inkscape:zoom="4.0234375"
+     inkscape:cx="21.126214"
      inkscape:cy="64"
-     inkscape:window-x="-3"
-     inkscape:window-y="-4"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384" />
   <metadata
@@ -57,30 +56,6 @@
      id="title8473">Paper Symbolic Icon Theme</title>
   <defs
      id="defs7386">
-    <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554-0">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556-9" />
-    </filter>
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">
@@ -202,7 +177,7 @@
        style="fill:#1a1a1a;stroke:none;stroke-width:0.23145501;enable-background:new" />
   </g>
   <rect
-     style="opacity:1;fill:#3689e6;stroke-width:2.79145265"
+     style="opacity:1;fill:#2196f3;stroke-width:2.79145265"
      width="92.727272"
      height="62.857147"
      x="17.636366"
