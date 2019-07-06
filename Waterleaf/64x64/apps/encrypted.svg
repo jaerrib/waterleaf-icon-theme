@@ -14,7 +14,7 @@
    width="64"
    height="64"
    viewBox="0 0 64 64"
-   sodipodi:docname="crypto.svg"
+   sodipodi:docname="encrypted.svg"
    inkscape:version="0.92.1 r15371"
    inkscape:export-filename="/home/john/Github/gui-art/icons_debonaire/drafts/jb/crypto.png"
    inkscape:export-xdpi="384"
@@ -88,9 +88,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="true"
-     inkscape:zoom="5.8999222"
-     inkscape:cx="3.9033385"
-     inkscape:cy="32.49188"
+     inkscape:zoom="8.046875"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -102,7 +102,7 @@
      id="path4559-5"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#5294e2;fill:#7e8087;stroke-width:3.50364971"
+     style="color:#5294e2;fill:#78909c;stroke-width:3.50364971;fill-opacity:1"
      d="M 31.728447,4.5454324 7.5510661,11.372693 c -0.3300025,0.109987 -0.5510666,1.629906 -0.5510666,1.960563 0,8.153324 2.2832048,17.586646 6.2638985,25.866801 3.22891,6.716237 9.035668,15.673515 18.360981,20.214022 0.117854,0.055 0.24643,0.08592 0.374998,0.08592 0.129714,0 0.258037,-0.02957 0.376678,-0.08725 C 41.699721,54.87327 47.506478,45.915649 50.73575,39.199068 54.717873,30.918913 57,21.484215 57,13.332267 57,13.001617 56.778571,11.481694 56.450006,11.371703 L 32.271553,4.5444355 c -0.177571,-0.059248 -0.366533,-0.059248 -0.54407,0 z"
      id="path4559"
      inkscape:connector-curvature="0" />
@@ -112,7 +112,7 @@
      id="path4526-9-2"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#5c616c;opacity:1;fill:#f9c440;stroke-width:4.08246136"
+     style="color:#5c616c;opacity:1;fill:#f9ce1d;stroke-width:4.08246136;fill-opacity:1"
      d="m 32,15.5 c -3.314524,-5.29e-4 -6.000508,2.797607 -6,6.25 v 3.75 h -4 v 15 h 20 v -15 H 38.001953 V 21.75 C 38.002461,18.297607 35.314523,15.49947 32,15.5 Z m 0,4.167969 c 1.10413,3.47e-4 1.999666,0.931974 2,2.082031 v 3.75 h -4 v -3.75 c 3.34e-4,-1.150055 0.895871,-2.081682 2,-2.082031 z M 32,28 c 1.24264,0 2.25,1.032138 2.25,2.306641 0,0.84855 -0.446116,1.591278 -1.111328,1.992188 l 0.964844,4.949218 C 34.184456,37.663132 33.912665,38 33.507813,38 h -3.013672 c -0.410394,0 -0.679766,-0.330905 -0.597656,-0.751953 l 0.964844,-4.949218 C 30.196116,31.897919 29.75,31.155191 29.75,30.306641 29.75,29.032138 30.757359,28 32,28 Z"
      id="path4526-9"
      inkscape:connector-curvature="0" />

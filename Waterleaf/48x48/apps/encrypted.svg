@@ -14,7 +14,7 @@
    width="48"
    height="48"
    viewBox="0 0 48 48"
-   sodipodi:docname="crypto.svg"
+   sodipodi:docname="encrypted.svg"
    inkscape:version="0.92.1 r15371"
    inkscape:export-filename="/home/john/Github/gui-art/icons_debonaire/drafts/jb/crypto.png"
    inkscape:export-xdpi="384"
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,7 +89,7 @@
      fit-margin-bottom="0"
      showguides="true"
      inkscape:zoom="11.125"
-     inkscape:cx="24"
+     inkscape:cx="8.494382"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -103,7 +103,7 @@
      inkscape:connector-curvature="0"
      transform="scale(0.75)" />
   <path
-     style="color:#5294e2;fill:#7e8087;stroke-width:2.62773728"
+     style="color:#5294e2;fill:#78909c;stroke-width:2.62773728;fill-opacity:1"
      d="M 23.796335,3.4090743 5.6632996,8.5295198 c -0.2475019,0.08249 -0.4133,1.2224294 -0.4133,1.4704222 0,6.114993 1.7124036,13.189984 4.6979239,19.400101 2.4216825,5.037178 6.7767505,11.755136 13.7707355,15.160516 0.08839,0.04125 0.184823,0.06444 0.281249,0.06444 0.09728,0 0.193527,-0.02218 0.282508,-0.06544 C 31.274791,41.154952 35.629858,34.436737 38.051813,29.399301 41.038405,23.189185 42.75,16.113161 42.75,9.9992003 42.75,9.7512128 42.583928,8.6112705 42.337505,8.5287773 L 24.203665,3.4083266 c -0.133179,-0.044436 -0.2749,-0.044436 -0.408053,0 z"
      id="path4559"
      inkscape:connector-curvature="0" />
@@ -114,7 +114,7 @@
      inkscape:connector-curvature="0"
      transform="scale(0.75)" />
   <path
-     style="color:#5c616c;opacity:1;fill:#f9c440;stroke-width:3.06184602"
+     style="color:#5c616c;opacity:1;fill:#f9ce1d;stroke-width:3.06184602;fill-opacity:1"
      d="m 24,11.625 c -2.485893,-3.97e-4 -4.500381,2.098205 -4.5,4.6875 v 2.8125 h -3 v 11.25 h 15 V 19.125 H 28.501465 V 16.3125 C 28.501846,13.723205 26.485892,11.624603 24,11.625 Z m 0,3.125977 c 0.828097,2.6e-4 1.499749,0.69898 1.5,1.561523 v 2.8125 h -3 v -2.8125 c 2.5e-4,-0.862541 0.671903,-1.561262 1.5,-1.561523 z M 24,21 c 0.93198,0 1.6875,0.774103 1.6875,1.729981 0,0.636412 -0.334587,1.193458 -0.833496,1.494141 l 0.723633,3.711913 C 25.638342,28.247349 25.434499,28.5 25.13086,28.5 h -2.260254 c -0.307796,0 -0.509825,-0.248179 -0.448242,-0.563965 l 0.723633,-3.711913 C 22.647087,23.923439 22.3125,23.366393 22.3125,22.729981 22.3125,21.774103 23.068019,21 24,21 Z"
      id="path4526-9"
      inkscape:connector-curvature="0" />

@@ -14,7 +14,7 @@
    width="128"
    height="128"
    viewBox="0 0 128 128"
-   sodipodi:docname="crypto.svg"
+   sodipodi:docname="encrypted.svg"
    inkscape:version="0.92.1 r15371"
    inkscape:export-filename="/home/john/Github/gui-art/icons_debonaire/drafts/jb/crypto.png"
    inkscape:export-xdpi="384"
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,7 +88,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="true"
-     inkscape:zoom="4.171875"
+     inkscape:zoom="4.0234375"
      inkscape:cx="64"
      inkscape:cy="64"
      inkscape:window-x="0"
@@ -103,7 +103,7 @@
      inkscape:connector-curvature="0"
      transform="scale(2)" />
   <path
-     style="color:#5294e2;fill:#7e8087;stroke-width:7.00729942"
+     style="color:#5294e2;fill:#78909c;stroke-width:7.00729942;fill-opacity:1"
      d="M 63.456894,9.0908648 15.102132,22.745386 c -0.660005,0.219974 -1.102133,3.259812 -1.102133,3.921126 0,16.306648 4.56641,35.173292 12.527797,51.733602 6.45782,13.432474 18.071336,31.347026 36.721962,40.428046 0.235708,0.11 0.49286,0.17184 0.749996,0.17184 0.259428,0 0.516074,-0.0591 0.753356,-0.1745 C 83.399442,109.74654 95.012956,91.831298 101.4715,78.398136 109.43575,61.837826 114,42.96843 114,26.664534 c 0,-0.6613 -0.44286,-3.701146 -1.09999,-3.921128 L 64.543106,9.088871 c -0.355142,-0.118496 -0.733066,-0.118496 -1.08814,0 z"
      id="path4559"
      inkscape:connector-curvature="0" />
@@ -114,7 +114,7 @@
      inkscape:connector-curvature="0"
      transform="scale(2)" />
   <path
-     style="color:#5c616c;opacity:1;fill:#f9c440;stroke-width:8.16492271"
+     style="color:#5c616c;opacity:1;fill:#f9ce1d;stroke-width:8.16492271;fill-opacity:1"
      d="M 64,31 C 57.370952,30.9989 51.998984,36.595214 52,43.5 V 51 H 44 V 81 H 84 V 51 H 76.003906 V 43.5 C 76.004922,36.595214 70.629046,30.99894 64,31 Z m 0,8.335938 c 2.20826,6.94e-4 3.999332,1.863948 4,4.164062 V 51 h -8 v -7.5 c 6.68e-4,-2.30011 1.791742,-4.163364 4,-4.164062 z M 64,56 c 2.48528,0 4.5,2.064276 4.5,4.613282 0,1.6971 -0.892232,3.182556 -2.222656,3.984376 l 1.929688,9.898436 C 68.368912,75.326264 67.82533,76 67.015626,76 H 60.988282 C 60.167494,76 59.62875,75.33819 59.79297,74.496094 l 1.929688,-9.898436 C 60.392232,63.795838 59.5,62.310382 59.5,60.613282 59.5,58.064276 61.514718,56 64,56 Z"
      id="path4526-9"
      inkscape:connector-curvature="0" />
