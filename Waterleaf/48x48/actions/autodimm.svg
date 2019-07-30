@@ -16,7 +16,7 @@
    width="48"
    version="1.1"
    sodipodi:docname="autodimm.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,7 +35,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="11.125"
-     inkscape:cx="24"
+     inkscape:cx="8.494382"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -168,7 +168,7 @@
      transform="matrix(0.75,0,0,0.75,-152.88157,205.63916)" />
   <g
      id="g4770"
-     style="fill:#d4d4d4"
+     style="fill:#78909c;fill-opacity:1"
      transform="scale(0.75)">
     <rect
        id="rect4823"
@@ -179,7 +179,7 @@
        x="-55"
        height="30"
        width="4"
-       style="fill:#d4d4d4;stroke-width:0.82572275" />
+       style="fill:#78909c;stroke-width:0.82572275;fill-opacity:1" />
     <rect
        id="rect4827"
        ry="2.8571429"
@@ -188,7 +188,7 @@
        x="4.7272735"
        height="40"
        width="54.545452"
-       style="fill:#d4d4d4;stroke:none;stroke-width:1.39572632" />
+       style="fill:#78909c;stroke:none;stroke-width:1.39572632;fill-opacity:1" />
     <rect
        id="rect4827-2"
        ry="0.42857143"
@@ -197,7 +197,7 @@
        x="27"
        height="6"
        width="10"
-       style="fill:#d4d4d4;stroke:none;stroke-width:0.23145501;enable-background:new" />
+       style="fill:#78909c;stroke:none;stroke-width:0.23145501;enable-background:new;fill-opacity:1" />
   </g>
   <rect
      style="opacity:1;fill:url(#linearGradient4514);fill-opacity:1;stroke-width:1.04679477"
