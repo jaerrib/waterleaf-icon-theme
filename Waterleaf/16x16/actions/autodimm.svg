@@ -16,7 +16,7 @@
    width="16"
    version="1.1"
    sodipodi:docname="autodimm.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,7 +35,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="33.375"
-     inkscape:cx="8"
+     inkscape:cx="2.8314607"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -83,80 +83,80 @@
        x2="55.18182"
        y2="29.000002"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.5)" />
+       gradientTransform="matrix(0.28416668,0,0,0.28416668,-1.0933336,-1.0933338)" />
   </defs>
   <g
-     id="g4638"
-     transform="matrix(0.56833336,0,0,0.56833336,-1.0933336,-1.0933338)">
-    <g
-       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
-       style="display:inline"
-       inkscape:label="status"
-       id="layer9" />
-    <g
-       transform="matrix(0.5,0,0,0.5,18.579055,-171.40723)"
-       style="display:inline"
-       inkscape:label="places"
-       id="layer1" />
-    <g
-       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
-       style="display:inline"
-       inkscape:label="mimetypes"
-       id="layer14" />
-    <g
-       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
-       style="display:inline"
-       inkscape:label="emblems"
-       id="layer15" />
-    <g
-       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
-       style="display:inline"
-       inkscape:label="emotes"
-       id="g71291" />
-    <g
-       transform="matrix(0.5,0,0,0.5,18.579055,-96.40723)"
-       style="display:inline"
-       inkscape:label="categories"
-       id="layer2" />
-    <g
-       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
-       style="display:inline"
-       inkscape:label="actions"
-       id="layer12" />
+     id="layer9"
+     inkscape:label="status"
+     style="display:inline"
+     transform="matrix(0.28416668,0,0,0.28416668,-59.018466,76.821061)" />
+  <g
+     id="layer1"
+     inkscape:label="places"
+     style="display:inline"
+     transform="matrix(0.28416668,0,0,0.28416668,9.4657632,-98.509781)" />
+  <g
+     id="layer14"
+     inkscape:label="mimetypes"
+     style="display:inline"
+     transform="matrix(0.28416668,0,0,0.28416668,-59.018466,76.821061)" />
+  <g
+     id="layer15"
+     inkscape:label="emblems"
+     style="display:inline"
+     transform="matrix(0.28416668,0,0,0.28416668,-59.018466,76.821061)" />
+  <g
+     id="g71291"
+     inkscape:label="emotes"
+     style="display:inline"
+     transform="matrix(0.28416668,0,0,0.28416668,-59.018466,76.821061)" />
+  <g
+     id="layer2"
+     inkscape:label="categories"
+     style="display:inline"
+     transform="matrix(0.28416668,0,0,0.28416668,9.4657632,-55.884779)" />
+  <g
+     id="layer12"
+     inkscape:label="actions"
+     style="display:inline"
+     transform="matrix(0.28416668,0,0,0.28416668,-59.018466,76.821061)" />
+  <g
+     id="g843"
+     style="fill:#78909c;fill-opacity:1;stroke:none">
     <rect
        id="rect4823"
        transform="matrix(0,-1,-1,0,0,0)"
-       ry="0.68181819"
-       rx="1"
-       y="-23.5"
-       x="-27.5"
-       height="15"
-       width="2"
-       style="fill:#d4d4d4;stroke-width:0.41286138" />
+       ry="0.38750002"
+       rx="0.56833339"
+       y="-12.262501"
+       x="-14.535833"
+       height="8.5250006"
+       width="1.1366668"
+       style="fill:#78909c;stroke-width:0.23464289;fill-opacity:1;stroke:none" />
     <rect
        id="rect4827"
-       ry="1.4285715"
-       rx="1.3636364"
-       y="4.5"
-       x="2.3636367"
-       height="20"
-       width="27.272726"
-       style="fill:#d4d4d4;stroke:none;stroke-width:0.69786316" />
+       ry="0.81190485"
+       rx="0.77500004"
+       y="1.4641663"
+       x="0.25"
+       height="11.366667"
+       width="15.5"
+       style="fill:#78909c;stroke:none;stroke-width:0.3966189;fill-opacity:1" />
     <rect
        id="rect4827-2"
-       ry="0.21428572"
-       rx="0.25000003"
-       y="23"
-       x="13.5"
-       height="3"
-       width="5"
-       style="fill:#d4d4d4;stroke:none;stroke-width:0.11572751;enable-background:new" />
-    <rect
-       id="rect4829"
-       y="6.6428576"
-       x="4.4090915"
-       height="15.714287"
-       width="23.181818"
-       style="opacity:1;fill:url(#linearGradient4514);fill-opacity:1;stroke-width:0.69786316" />
+       ry="0.12178572"
+       rx="0.14208336"
+       y="11.978333"
+       x="6.5791669"
+       height="1.705"
+       width="2.8416667"
+       style="fill:#78909c;stroke:none;stroke-width:0.0657718;enable-background:new;fill-opacity:1" />
   </g>
+  <rect
+     style="opacity:1;fill:url(#linearGradient4514);fill-opacity:1;stroke-width:0.3966189"
+     width="13.175"
+     height="8.930953"
+     x="1.4125001"
+     y="2.6820238"
+     id="rect4829" />
 </svg>

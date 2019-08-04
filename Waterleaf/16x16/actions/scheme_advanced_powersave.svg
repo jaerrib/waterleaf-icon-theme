@@ -15,7 +15,7 @@
    width="16"
    version="1.1"
    sodipodi:docname="scheme_advanced_powersave.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -33,7 +33,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="33.375"
+     inkscape:zoom="32.1875"
      inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-x="0"
@@ -56,31 +56,27 @@
      id="title8473">Paper Symbolic Icon Theme</title>
   <defs
      id="defs7386" />
-  <g
-     id="g4528"
-     transform="scale(0.25)">
-    <path
-       sodipodi:nodetypes="ccccssssccccc"
-       id="path6763-36"
-       style="opacity:1;fill:#68b723;stroke-width:3.54562116;enable-background:new"
-       d="m 12.6,4.4999999 v 3.928572 H 3 V 12.357143 55.571429 C 3,57.747857 4.4272,59.5 6.2,59.5 h 25.6 c 1.7728,0 3.2,-1.752143 3.2,-3.928571 V 12.357143 8.4285719 h -9.6 v -3.928572 z"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="csssscc"
-       id="path6765-75"
-       style="fill:#0e141f;stroke-width:3.54562116;enable-background:new"
-       d="M 3,24.142857 V 55.571429 C 3,57.747857 4.4272,59.5 6.2,59.5 h 25.6 c 1.7728,0 3.2,-1.752143 3.2,-3.928571 V 24.142857 Z"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccccc"
-       id="path6763-3"
-       style="opacity:1;fill:#f9c440;stroke-width:3.54562116;enable-background:new"
-       d="M 19,20.082456 V 31.86817 h 9.6 L 19,51.511027 V 39.725313 H 9.4 Z"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="M 2.65,1 V 1.9821433 H 0.25 V 2.964285 13.767857 C 0.25,14.311963 0.6068,14.75 1.05,14.75 h 6.4 c 0.4432,0 0.8,-0.438037 0.8,-0.982143 V 2.964285 1.9821433 H 5.85 V 1 Z"
+     style="opacity:1;fill:#8bc34a;stroke-width:0.88640529"
+     id="path6763"
+     sodipodi:nodetypes="ccccssssccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 0.25,5.910715 v 7.857142 C 0.25,14.311963 0.6068,14.75 1.05,14.75 h 6.4 c 0.4432,0 0.8,-0.438037 0.8,-0.982143 V 5.910715 Z"
+     style="fill:#263238;stroke-width:0.88640529"
+     id="path6765"
+     sodipodi:nodetypes="csssscc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 4.25,3.75 v 3.09375 h 2.5 L 4.25,12 V 8.90625 h -2.5 z"
+     style="opacity:1;fill:#f9ce1d;stroke-width:0.9270249;enable-background:new"
+     id="path6763-3-3"
+     sodipodi:nodetypes="ccccccc" />
   <path
      id="rect213-3"
-     style="opacity:1;fill:#206b00;fill-opacity:1;stroke:none;stroke-width:0.26699439;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="opacity:1;fill:#1b5e20;fill-opacity:1;stroke:none;stroke-width:0.26699439;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      d="m 15.75,8.75 v 2 h -10 v -2 z m -6,-4 h 2 v 10 h -2 z"
      inkscape:connector-curvature="0" />
 </svg>
