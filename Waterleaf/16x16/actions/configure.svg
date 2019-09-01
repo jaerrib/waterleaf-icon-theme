@@ -15,7 +15,7 @@
    width="16"
    version="1.1"
    sodipodi:docname="configure.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,21 +25,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
      id="namedview11"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="33.875"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="-3"
-     inkscape:window-y="-4"
+     inkscape:zoom="21.458333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
+     inkscape:current-layer="svg7384"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4507"
+       originx="0"
+       originy="-2.3841858e-06" />
+  </sodipodi:namedview>
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -55,53 +62,25 @@
   <title
      id="title8473">Paper Symbolic Icon Theme</title>
   <defs
-     id="defs7386">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 32 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="64 : 32 : 1"
-       inkscape:persp3d-origin="32 : 21.333333 : 1"
-       id="perspective4495" />
-    <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554-9">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556-1" />
-    </filter>
-  </defs>
-  <g
-     id="g4498"
-     transform="matrix(1.2401865,0,0,1.2398065,-1.9212898,-1.9186458)">
-    <rect
-       transform="scale(-1,1)"
-       x="-20.732206"
-       y="11.042024"
-       width="2.4177492"
-       height="0"
-       ry="0"
-       style="fill:#427bc3;stroke-width:0.42372054"
-       id="rect3465" />
-    <path
-       inkscape:connector-curvature="0"
-       id="rect2422"
-       sodipodi:nodetypes="csccccccccssccsccssc"
-       style="fill:#abacae;stroke:#abacae;stroke-width:0.24355069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4.309553,1.8710801 c 0.6783552,0.00579 1.3496487,0.2688478 1.8693195,0.7819071 0.7830372,0.77317 0.9670613,1.8931978 0.5840583,2.8457448 0.029494,0.023092 0.076435,0.049838 0.1038512,0.076869 l 1.6744942,1.6538102 c 0.3742795,0.3691725 0.3742795,0.9762561 0,1.3458383 L 8.3854997,8.729072 c -0.373863,0.3691723 -0.9886625,0.3691723 -1.362941,0 L 5.3351862,7.0751797 C 5.3077695,7.0485173 5.2936457,7.0021655 5.2699677,6.972632 4.305399,7.3512387 3.1713452,7.1691135 2.388308,6.3959027 2.2823799,6.291714 2.1847599,6.1789113 2.1025097,6.062827 2.0750931,6.023859 2.0497534,5.987352 2.0248291,5.9471533 1.7128606,5.298148 1.8769451,5.3367883 2.556962,5.5115297 c 0.6879097,0 1.2462132,-0.5512974 1.2462132,-1.2305745 0,-0.6792769 -0.5583035,-1.2305744 -1.2462132,-1.2305744 -0.4154043,0 0.2467502,-0.7788306 0.7527127,-0.9870028 0.024093,-0.00926 0.041125,-0.02994 0.065218,-0.038476 0.00872,-0.00262 0.017033,0.00253 0.025755,0 C 3.6922614,1.925012 4.0042299,1.8684755 4.309553,1.8710801 Z" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path2432"
-       style="fill:#cc3b02;stroke:#cc3b02;stroke-width:0.24355069;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 13.859586,11.644358 c 0.357298,0.352814 0.357231,0.935698 6.4e-5,1.288385 l -0.943671,0.931828 c -0.357169,0.352686 -0.94746,0.35275 -1.304757,-6.4e-5 L 6.4920192,8.8095452 c -0.3571687,-0.3526865 -0.3571687,-0.9356342 0,-1.2883207 l 0.94367,-0.9318285 c 0.3571688,-0.3526865 0.9475248,-0.3526865 1.3046936,0 z" />
-  </g>
+     id="defs7386" />
+  <rect
+     id="rect3465"
+     style="fill:#427bc3;stroke-width:0.52949053"
+     ry="0"
+     height="0"
+     width="3.0212729"
+     y="11.728849"
+     x="-23.970585"
+     transform="scale(-1,1)" />
+  <path
+     d="m 3.4520108,0.41870375 c 0.8478176,0.007263 1.6868095,0.33590707 2.3363011,0.97693915 0.9786507,0.9660223 1.2086473,2.36542 0.7299646,3.5555614 0.03686,0.028854 0.09553,0.062272 0.1297945,0.096043 l 2.0928053,2.0663214 c 0.4677802,0.4612549 0.4677802,1.2197637 0,1.6815309 L 8.5461849,8.9872892 c -0.4672593,0.4612555 -1.2356426,0.4612555 -1.7034214,0 L 4.7338617,6.9208653 C 4.6996,6.8875461 4.6819459,6.8296392 4.6523507,6.7927397 3.4468191,7.2657828 2.0294631,7.03823 1.0508124,6.0721562 0.91842185,5.9419795 0.79641506,5.8010412 0.69361768,5.6560017 0.659352,5.6073138 0.6276822,5.5617003 0.59653146,5.5114747 0.20662893,4.7005883 0.411704,4.7488661 1.2615984,4.9671945 c 0.8597591,0 1.5575347,-0.688808 1.5575347,-1.5375183 0,-0.8487094 -0.6977756,-1.5375182 -1.5575347,-1.5375182 -0.51917792,0 0.3083917,-0.97309479 0.9407509,-1.23319143 0.03011,-0.0115713 0.051398,-0.0374047 0.081511,-0.0480681 0.010901,-0.003219 0.021289,0.003219 0.03219,0 C 2.6805127,0.48609235 3.0704152,0.41545438 3.452011,0.41870789 Z"
+     style="fill:#b3b3b3;stroke:#808080;stroke-width:0.31240553;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="csccccccccssccsccssc"
+     id="rect2422"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 15.259451,12.4766 c 0.446556,0.440817 0.446473,1.16909 8e-5,1.609747 l -1.179413,1.164256 c -0.446396,0.440657 -1.18415,0.440736 -1.630706,-7.9e-5 L 6.0513566,8.9346978 c -0.4463957,-0.4406571 -0.4463957,-1.1690103 0,-1.609668 L 7.2307693,6.160776 c 0.4463954,-0.4406574 1.1842306,-0.4406574 1.6306253,0 z"
+     style="fill:#d84315;stroke:#bf360c;stroke-width:0.31240553;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path2432"
+     inkscape:connector-curvature="0" />
 </svg>

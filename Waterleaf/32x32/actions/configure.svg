@@ -15,7 +15,7 @@
    width="32"
    version="1.1"
    sodipodi:docname="configure.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,21 +25,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
      id="namedview11"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="8.46875"
-     inkscape:cx="-0.40638332"
-     inkscape:cy="12.58267"
-     inkscape:window-x="-3"
-     inkscape:window-y="-4"
+     inkscape:zoom="16.09375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
+     inkscape:current-layer="svg7384"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4507"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -55,54 +62,25 @@
   <title
      id="title8473">Paper Symbolic Icon Theme</title>
   <defs
-     id="defs7386">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 32 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="64 : 32 : 1"
-       inkscape:persp3d-origin="32 : 21.333333 : 1"
-       id="perspective4495" />
-    <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554-9">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556-1" />
-    </filter>
-  </defs>
-  <g
-     id="g4498"
-     style="stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="matrix(1.0073949,0,0,1.0073949,-0.11827722,-0.11854945)">
-    <rect
-       transform="scale(-1,1)"
-       x="-41.464413"
-       y="22.084047"
-       width="4.8354983"
-       height="0"
-       ry="0"
-       style="fill:#427bc3;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect3465" />
-    <path
-       inkscape:connector-curvature="0"
-       id="rect2422"
-       sodipodi:nodetypes="csccccccccssccsccssc"
-       style="fill:#abacae;stroke:#7e8087;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 8.619106,3.7421603 c 1.3567105,0.011582 2.699298,0.5376954 3.738639,1.5638142 1.566075,1.54634 1.934123,3.7863955 1.168117,5.6914895 0.05899,0.04618 0.152869,0.09968 0.207702,0.153739 l 3.348988,3.30762 c 0.748559,0.738346 0.748559,1.952512 0,2.691677 l -0.311553,0.307644 c -0.747726,0.738344 -1.977325,0.738344 -2.725882,0 L 10.670372,14.15036 C 10.615542,14.09704 10.587292,14.004331 10.539935,13.945264 8.610798,14.702478 6.3426905,14.338227 4.776616,12.791806 4.5647597,12.583428 4.3695197,12.357823 4.2050195,12.125654 4.1501862,12.047718 4.0995067,11.974704 4.0496582,11.894307 3.4257212,10.596296 3.7538902,10.673577 5.113924,11.02306 c 1.3758195,0 2.4924265,-1.1025955 2.4924265,-2.4611495 0,-1.358554 -1.116607,-2.461149 -2.4924265,-2.461149 -0.8308085,0 0.4935005,-1.557661 1.5054255,-1.9740055 0.048185,-0.018525 0.08225,-0.05988 0.130437,-0.076952 0.017445,-0.00523 0.034065,0.00506 0.051511,0 0.583227,-0.1997797 1.207164,-0.312853 1.8178085,-0.3076437 z" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path2432"
-       style="fill:#cc3b02;stroke:#a62100;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 27.719172,23.288717 c 0.714595,0.705627 0.714463,1.871395 1.28e-4,2.576768 l -1.887342,1.863657 c -0.714338,0.705373 -1.89492,0.7055 -2.609515,-1.27e-4 L 12.984039,17.61909 c -0.714338,-0.705373 -0.714338,-1.871268 0,-2.576641 l 1.88734,-1.863657 c 0.714337,-0.705373 1.895049,-0.705373 2.609386,0 z" />
-  </g>
+     id="defs7386" />
+  <rect
+     id="rect3465"
+     style="fill:#427bc3;stroke-width:0.85538477"
+     ry="0"
+     height="0"
+     width="4.8808255"
+     y="22.023907"
+     x="-41.820282"
+     transform="scale(-1,1)" />
+  <path
+     d="m 8.6728052,3.7525185 c 1.3696378,0.011688 2.7250178,0.5426525 3.7742628,1.5782316 1.580997,1.5605959 1.952553,3.8213035 1.179248,5.7439609 0.05954,0.04661 0.154326,0.100594 0.209681,0.155157 l 3.380899,3.338114 c 0.755692,0.745151 0.755692,1.970512 0,2.716491 l -0.314521,0.31048 c -0.754851,0.745152 -1.996165,0.745152 -2.751855,0 l -3.406902,-3.33828 c -0.05535,-0.05382 -0.08387,-0.147375 -0.13168,-0.206986 C 8.664418,14.813882 6.3746986,14.446274 4.7937016,12.885594 4.5798266,12.675296 4.3827262,12.447611 4.2166584,12.213302 4.1613027,12.134647 4.1101405,12.06096 4.0598169,11.979821 3.4299346,10.669845 3.7612307,10.747837 5.1342236,11.100543 c 1.3889292,0 2.5161761,-1.1127602 2.5161761,-2.4838391 0,-1.3710788 -1.1272469,-2.4838398 -2.5161761,-2.4838398 -0.838725,0 0.4982027,-1.5720219 1.5197703,-1.992204 0.048642,-0.018694 0.083034,-0.060431 0.13168,-0.077661 0.017611,-0.00525 0.034392,0.00515 0.052003,0 C 7.4264614,3.8613764 8.0563436,3.7472617 8.6728066,3.7525185 Z"
+     style="fill:#b3b3b3;stroke:#808080;stroke-width:0.50468689;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="csccccccccssccsccssc"
+     id="rect2422"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 27.747566,23.231887 c 0.721405,0.712134 0.72127,1.88865 1.29e-4,2.600525 l -1.905327,1.880839 c -0.721146,0.711877 -1.912978,0.712004 -2.634382,-1.27e-4 L 12.872013,17.509992 c -0.721146,-0.711875 -0.721146,-1.888521 0,-2.600396 l 1.905326,-1.880838 c 0.721145,-0.711876 1.913108,-0.711876 2.634253,0 z"
+     style="fill:#d84315;stroke:#bf360c;stroke-width:0.50468689;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path2432"
+     inkscape:connector-curvature="0" />
 </svg>
