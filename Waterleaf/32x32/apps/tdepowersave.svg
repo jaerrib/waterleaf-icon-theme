@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
-   height="48"
+   height="32"
    version="1"
    id="svg14"
    sodipodi:docname="tdepowersave.svg"
@@ -59,22 +59,22 @@
      inkscape:window-height="695"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="16.09375"
+     inkscape:zoom="10.729167"
      inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <path
      inkscape:connector-curvature="0"
-     d="m 4.3999995,16.499999 v 1.607144 H 0.5 V 19.714285 37.39286 C 0.5,38.283213 1.0798,39 1.8,39 h 10.4 c 0.7202,0 1.3,-0.716787 1.3,-1.60714 V 19.714285 18.107143 H 9.6 v -1.607144 z"
+     d="M 4.3999995,0.499999 V 2.107143 H 0.5 V 3.714285 21.39286 C 0.5,22.283213 1.0798,23 1.8,23 h 10.4 c 0.7202,0 1.3,-0.716787 1.3,-1.60714 V 3.714285 2.107143 H 9.6 V 0.499999 Z"
      style="opacity:1;fill:#f9ce1d;stroke-width:1.44543612"
      id="path6763"
      sodipodi:nodetypes="ccccssssccccc" />
   <path
      inkscape:connector-curvature="0"
-     d="M 0.49999993,24.535713 V 37.39286 C 0.49999993,38.283213 1.0797999,39 1.7999999,39 H 12.2 c 0.7202,0 1.3,-0.716787 1.3,-1.60714 V 24.535713 Z"
+     d="M 0.49999993,8.535713 V 21.39286 C 0.49999993,22.283213 1.0797999,23 1.7999999,23 H 12.2 c 0.7202,0 1.3,-0.716787 1.3,-1.60714 V 8.535713 Z"
      style="fill:#263238;stroke-width:1.44543612"
      id="path6765"
      sodipodi:nodetypes="csssscc" />
@@ -82,42 +82,42 @@
      id="layer9"
      inkscape:label="status"
      style="display:inline"
-     transform="matrix(0.5,0,0,0.5,-138.7747,156.13182)" />
+     transform="matrix(0.5,0,0,0.5,-138.7747,140.13182)" />
   <g
      id="layer1"
      inkscape:label="places"
      style="display:inline"
-     transform="matrix(0.5,0,0,0.5,-18.274603,-152.36818)" />
+     transform="matrix(0.5,0,0,0.5,-18.274603,-168.36818)" />
   <g
      id="layer14"
      inkscape:label="mimetypes"
      style="display:inline"
-     transform="matrix(0.5,0,0,0.5,-138.7747,156.13182)" />
+     transform="matrix(0.5,0,0,0.5,-138.7747,140.13182)" />
   <g
      id="layer15"
      inkscape:label="emblems"
      style="display:inline"
-     transform="matrix(0.5,0,0,0.5,-138.7747,156.13182)" />
+     transform="matrix(0.5,0,0,0.5,-138.7747,140.13182)" />
   <g
      id="g71291"
      inkscape:label="emotes"
      style="display:inline"
-     transform="matrix(0.5,0,0,0.5,-138.7747,156.13182)" />
+     transform="matrix(0.5,0,0,0.5,-138.7747,140.13182)" />
   <g
      id="layer2"
      inkscape:label="categories"
      style="display:inline"
-     transform="matrix(0.5,0,0,0.5,-18.274603,-77.36818)" />
+     transform="matrix(0.5,0,0,0.5,-18.274603,-93.36818)" />
   <g
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="matrix(0.5,0,0,0.5,-138.7747,156.13182)" />
+     transform="matrix(0.5,0,0,0.5,-138.7747,140.13182)" />
   <rect
      style="fill:#1a1a1a;stroke-width:0.38793102"
      width="2.7155173"
      height="22.5"
-     x="-46.5"
+     x="-30.5"
      y="-31.5"
      rx="0.96982759"
      ry="0.96982759"
@@ -132,13 +132,13 @@
      rx="1.9396552"
      ry="1.9396552"
      id="rect4707-6"
-     transform="matrix(0.5,0,0,0.5,0,16)" />
+     transform="scale(0.5)" />
   <rect
      style="fill:#1a1a1a;stroke-width:0.38793102"
      width="20.172413"
      height="15.517241"
      x="10.16379"
-     y="28.655172"
+     y="12.655172"
      rx="0.96982759"
      ry="0.96982759"
      id="rect4707" />
@@ -147,11 +147,11 @@
      width="17.068966"
      height="12.413793"
      x="11.715514"
-     y="30.206894"
+     y="14.206894"
      id="rect4709" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:0.2;fill:#808080;stroke-width:0.38793102"
-     d="m 11.133618,28.655172 c -0.537285,0 -0.969827,0.432543 -0.969827,0.969828 v 0.387933 c 0,-0.537286 0.432542,-0.96983 0.969827,-0.96983 h 18.232759 c 0.535346,0 0.969828,0.432544 0.969828,0.96983 V 29.625 c 0,-0.537285 -0.434482,-0.969828 -0.969828,-0.969828 z"
+     d="m 11.133618,12.655172 c -0.537285,0 -0.969827,0.432543 -0.969827,0.969828 v 0.387933 c 0,-0.537286 0.432542,-0.96983 0.969827,-0.96983 h 18.232759 c 0.535346,0 0.969828,0.432544 0.969828,0.96983 V 13.625 c 0,-0.537285 -0.434482,-0.969828 -0.969828,-0.969828 z"
      id="path4711" />
 </svg>
