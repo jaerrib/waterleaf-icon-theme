@@ -15,7 +15,7 @@
    width="128"
    version="1.1"
    sodipodi:docname="suspend_to_ram.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -33,7 +33,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="4.171875"
+     inkscape:zoom="4.0234375"
      inkscape:cx="64"
      inkscape:cy="64"
      inkscape:window-x="0"
@@ -110,13 +110,13 @@
      class="fil0 str0"
      transform="scale(2)" />
   <path
-     style="clip-rule:evenodd;opacity:1;fill:#0e141f;fill-rule:evenodd;stroke:#000000;stroke-width:0.296233;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;opacity:1;fill:#1a1a1a;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:0.296;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0"
      id="_89705936"
      d="m 47.254444,14.267448 60.474546,60.47783 c 3.02816,3.028426 3.02816,7.967896 0,10.996324 L 85.738344,107.73425 c -3.028152,3.02842 -7.96819,3.02944 -10.996342,10e-4 L 14.269651,47.255232 c -3.028152,-3.028428 -3.028152,-7.967898 0,-10.996324 L 36.260304,14.266262 c 3.028152,-3.028426 7.965992,-3.027243 10.99414,0.0012 z"
      class="fil0 str0" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_89838728"
      y2="14.266433"
      class="fil2 str1"
@@ -124,7 +124,7 @@
      y1="19.764595"
      x1="52.75312" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_90529672"
      y2="19.768991"
      class="fil2 str1"
@@ -132,7 +132,7 @@
      y1="25.267155"
      x1="58.25518" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_88873184"
      y2="30.760242"
      class="fil2 str1"
@@ -140,7 +140,7 @@
      y1="36.258404"
      x1="69.245438" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_89047400"
      y2="25.266308"
      class="fil2 str1"
@@ -148,7 +148,7 @@
      y1="30.764471"
      x1="63.751999" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_48795480"
      y2="36.262627"
      class="fil2 str1"
@@ -156,7 +156,7 @@
      y1="41.760792"
      x1="74.747322" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_87697416"
      y2="41.761639"
      class="fil2 str1"
@@ -164,7 +164,7 @@
      y1="47.2598"
      x1="80.245834" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_87460568"
      y2="8.7704678"
      class="fil2 str1"
@@ -172,7 +172,7 @@
      y1="14.268631"
      x1="47.257652" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_88111800"
      y2="47.309662"
      class="fil2 str1"
@@ -180,7 +180,7 @@
      y1="52.807827"
      x1="85.793358" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_89779384"
      y2="52.81205"
      class="fil2 str1"
@@ -188,7 +188,7 @@
      y1="58.310215"
      x1="91.295242" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_91195720"
      y2="58.253586"
      class="fil2 str1"
@@ -196,7 +196,7 @@
      y1="63.751751"
      x1="96.73629" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_89709768"
      y2="63.750904"
      class="fil2 str1"
@@ -204,7 +204,7 @@
      y1="69.249069"
      x1="102.23311" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_48343384"
      y2="69.249908"
      class="fil2 str1"
@@ -212,7 +212,7 @@
      y1="74.74807"
      x1="107.73161" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_88726520"
      y2="52.749168"
      class="fil2 str1"
@@ -220,7 +220,7 @@
      y1="58.246487"
      x1="14.265934" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_89863896"
      y2="58.251724"
      class="fil2 str1"
@@ -228,7 +228,7 @@
      y1="63.749039"
      x1="19.76799" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_89052328"
      y2="69.243996"
      class="fil2 str1"
@@ -236,7 +236,7 @@
      y1="74.74131"
      x1="30.759262" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_90525016"
      y2="63.750057"
      class="fil2 str1"
@@ -244,7 +244,7 @@
      y1="69.247375"
      x1="25.265823" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_88786464"
      y2="74.746376"
      class="fil2 str1"
@@ -252,7 +252,7 @@
      y1="80.24369"
      x1="36.261147" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_48928224"
      y2="80.243698"
      class="fil2 str1"
@@ -260,7 +260,7 @@
      y1="85.741013"
      x1="41.757969" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_90405880"
      y2="47.253204"
      class="fil2 str1"
@@ -268,7 +268,7 @@
      y1="52.750519"
      x1="8.7704678" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_88963376"
      y2="85.793411"
      class="fil2 str1"
@@ -276,7 +276,7 @@
      y1="91.290733"
      x1="47.307186" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_90071336"
      y2="91.295799"
      class="fil2 str1"
@@ -284,7 +284,7 @@
      y1="96.793121"
      x1="52.809074" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_87188792"
      y2="96.737335"
      class="fil2 str1"
@@ -292,7 +292,7 @@
      y1="102.23465"
      x1="58.250111" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_89604440"
      y2="102.23465"
      class="fil2 str1"
@@ -300,7 +300,7 @@
      y1="107.73196"
      x1="63.746929" />
   <line
-     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#555761;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:5.48578072;stroke-linecap:round;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="_89011904"
      y2="107.73196"
      class="fil2 str1"
@@ -328,19 +328,19 @@
   <g
      id="g4785"
      transform="matrix(2,0,0,2,-8,4)"
-     style="fill:#3689e6">
+     style="fill:#2196f3">
     <rect
        y="23"
        x="37.5"
        height="20"
        width="20"
        id="rect4765"
-       style="opacity:1;fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:3.30910492;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:3.30910492;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path4771"
        d="M 30,42 47.500001,57 65,42 Z"
-       style="fill:#3689e6;stroke:none;stroke-width:1.54764998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#2196f3;stroke:none;stroke-width:1.54764998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    height="48"
    viewBox="0 0 48 48"
    sodipodi:docname="tdenetworkmanager_disabled.svg"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="/home/john/Nextcloud/Q4OS Stuff/tdevelop.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,8 +69,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
      id="namedview4"
      showgrid="false"
      fit-margin-top="0"
@@ -78,11 +78,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="true"
-     inkscape:zoom="11.291667"
-     inkscape:cx="8.7232477"
-     inkscape:cy="23.158672"
-     inkscape:window-x="-3"
-     inkscape:window-y="-4"
+     inkscape:zoom="10.729167"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-grids="true" />
@@ -115,7 +115,7 @@
      transform="scale(0.75)" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#fafafa;stroke-width:2.01580119"
+     style="opacity:1;fill:#ffffff;stroke-width:2.01580119"
      class="ColorScheme-Text"
      d="m 24.236243,7.876671 a 16.127434,16.12538 0 0 0 -11.638845,4.724234 16.127434,16.12538 0 0 0 0,22.802297 16.127434,16.12538 0 0 0 22.805203,0 16.127434,16.12538 0 0 0 0,-22.802297 16.127434,16.12538 0 0 0 -11.166358,-4.724234 z m -0.440985,2.015673 a 14.111507,14.10971 0 0 1 9.433918,3.456564 l -2.830961,2.830603 A 16.126408,10.079005 44.991678 0 0 19.464159,10.652158 14.111507,14.10971 0 0 1 23.795258,9.892344 Z m -6.102911,2.633761 a 14.110607,8.0632035 44.992816 0 1 11.276605,5.082484 l -4.968951,4.96832 -9.174053,-9.172884 a 14.110607,8.0632035 44.992816 0 1 2.866399,-0.87792 z m 16.973967,2.236136 a 14.111507,14.10971 0 0 1 2.693158,13.727833 16.126408,10.079005 44.991678 0 0 -5.543807,-10.877547 z m -21.269628,0.063 9.17799,9.176822 -4.972889,4.972255 A 14.110607,8.0632035 44.992816 0 1 13.396686,14.825234 Z m 17.001529,4.204564 a 14.110607,8.0632035 44.992816 0 1 4.205102,14.149077 l -9.177991,-9.17682 z m -19.757684,0.484236 a 16.126408,10.079005 44.991678 0 0 5.543807,10.877545 l -2.85065,2.850287 A 14.111507,14.10971 0 0 1 10.640531,19.514041 Z m 13.35947,5.913163 9.174054,9.172886 A 14.110607,8.0632035 44.992816 0 1 19.031051,30.39552 Z m -6.398214,6.397399 a 16.126408,10.079005 44.991678 0 0 10.934057,5.527354 14.111507,14.10971 0 0 1 -13.76502,-2.696752 z"
      id="path5" />
