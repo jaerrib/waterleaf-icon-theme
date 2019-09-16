@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="48"
+   width="48"
+   version="1.1"
+   sodipodi:docname="amarok_editcopy.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="10.729167"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid817" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 8.7692308,4 C 8.7692308,4 6,4 6,6.8 V 32 c 0,0 0,2.8 2.7692308,2.8 H 11.538462 V 9.6 H 33.692308 V 6.8 C 33.692308,4 30.923077,4 30.923077,4 Z m 8.3076922,8.4 c 0,0 -2.769231,0 -2.769231,2.8 v 28 c 0,2.8 2.769231,2.8 2.769231,2.8 H 39.230769 C 39.230769,46 42,46 42,43.19188 v -27.9916 c 0,-2.8 -2.769231,-2.8 -2.769231,-2.8 z M 19.846154,18 H 36.461538 V 40.4 H 19.846154 Z"
+     style="color:#000000;fill:#555555;stroke-width:2.78457284;enable-background:new"
+     id="rect5195" />
+</svg>
