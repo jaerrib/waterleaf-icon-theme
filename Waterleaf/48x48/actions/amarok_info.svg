@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      id="namedview9"
      showgrid="true"
      inkscape:zoom="10.729167"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="23.999999"
+     inkscape:cy="23.999999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,10 +58,14 @@
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
   </defs>
+  <g
+     id="g5648"
+     inkscape:label="dialog-error"
+     style="color:#555555;display:inline;visibility:visible;fill:#555555;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new;fill-opacity:1"
+     transform="matrix(2.8571429,0,0,2.8571429,-131.14249,-1477.8668)" />
   <path
-     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:2.85714293"
-     class="ColorScheme-Text"
-     d="M 21.142857,5 V 8.1026771 A 17.142857,17.142857 0 0 0 14.083705,11.043526 L 11.879464,8.8392857 7.8392857,12.879463 10.037946,15.078126 A 17.142857,17.142857 0 0 0 7.1138394,22.142857 H 4 v 5.714286 h 3.1026786 a 17.142857,17.142857 0 0 0 2.9408484,7.059151 l -2.2042413,2.204243 4.0401783,4.040177 2.198661,-2.19866 a 17.142857,17.142857 0 0 0 7.064732,2.924106 V 45 h 5.714286 v -3.10268 a 17.142857,17.142857 0 0 0 7.059151,-2.940846 l 2.204243,2.20424 4.040177,-4.040177 -2.19866,-2.198663 A 17.142857,17.142857 0 0 0 40.88616,27.857143 H 44 v -5.714286 h -3.10268 a 17.142857,17.142857 0 0 0 -2.940846,-7.059151 l 2.20424,-2.204243 -4.040177,-4.0401773 -2.198663,2.1986603 A 17.142857,17.142857 0 0 0 26.857143,8.11384 V 5 Z M 18.285714,19.285714 29.714286,25 18.285714,30.714286 Z"
-     id="path5"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     d="M 24,5 C 12.9542,5 4,13.954629 4,25 4,36.0458 12.9542,45 24,45 35.0458,45 44,36.0458 44,25 44,13.954629 35.0458,5 24,5 Z m 0,7.857143 c 1.972457,0 3.571429,1.598971 3.571429,3.571428 C 27.571429,18.401029 25.972457,20 24,20 c -1.972457,0 -3.571429,-1.598971 -3.571429,-3.571429 0,-1.972457 1.598972,-3.571428 3.571429,-3.571428 z m -2.857143,9.285714 H 24 26.857143 v 14.285714 h -5.714286 z"
+     id="path5652"
+     style="display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2.85714269;enable-background:new" />
 </svg>
