@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg7"
-   sodipodi:docname="amarok_lyrics.svg"
+   sodipodi:docname="amarok_visualizations.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata11">
@@ -39,16 +39,16 @@
      inkscape:window-height="695"
      id="namedview9"
      showgrid="true"
-     inkscape:zoom="10.729167"
-     inkscape:cx="7.9223296"
-     inkscape:cy="23.999999"
+     inkscape:zoom="21.458333"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7">
     <inkscape:grid
        type="xygrid"
-       id="grid818" />
+       id="grid816" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -58,33 +58,10 @@
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
   </defs>
-  <g
-     id="g839"
-     transform="matrix(0.5,0,0,0.5,0,-0.5)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path828"
-       d="m 4,5 v 6 H 44 V 5 Z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:2.92770004" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path824"
-       d="m 20,16 v 6 h 23.999999 v -6 z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:3" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path822"
-       d="m 44,27.999997 -24,0.01167 V 34 l 24,-0.01167 z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:2.997082" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path5"
-       d="m 4,39 v 6 h 40 v -6 z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:2.92770028" />
-    <path
-       id="path824-3"
-       d="M 4,16.6 V 33.4 L 18,25 Z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:2.80000019"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:1.46385014"
+     class="ColorScheme-Text"
+     d="M 3.4285714,4 C 2,4 2,5.5000002 2,5.5000002 V 20.499999 C 2,22 3.4285714,22 3.4285714,22 H 20.571428 C 20.571428,22 22,22 22,20.499999 V 5.5000002 C 22,4 20.571428,4 20.571428,4 Z m 5.0000006,6.84375 4.732143,5.625 3.035713,-3.09375 2.946429,3.09375 V 19 H 4.857143 v -3.75 z"
+     id="path5"
+     inkscape:connector-curvature="0" />
 </svg>

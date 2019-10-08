@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg7"
-   sodipodi:docname="amarok_lyrics.svg"
+   sodipodi:docname="amarok_love.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata11">
@@ -40,8 +40,8 @@
      id="namedview9"
      showgrid="true"
      inkscape:zoom="10.729167"
-     inkscape:cx="7.9223296"
-     inkscape:cy="23.999999"
+     inkscape:cx="-8.1553388"
+     inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,33 +58,10 @@
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
   </defs>
-  <g
-     id="g839"
-     transform="matrix(0.5,0,0,0.5,0,-0.5)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path828"
-       d="m 4,5 v 6 H 44 V 5 Z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:2.92770004" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path824"
-       d="m 20,16 v 6 h 23.999999 v -6 z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:3" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path822"
-       d="m 44,27.999997 -24,0.01167 V 34 l 24,-0.01167 z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:2.997082" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path5"
-       d="m 4,39 v 6 h 40 v -6 z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:2.92770028" />
-    <path
-       id="path824-3"
-       d="M 4,16.6 V 33.4 L 18,25 Z"
-       style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:2.80000019"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:1.57142854"
+     class="ColorScheme-Text"
+     d="M 5.7142857,1 C 3.1107429,1 1,3.4624286 1,6.5 1,13.833386 8.857143,19.333386 12,23 15.142857,19.333386 23,13.833386 23,6.5 23,3.4624286 20.889257,1 18.285714,1 13.571429,1 12,4.1428571 12,4.1428571 12,4.1428571 10.428571,1 5.7142857,1 Z"
+     id="path5"
+     inkscape:connector-curvature="0" />
 </svg>
