@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg7"
-   sodipodi:docname="amarok_change_language.svg"
+   sodipodi:docname="amarok__add_lyrics.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata11">
@@ -59,9 +59,38 @@
   </style>
   </defs>
   <path
-     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:0.93541437"
-     class="ColorScheme-Text"
-     d="M 2,1 V 15 H 4 V 7.125 h 3 l 1,1.75 h 6 V 2.75 H 10 L 9,1 H 4 Z"
+     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:0.99999994"
+     d="M 1,1 V 3 H 15 V 1 Z"
+     id="path828"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:0.93541431"
+     d="m 8,5 v 2 h 7 V 5 Z"
+     id="path824"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:0.93450421"
+     d="M 15,9 8,9.00389 V 11 l 7,-0.0039 z"
+     id="path822"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:1.00000012"
+     d="m 1,13 v 2 h 14 v -2 z"
      id="path5"
      inkscape:connector-curvature="0" />
+  <g
+     style="enable-background:new"
+     id="g848"
+     transform="matrix(0.6,0,0,0.6,-0.8,3.2)">
+    <g
+       transform="translate(-281.00061,-129.00002)"
+       inkscape:label="actions"
+       id="layer12">
+      <path
+         id="rect31992"
+         d="m 288.00061,132.00002 v 4 h -4 v 2 h 4 v 4 h 2 v -4 h 4 v -2 h -4 v -4 z"
+         inkscape:connector-curvature="0"
+         style="color:#555555;fill:#555555" />
+    </g>
+  </g>
 </svg>

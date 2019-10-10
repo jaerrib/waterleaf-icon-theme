@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg7"
-   sodipodi:docname="amarok_change_language.svg"
+   sodipodi:docname="amarok_love.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata11">
@@ -39,9 +39,9 @@
      inkscape:window-height="695"
      id="namedview9"
      showgrid="true"
-     inkscape:zoom="32.1875"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="10.729167"
+     inkscape:cx="-8.1553388"
+     inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,9 +59,9 @@
   </style>
   </defs>
   <path
-     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:0.93541437"
+     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:1.07142854"
      class="ColorScheme-Text"
-     d="M 2,1 V 15 H 4 V 7.125 h 3 l 1,1.75 h 6 V 2.75 H 10 L 9,1 H 4 Z"
+     d="M 3.7142857,0.5 C 1.9391429,0.5 0.5,2.1789286 0.5,4.25 0.5,9.2500357 5.8571429,13.000036 8,15.5 10.142857,13.000036 15.5,9.2500357 15.5,4.25 15.5,2.1789286 14.060857,0.5 12.285714,0.5 9.071429,0.5 8,2.6428571 8,2.6428571 8,2.6428571 6.9285714,0.5 3.7142857,0.5 Z"
      id="path5"
      inkscape:connector-curvature="0" />
 </svg>

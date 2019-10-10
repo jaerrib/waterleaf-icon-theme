@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg7"
-   sodipodi:docname="amarok_change_language.svg"
+   sodipodi:docname="amarok_podcast2.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata11">
@@ -59,9 +59,8 @@
   </style>
   </defs>
   <path
-     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:0.93541437"
-     class="ColorScheme-Text"
-     d="M 2,1 V 15 H 4 V 7.125 h 3 l 1,1.75 h 6 V 2.75 H 10 L 9,1 H 4 Z"
-     id="path5"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     id="path5-3"
+     style="color:#5c616c;opacity:1;fill:#d50000;fill-opacity:1;stroke-width:0.95629561"
+     d="M 2.999066,11.000363 C 1.894619,11.000363 1,11.895748 1,13.000182 1,14.102388 1.894581,15 2.999066,15 4.103551,15 5,14.102396 5,13.000182 5,11.895681 4.103551,11.000364 2.999066,11.000363 Z M 1,5.3595037 v 2.1826805 c 4.117974,0 7.456118,3.3359818 7.456118,7.4519588 h 2.181945 C 10.638063,9.6745694 6.322343,5.3595037 1,5.3595037 Z M 1,1 v 2.1807275 c 6.527311,0 11.820008,5.2871472 11.820008,11.8134155 H 15 C 15,7.2647354 8.731473,1.0010654 1,1 Z" />
 </svg>

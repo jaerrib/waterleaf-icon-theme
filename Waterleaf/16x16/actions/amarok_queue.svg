@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg7"
-   sodipodi:docname="amarok_change_language.svg"
+   sodipodi:docname="amarok_queue.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata11">
@@ -59,9 +59,9 @@
   </style>
   </defs>
   <path
-     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:0.93541437"
+     style="color:#5c616c;opacity:1;fill:#555555;fill-opacity:1;stroke-width:0.93333334"
      class="ColorScheme-Text"
-     d="M 2,1 V 15 H 4 V 7.125 h 3 l 1,1.75 h 6 V 2.75 H 10 L 9,1 H 4 Z"
+     d="M 1,1 V 2.8666666 H 14.066667 V 1 Z M 8.466667,4.7333335 V 6.6 v 5.6 1.866667 h 4.666666 V 15 H 15 V 13.133333 H 14.066667 V 12.2 6.6 4.7333335 Z M 1,4.7369734 V 6.60364 H 6.6 V 4.7369734 Z M 10.333333,6.6 H 12.2 v 5.6 H 10.333333 Z M 1,8.4703121 V 10.336979 H 6.6 V 8.4703121 Z M 1,12.2 v 1.866667 H 6.6 V 12.2 Z"
      id="path5"
      inkscape:connector-curvature="0" />
 </svg>

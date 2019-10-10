@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="amarok_clock.svg"
+   sodipodi:docname="amarok_refresh.svg"
    inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -21,13 +21,13 @@
    width="16">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="false"
+     inkscape:bbox-paths="true"
      bordercolor="#666666"
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="8.8062574"
-     inkscape:cy="14.884499"
+     inkscape:cx="-33.298104"
+     inkscape:cy="18.835711"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -40,15 +40,15 @@
      inkscape:pageshadow="2"
      showborder="true"
      showgrid="false"
-     showguides="false"
+     showguides="true"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
      inkscape:snap-center="false"
      inkscape:snap-global="true"
      inkscape:snap-grids="true"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
@@ -61,7 +61,8 @@
      inkscape:window-width="1362"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="21.458334">
+     inkscape:zoom="5.3645833"
+     inkscape:pagecheckerboard="false">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -71,8 +72,8 @@
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-284"
-       originy="-192"
+       originx="-184.00227"
+       originy="-256.01646"
        snapvisiblegridlinesonly="true"
        spacingx="0.25"
        spacingy="0.25"
@@ -88,24 +89,7 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Paper Symbolic Icon Theme</dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
     </rdf:RDF>
   </metadata>
   <title
@@ -128,59 +112,59 @@
      id="layer9"
      inkscape:label="status"
      style="display:inline"
-     transform="translate(-525.0002,-25.000003)" />
+     transform="translate(-425.00247,39.016457)" />
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="devices"
      style="display:inline;filter:url(#filter7554)"
-     transform="translate(-525.0002,-25.000003)" />
+     transform="translate(-425.00247,39.016457)" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="places"
      style="display:inline"
-     transform="translate(-284,-642)" />
+     transform="translate(-184.00227,-577.98354)" />
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="mimetypes"
      style="display:inline"
-     transform="translate(-525.0002,-25.000003)" />
+     transform="translate(-425.00247,39.016457)" />
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="emblems"
      style="display:inline"
-     transform="translate(-525.0002,-25.000003)" />
+     transform="translate(-425.00247,39.016457)" />
   <g
      inkscape:groupmode="layer"
      id="g71291"
      inkscape:label="emotes"
      style="display:inline"
-     transform="translate(-525.0002,-25.000003)" />
+     transform="translate(-425.00247,39.016457)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="categories"
      style="display:inline"
-     transform="translate(-284,-492)" />
+     transform="translate(-184.00227,-427.98354)" />
+  <g
+     inkscape:groupmode="layer"
+     id="g6058"
+     inkscape:label="apps"
+     style="display:inline"
+     transform="translate(-184.00227,-427.98354)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="translate(-525.0002,-25.000003)">
+     transform="translate(-425.00247,39.016457)">
     <path
        inkscape:connector-curvature="0"
-       d="m 533.0002,25.400002 a 7.6000008,7.6000008 0 0 0 -7.6,7.600001 7.6000008,7.6000008 0 0 0 7.6,7.600001 7.6000008,7.6000008 0 0 0 7.6,-7.600001 7.6000008,7.6000008 0 0 0 -7.6,-7.600001 z m 0,2.171429 a 5.428572,5.428572 0 0 1 5.42857,5.428572 5.428572,5.428572 0 0 1 -5.42857,5.428572 5.428572,5.428572 0 0 1 -5.42857,-5.428572 5.428572,5.428572 0 0 1 5.42857,-5.428572 z"
-       id="path7722-2"
-       style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:4.34285784;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 536.20243,30.007312 c -0.13948,0.0368 -0.26736,0.116125 -0.36176,0.224551 l -3.12017,3.098808 -2.39667,-2.380244 c -0.22744,-0.369313 -0.82226,-0.44081 -1.1305,-0.134659 -0.30823,0.306123 -0.23624,0.896869 0.13559,1.122756 l 2.89409,2.874256 c 0.26553,0.24963 0.72931,0.24963 0.99482,0 l 3.61761,-3.592819 c 0.4238,-0.428911 -0.0358,-1.309426 -0.63309,-1.212577 z"
-       id="path7715-3"
-       sodipodi:nodetypes="ccccccccccc"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.88415265;marker:none;enable-background:accumulate" />
+       d="m 440.5024,-31.016397 h -1.87499 c 0,-2.762458 -1.74878,-5.083718 -4.13085,-5.78135 -0.0296,-0.009 -0.0582,-0.02301 -0.0878,-0.0312 -0.23923,-0.0655 -0.48201,-0.0934 -0.73242,-0.125001 -0.2187,-0.02761 -0.44818,-0.06251 -0.67383,-0.06251 -0.57777,6.36e-4 -1.15207,0.0951 -1.69921,0.281253 v 0.0312 c -0.78899,0.267064 -1.51276,0.694333 -2.10937,1.281273 l 1.11328,1.593777 c 0.47062,-0.513249 1.08571,-0.846384 1.7578,-1.031267 v -0.03121 c 0.35637,-0.0893 0.74027,-0.121722 1.11328,-0.0937 0.17044,0.0128 0.32746,0.0286 0.49805,0.0625 1.75037,0.337815 3.07616,1.941843 3.07616,3.906319 h -1.87499 l 2.81249,4.00007 2.81249,-4.00007 z m -3.69139,4.406327 -1.11328,-1.593776 c -0.47062,0.513248 -1.08571,0.846385 -1.75781,1.031268 v 0.03119 c -0.35636,0.0893 -0.74026,0.121723 -1.11327,0.0937 -0.17044,-0.0128 -0.32746,-0.0286 -0.49805,-0.06251 -1.75037,-0.337816 -3.07616,-1.941844 -3.07616,-3.906319 h 1.87499 l -2.81249,-4.000069 -2.81249,4.000069 h 1.875 c 0,2.762458 1.74877,5.083719 4.13084,5.781351 0.0302,0.009 0.0575,0.0229 0.0878,0.0312 0.23924,0.0655 0.48201,0.0934 0.73242,0.125001 0.2187,0.02761 0.44818,0.06251 0.67383,0.06251 0.57778,-6.37e-4 1.15207,-0.0951 1.69921,-0.281255 v -0.0312 c 0.78899,-0.267065 1.51276,-0.694333 2.10937,-1.281273 z"
+       id="path8675"
+       style="display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.9682529;enable-background:new" />
   </g>
 </svg>

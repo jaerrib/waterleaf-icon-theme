@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="amarok_clock.svg"
+   sodipodi:docname="amarok_circle.svg"
    inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -26,8 +26,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="8.8062574"
-     inkscape:cy="14.884499"
+     inkscape:cx="8"
+     inkscape:cy="8"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -61,7 +61,7 @@
      inkscape:window-width="1362"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="21.458334">
+     inkscape:zoom="32.1875">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -173,14 +173,8 @@
      transform="translate(-525.0002,-25.000003)">
     <path
        inkscape:connector-curvature="0"
-       d="m 533.0002,25.400002 a 7.6000008,7.6000008 0 0 0 -7.6,7.600001 7.6000008,7.6000008 0 0 0 7.6,7.600001 7.6000008,7.6000008 0 0 0 7.6,-7.600001 7.6000008,7.6000008 0 0 0 -7.6,-7.600001 z m 0,2.171429 a 5.428572,5.428572 0 0 1 5.42857,5.428572 5.428572,5.428572 0 0 1 -5.42857,5.428572 5.428572,5.428572 0 0 1 -5.42857,-5.428572 5.428572,5.428572 0 0 1 5.42857,-5.428572 z"
+       d="m 533.0002,25.500003 a 7.5,7.5 0 0 0 -7.5,7.5 7.5,7.5 0 0 0 7.5,7.5 7.5,7.5 0 0 0 7.5,-7.5 7.5,7.5 0 0 0 -7.5,-7.5 z m 0,2.142857 a 5.3571429,5.3571429 0 0 1 5.35714,5.357143 5.3571429,5.3571429 0 0 1 -5.35714,5.357143 5.3571429,5.3571429 0 0 1 -5.35714,-5.357143 5.3571429,5.3571429 0 0 1 5.35714,-5.357143 z"
        id="path7722-2"
-       style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:4.34285784;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 536.20243,30.007312 c -0.13948,0.0368 -0.26736,0.116125 -0.36176,0.224551 l -3.12017,3.098808 -2.39667,-2.380244 c -0.22744,-0.369313 -0.82226,-0.44081 -1.1305,-0.134659 -0.30823,0.306123 -0.23624,0.896869 0.13559,1.122756 l 2.89409,2.874256 c 0.26553,0.24963 0.72931,0.24963 0.99482,0 l 3.61761,-3.592819 c 0.4238,-0.428911 -0.0358,-1.309426 -0.63309,-1.212577 z"
-       id="path7715-3"
-       sodipodi:nodetypes="ccccccccccc"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.88415265;marker:none;enable-background:accumulate" />
+       style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:4.28571415;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
