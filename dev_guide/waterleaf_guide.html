@@ -45,7 +45,7 @@
 <p><font size="2" color="gray">Waterleaf icons composition guidelines, developer manual, rev. 10/2019</font></p>
 <hr>
 <h1 align=center><a name="top">Waterleaf icons composition guidelines</a></h1>
-<p align=center>developer manual</p>
+<p align=center>Developer Manual</p>
 <span class="tab1">
 1. <a href="#intro">Introduction</a><br>
 2. <a href="#crspa">Composition</a><br>
@@ -53,18 +53,18 @@
 
 <br><h2><a name="intro">1.   Introduction</a></h2>
 <p>Waterleaf icon set is based primarily on Paper icons by Sam Hewitt. It also mixes application icons from the Deepin and Papirus icon themes with original work, mostly TDE specific icons.</p>
-<p>This guidelines is designed to help developers and designers create a consistent experience on the Waterleaf icon theme. They were written for interface designers, graphic artists and software developers who will be working on Waterleaf icons. They will not only define specific design elements and principles, but will also instill a philosophy that will help you decide when it is appropriate to deviate from the Guideline.</p>
+<p>This guideline is being created to help developers and designers create a consistent experience on the Waterleaf icon theme. It was written for interface designers, graphic artists, and software developers who will be working on Waterleaf icons. It will not only define specific design elements and principles, but will also instill a philosophy that will help you decide when it is appropriate to deviate from the Guideline.</p>
 
 <br><h2><a name="crspa">2.   Composition</a></h2>
 
 <h3>2.1 Image format</h3>
-<p>The vector "svg" image format is highly preferred to the obsolete pixmap "png" format for new icons, however many of current Waterlaef icons still uses the "png" format. The objective is to replace pixel with the vector format for all icons eventually.</p>
+<p>The vector "svg" image format is highly preferred to the obsolete pixmap "png" format for new icons, however many of current Waterleaf icons still uses the "png" format. The objective is to replace pixmap with the vector format for all icons eventually.</p>
 <br>
 
 <h3>2.2 Sizes</h3>
-<p>Waterleaf icons uses six main icon sizes and it's best to include all six as part of an application:</p>
+<p>Waterleaf icons use six main icon sizes, and it's best to include all six as part of an application:</p>
 <p>&nbsp;16 - 24 - 32 - 48 - 64 - 128</p>
-<p>Design each icon for the size it's meant to be viewed at. In other words, do not design one icon and resize it to fill the remaining sizes, the best result is, when each icon is designed individually. Please follow the rules mentioned further.</p>
+<p>Design each icon for the size it's meant to be viewed at. In other words, do not design one icon and resize it to fill the remaining sizes. The best result is when each icon is designed individually. Please follow the rules mentioned further.</p>
 <br>
 
 <h3>2.3 Aspects</h3>
@@ -84,46 +84,53 @@
  <li><p>Smaller size icons, especially 16 and 24, should be more "schematic" and simplified with thicker lines and less colors, to be distinguishable as best as possible.</p></li>
  <li><p>Shadows, effects, color blending and transitions should be applied for size 48 and above only.</p></li>
  <li><p>The whitespace varies for different icon sizes and should increase proportionally along with the icon size. It should equal the baseline distance from the canvas edge.</p></li>
- <li><p>A basic guide, listed as:<br>canvas size | x-height | whitespace | percent of space used, rounded up</p>
+ <li><p>A basic guide, listed as:<br>canvas size | baseline | x-height | whitespace | percent of space used, rounded up</p>
 <table>
 <tr>
 <th>canvas</th>
+<th>baseline</th>
 <th>x-height</th>
 <th>whitespace</th>
 <th>space used</th>
 </tr>
 <tr>
 <td>16</td>
+<td>0</td>
 <td>16</td>
 <td>0</td>
 <td>100%</td>
 </tr>
 <tr>
 <td>24</td>
+<td>2</td>
 <td>22</td>
 <td>1</td>
 <td>92%</td>
 </tr>
 <tr>
 <td>32</td>
+<td>2</td>
 <td>28</td>
 <td>2</td>
 <td>88%</td>
 </tr>
 <tr>
 <td>48</td>
+<td>3</td>
 <td>40</td>
 <td>4</td>
 <td>83%</td>
 </tr>
 <tr>
 <td>64</td>
+<td>4</td>
 <td>52</td>
 <td>6</td>
 <td>81%</td>
 </tr>
 <tr>
 <td>128</td>
+<td>9</td>
 <td>104</td>
 <td>12</td>
 <td>81%</td>
@@ -134,7 +141,7 @@
 <br>
 
 <h3>2.5 Exceptions</h3>
-<p>However, there are exceptions. Rounder or lighter components will generally require some overshoot, to compensate for the optical illusion, that makes them look smaller than their rectangular counterparts. Some groups of a specific application icons could deviate from the guidelines somewhat, depending on the specific application design. Moreover, some system icons, especially mimetype icons, have ascending and descending elements, which are those elements that extend beyond the base line and x-height line.<p>
+<p>There are, however, exceptions to these guidelines. Rounder or lighter components will generally require some overshoot to compensate for the optical illusion that makes them look smaller than their rectangular counterparts. Some groups of a specific application icons could deviate from the guidelines somewhat, depending on the specific application design. Moreover, some system icons, especially mimetype icons, have ascending and descending elements, which are those elements that extend beyond the base line and x-height line.<p>
 
 <br><hr>
 <p><font size="2" color="gray">Waterleaf icons composition guidelines, developer manual, rev. 10/2019</font></p>
