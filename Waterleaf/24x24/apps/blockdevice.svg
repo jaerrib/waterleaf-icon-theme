@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
    height="24"
-   viewBox="0 0 6.35 6.3500005"
+   viewBox="0 0 6.3499999 6.3500002"
    version="1.1"
    id="svg5652"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.093751"
-     inkscape:cx="15.999999"
-     inkscape:cy="15.99999"
+     inkscape:zoom="8.046875"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,16 +39,10 @@
      inkscape:window-height="695"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid4508"
-       originx="0"
-       originy="4.8621834e-06" />
+       id="grid4508" />
   </sodipodi:namedview>
   <metadata
      id="metadata5649">
@@ -67,56 +61,60 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-290.64999)">
-    <polygon
-       points="540,124.70766 576,62.353829 648,62.353829 684,124.70766 648,187.06149 576,187.06149 "
-       style="fill:#cddc39;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="55-2"
-       transform="matrix(0,0.02080394,-0.02068588,0,7.044532,282.07557)" />
-    <path
-       style="fill:#8bc34a;stroke:none;stroke-width:0.09303604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3.175,295.55652 1.2690399,0.73646 v -1.4854 L 3.175,294.05863 Z"
-       id="path6449-62-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#4caf50;stroke:none;stroke-width:0.09303604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 5.7546884,295.55652 -1.2690405,0.73646 v -1.4854 l 1.2690405,-0.74895 z"
-       id="path6449-62-7-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <polygon
-       points="684,124.70766 648,187.06149 576,187.06149 540,124.70766 576,62.353829 648,62.353829 "
-       style="fill:#ffeb3b;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="55-4"
-       transform="matrix(0,0.02080394,-0.02068588,0,4.4648441,282.07557)" />
-    <path
-       style="fill:#f9ce1d;stroke:none;stroke-width:0.09303604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0.59531269,295.55652 1.26904011,0.73646 v -1.4854 l -1.26904011,-0.74895 z"
-       id="path6449-62-78"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#ff9800;stroke:none;stroke-width:0.09303604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3.1750005,295.55652 -1.2690402,0.73646 v -1.4854 l 1.2690402,-0.74895 z"
-       id="path6449-62-7-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <polygon
-       points="648,187.06149 576,187.06149 540,124.70766 576,62.353829 648,62.353829 684,124.70766 "
-       style="fill:#00bcd4;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="55"
-       transform="matrix(0,0.02080394,-0.02068588,0,5.7546894,280.07839)" />
-    <path
-       style="fill:#03a9f4;stroke:none;stroke-width:0.09303604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1.8851575,293.55934 1.2690399,0.73646 v -1.48541 l -1.2690399,-0.74893 z"
-       id="path6449-62"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#2196f3;stroke:none;stroke-width:0.09303604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4.4648456,293.55934 -1.2690401,0.73646 v -1.48541 l 1.2690401,-0.74893 z"
-       id="path6449-62-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g837"
+       transform="matrix(0.43717937,0,0,0.43717937,-0.52645181,167.70283)">
+      <polygon
+         transform="matrix(0,0.05547715,-0.05516234,0,18.785415,257.20153)"
+         id="55-2"
+         style="fill:#c5e1a5;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         points="576,187.06149 540,124.70766 576,62.353829 648,62.353829 684,124.70766 648,187.06149 " />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6449-62-9"
+         d="m 8.4666649,293.15072 3.3841061,1.9639 v -3.96108 l -3.3841061,-1.99717 z"
+         style="fill:#aed581;stroke:none;stroke-width:0.24809608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6449-62-7-3"
+         d="m 15.345833,293.15072 -3.384107,1.9639 v -3.96108 l 3.384107,-1.99717 z"
+         style="fill:#9ccc65;stroke:none;stroke-width:0.24809608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,0.05547715,-0.05516234,0,11.906249,257.20153)"
+         id="55-4"
+         style="fill:#fce68d;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         points="648,62.353829 684,124.70766 648,187.06149 576,187.06149 540,124.70766 576,62.353829 " />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6449-62-78"
+         d="m 1.5875002,293.15072 3.3841063,1.9639 v -3.96108 l -3.3841063,-1.99717 z"
+         style="fill:#fadd60;stroke:none;stroke-width:0.24809608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6449-62-7-4"
+         d="m 8.4666666,293.15072 -3.384107,1.9639 v -3.96108 l 3.384107,-1.99717 z"
+         style="fill:#fad53e;stroke:none;stroke-width:0.24809608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,0.05547715,-0.05516234,0,15.345836,251.87572)"
+         id="55"
+         style="fill:#81d4fa;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         points="684,124.70766 648,187.06149 576,187.06149 540,124.70766 576,62.353829 648,62.353829 " />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6449-62"
+         d="m 5.0270856,287.82491 3.3841062,1.9639 v -3.96108 l -3.3841062,-1.99717 z"
+         style="fill:#4fc3f7;stroke:none;stroke-width:0.24809608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6449-62-7"
+         d="m 11.906253,287.82491 -3.3841065,1.9639 v -3.96108 l 3.3841065,-1.99717 z"
+         style="fill:#29b6f6;stroke:none;stroke-width:0.24809608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
