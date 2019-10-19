@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="15.999999"
@@ -124,28 +123,6 @@
        type="text/css">
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
-    <linearGradient
-       id="linearGradient5028"
-       inkscape:collect="always">
-      <stop
-         id="stop5024"
-         offset="0"
-         style="stop-color:#fafafa;stop-opacity:1" />
-      <stop
-         id="stop5026"
-         offset="1"
-         style="stop-color:#fafafa;stop-opacity:0.75" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.7443111,0,0,0.7443196,-15.957308,76.195646)"
-       gradientUnits="userSpaceOnUse"
-       y2="295.67596"
-       x2="33.436172"
-       y1="284.30051"
-       x1="22.06193"
-       id="linearGradient5030"
-       xlink:href="#linearGradient5028"
-       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -154,9 +131,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.187502"
-     inkscape:cx="7.9999995"
-     inkscape:cy="7.9999995"
+     inkscape:zoom="16.093751"
+     inkscape:cx="7.1544958"
+     inkscape:cy="1.7892903"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -178,7 +155,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -191,104 +168,104 @@
        id="layer9"
        inkscape:label="status"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-24.358833,303.55112)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-25.656064,304.0203)" />
     <g
        id="layer1-3"
        inkscape:label="places"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-8.4176715,262.73913)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-8.9114247,261.15106)" />
     <g
        id="layer14"
        inkscape:label="mimetypes"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-24.358833,303.55112)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-25.656064,304.0203)" />
     <g
        id="layer15"
        inkscape:label="emblems"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-24.358833,303.55112)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-25.656064,304.0203)" />
     <g
        id="g71291"
        inkscape:label="emotes"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-24.358833,303.55112)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-25.656064,304.0203)" />
     <g
        id="layer2"
        inkscape:label="categories"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-8.4176715,272.66101)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-8.9114247,271.57309)" />
     <g
        id="layer12"
        inkscape:label="actions"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-24.358833,303.55112)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-25.656064,304.0203)" />
     <g
        id="layer9-6"
        inkscape:label="status"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-15.345198,303.14362)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-16.188117,303.59226)" />
     <g
        id="layer1-7"
        inkscape:label="places"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,0.59596394,262.33163)" />
+       transform="matrix(0.06947978,0,0,0.06948013,0.5565223,260.72302)" />
     <g
        id="layer14-5"
        inkscape:label="mimetypes"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-15.345198,303.14362)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-16.188117,303.59226)" />
     <g
        id="layer15-3"
        inkscape:label="emblems"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-15.345198,303.14362)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-16.188117,303.59226)" />
     <g
        id="g71291-5"
        inkscape:label="emotes"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-15.345198,303.14362)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-16.188117,303.59226)" />
     <g
        id="layer2-6"
        inkscape:label="categories"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,0.59596394,272.25351)" />
+       transform="matrix(0.06947978,0,0,0.06948013,0.5565223,271.14504)" />
     <g
        id="layer12-2"
        inkscape:label="actions"
        style="display:inline"
-       transform="matrix(0.06614585,0,0,0.06614585,-15.345198,303.14362)" />
+       transform="matrix(0.06947978,0,0,0.06948013,-16.188117,303.59226)" />
     <g
-       transform="matrix(0.06614585,0,0,0.06614585,-27.620615,298.54684)"
+       transform="matrix(0.06947978,0,0,0.06948013,-29.082248,298.76377)"
        style="display:inline"
        inkscape:label="status"
        id="layer9-61" />
     <g
-       transform="matrix(0.06614585,0,0,0.06614585,-11.679454,257.73485)"
+       transform="matrix(0.06947978,0,0,0.06948013,-12.33761,255.89453)"
        style="display:inline"
        inkscape:label="places"
        id="layer1-8" />
     <g
-       transform="matrix(0.06614585,0,0,0.06614585,-27.620615,298.54684)"
+       transform="matrix(0.06947978,0,0,0.06948013,-29.082248,298.76377)"
        style="display:inline"
        inkscape:label="mimetypes"
        id="layer14-7" />
     <g
-       transform="matrix(0.06614585,0,0,0.06614585,-27.620615,298.54684)"
+       transform="matrix(0.06947978,0,0,0.06948013,-29.082248,298.76377)"
        style="display:inline"
        inkscape:label="emblems"
        id="layer15-9" />
     <g
-       transform="matrix(0.06614585,0,0,0.06614585,-27.620615,298.54684)"
+       transform="matrix(0.06947978,0,0,0.06948013,-29.082248,298.76377)"
        style="display:inline"
        inkscape:label="emotes"
        id="g71291-2" />
     <g
-       transform="matrix(0.06614585,0,0,0.06614585,-11.679454,267.65673)"
+       transform="matrix(0.06947978,0,0,0.06948013,-12.33761,266.31655)"
        style="display:inline"
        inkscape:label="categories"
        id="layer2-0" />
     <g
-       transform="matrix(0.06614585,0,0,0.06614585,-27.620615,298.54684)"
+       transform="matrix(0.06947978,0,0,0.06948013,-29.082248,298.76377)"
        style="display:inline"
        inkscape:label="actions"
        id="layer12-23" />
@@ -296,104 +273,104 @@
        id="layer9-4"
        inkscape:label="status"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-70.068621,325.68021)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-73.669749,327.26488)" />
     <g
        id="layer1-3-9"
        inkscape:label="places"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-19.634769,196.56128)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-20.693894,191.63732)" />
     <g
        id="layer14-2"
        inkscape:label="mimetypes"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-70.068621,325.68021)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-73.669749,327.26488)" />
     <g
        id="layer15-0"
        inkscape:label="emblems"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-70.068621,325.68021)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-73.669749,327.26488)" />
     <g
        id="g71291-6"
        inkscape:label="emotes"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-70.068621,325.68021)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-73.669749,327.26488)" />
     <g
        id="layer2-8"
        inkscape:label="categories"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-19.634769,227.95162)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-20.693894,224.60999)" />
     <g
        id="layer12-9"
        inkscape:label="actions"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-70.068621,325.68021)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-73.669749,327.26488)" />
     <g
        id="layer9-6-26"
        inkscape:label="status"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-41.551731,324.39099)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-43.71553,325.91067)" />
     <g
        id="layer1-7-6"
        inkscape:label="places"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,8.8821208,195.27206)" />
+       transform="matrix(0.21981665,0,0,0.21981776,9.2603238,190.28311)" />
     <g
        id="layer14-5-4"
        inkscape:label="mimetypes"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-41.551731,324.39099)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-43.71553,325.91067)" />
     <g
        id="layer15-3-9"
        inkscape:label="emblems"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-41.551731,324.39099)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-43.71553,325.91067)" />
     <g
        id="g71291-5-5"
        inkscape:label="emotes"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-41.551731,324.39099)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-43.71553,325.91067)" />
     <g
        id="layer2-6-0"
        inkscape:label="categories"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,8.8821208,226.66239)" />
+       transform="matrix(0.21981665,0,0,0.21981776,9.2603238,223.25577)" />
     <g
        id="layer12-2-4"
        inkscape:label="actions"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-41.551731,324.39099)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-43.71553,325.91067)" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-80.388081,309.8479)"
+       transform="matrix(0.21981665,0,0,0.21981776,-84.509337,310.63449)"
        style="display:inline"
        inkscape:label="status"
        id="layer9-61-87" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-29.954233,180.72899)"
+       transform="matrix(0.21981665,0,0,0.21981776,-31.533487,175.00696)"
        style="display:inline"
        inkscape:label="places"
        id="layer1-8-1" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-80.388081,309.8479)"
+       transform="matrix(0.21981665,0,0,0.21981776,-84.509337,310.63449)"
        style="display:inline"
        inkscape:label="mimetypes"
        id="layer14-7-72" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-80.388081,309.8479)"
+       transform="matrix(0.21981665,0,0,0.21981776,-84.509337,310.63449)"
        style="display:inline"
        inkscape:label="emblems"
        id="layer15-9-7" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-80.388081,309.8479)"
+       transform="matrix(0.21981665,0,0,0.21981776,-84.509337,310.63449)"
        style="display:inline"
        inkscape:label="emotes"
        id="g71291-2-2" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-29.954233,212.11932)"
+       transform="matrix(0.21981665,0,0,0.21981776,-31.533487,207.97961)"
        style="display:inline"
        inkscape:label="categories"
        id="layer2-0-2" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-80.388081,309.8479)"
+       transform="matrix(0.21981665,0,0,0.21981776,-84.509337,310.63449)"
        style="display:inline"
        inkscape:label="actions"
        id="layer12-23-6" />
@@ -401,204 +378,204 @@
        id="layer9-2"
        inkscape:label="status"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-21.60983,301.45082)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-22.768504,301.81413)" />
     <g
        id="layer1-6"
        inkscape:label="places"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,28.82402,172.3319)" />
+       transform="matrix(0.21981665,0,0,0.21981776,30.207349,166.18659)" />
     <g
        id="layer14-1"
        inkscape:label="mimetypes"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-21.60983,301.45082)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-22.768504,301.81413)" />
     <g
        id="layer15-8"
        inkscape:label="emblems"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-21.60983,301.45082)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-22.768504,301.81413)" />
     <g
        id="g71291-7"
        inkscape:label="emotes"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-21.60983,301.45082)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-22.768504,301.81413)" />
     <g
        id="layer2-9"
        inkscape:label="categories"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,28.82402,203.72224)" />
+       transform="matrix(0.21981665,0,0,0.21981776,30.207349,199.15925)" />
     <g
        id="layer12-20"
        inkscape:label="actions"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,-21.60983,301.45082)" />
+       transform="matrix(0.21981665,0,0,0.21981776,-22.768504,301.81413)" />
     <g
        id="layer9-6-2"
        inkscape:label="status"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,6.9070588,300.1616)" />
+       transform="matrix(0.21981665,0,0,0.21981776,7.1857134,300.45993)" />
     <g
        id="layer1-7-3"
        inkscape:label="places"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,57.340914,171.04267)" />
+       transform="matrix(0.21981665,0,0,0.21981776,60.161571,164.83237)" />
     <g
        id="layer14-5-7"
        inkscape:label="mimetypes"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,6.9070588,300.1616)" />
+       transform="matrix(0.21981665,0,0,0.21981776,7.1857134,300.45993)" />
     <g
        id="layer15-3-5"
        inkscape:label="emblems"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,6.9070588,300.1616)" />
+       transform="matrix(0.21981665,0,0,0.21981776,7.1857134,300.45993)" />
     <g
        id="g71291-5-9"
        inkscape:label="emotes"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,6.9070588,300.1616)" />
+       transform="matrix(0.21981665,0,0,0.21981776,7.1857134,300.45993)" />
     <g
        id="layer2-6-2"
        inkscape:label="categories"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,57.340914,202.433)" />
+       transform="matrix(0.21981665,0,0,0.21981776,60.161571,197.80502)" />
     <g
        id="layer12-2-2"
        inkscape:label="actions"
        style="display:inline"
-       transform="matrix(0.20926893,0,0,0.20926893,6.9070588,300.1616)" />
+       transform="matrix(0.21981665,0,0,0.21981776,7.1857134,300.45993)" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-31.929293,285.61852)"
+       transform="matrix(0.21981665,0,0,0.21981776,-33.608095,285.18376)"
        style="display:inline"
        inkscape:label="status"
        id="layer9-61-8" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,18.504558,156.4996)"
+       transform="matrix(0.21981665,0,0,0.21981776,19.367758,149.55621)"
        style="display:inline"
        inkscape:label="places"
        id="layer1-8-9" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-31.929293,285.61852)"
+       transform="matrix(0.21981665,0,0,0.21981776,-33.608095,285.18376)"
        style="display:inline"
        inkscape:label="mimetypes"
        id="layer14-7-7" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-31.929293,285.61852)"
+       transform="matrix(0.21981665,0,0,0.21981776,-33.608095,285.18376)"
        style="display:inline"
        inkscape:label="emblems"
        id="layer15-9-3" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-31.929293,285.61852)"
+       transform="matrix(0.21981665,0,0,0.21981776,-33.608095,285.18376)"
        style="display:inline"
        inkscape:label="emotes"
        id="g71291-2-6" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,18.504558,187.88994)"
+       transform="matrix(0.21981665,0,0,0.21981776,19.367758,182.52888)"
        style="display:inline"
        inkscape:label="categories"
        id="layer2-0-1" />
     <g
-       transform="matrix(0.20926893,0,0,0.20926893,-31.929293,285.61852)"
+       transform="matrix(0.21981665,0,0,0.21981776,-33.608095,285.18376)"
        style="display:inline"
        inkscape:label="actions"
        id="layer12-23-2" />
     <g
-       id="g4710"
-       transform="matrix(0.24998948,0,0,0.25000004,8.6544668e-4,222.68363)">
-      <g
-         id="g4655">
-        <path
-           inkscape:export-xdpi="69"
-           inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
-           sodipodi:nodetypes="ccccc"
-           inkscape:export-ydpi="69"
-           d="m 16.382357,281.35231 -1.495934,0.94827 -10.1271836,-1.00754 2.0599613,-0.69663 9.5632833,0.7559 z"
-           style="fill:#2196f3;fill-rule:evenodd;stroke-width:0.06393424"
-           id="path4127"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:export-xdpi="69"
-           inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
-           sodipodi:nodetypes="ccccc"
-           inkscape:export-ydpi="69"
-           d="m 5.2371479,294.21649 9.1298091,2.25241 0.533596,-14.16847 -10.1380529,-1.00805 0.4743921,12.9243 z"
-           style="fill:#00bcd4;fill-rule:evenodd;stroke-width:0.06393424"
-           id="path4129"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#2196f3;fill-rule:evenodd;stroke-width:0.06393424"
-           d="m 14.343494,296.47086 1.500536,-2.31378 0.538582,-12.80539 -1.496189,0.9486 z"
-           id="path4131"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-      </g>
+       id="g1075"
+       transform="translate(-1.18993e-7,0.00503)">
       <path
          inkscape:connector-curvature="0"
-         id="path11944"
-         style="fill:#cfd8dc;fill-rule:evenodd;stroke-width:0.06393424"
-         d="m 5.14764,291.7641 0.091464,2.45654 9.125974,2.251 0.100952,-2.70077 -9.3184159,-2.00677 z"
+         id="path4127"
+         style="fill:#1e88e5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.01678886"
+         d="m 4.2332663,292.96014 -0.3928168,0.24902 -2.6592934,-0.26459 0.5409245,-0.18294 2.511219,0.19851 z"
          inkscape:export-ydpi="69"
          sodipodi:nodetypes="ccccc"
          inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
          inkscape:export-xdpi="69" />
       <path
          inkscape:connector-curvature="0"
-         id="path13913"
-         d="m 14.364656,296.46762 c 0.494659,-0.74761 0.989319,-1.49521 1.483978,-2.24282 0.03293,-0.83988 0.06585,-1.67977 0.09878,-2.51965 -0.493977,0.687 -0.987955,1.37399 -1.481932,2.06099 -0.03359,0.90049 -0.06731,1.80099 -0.100826,2.70148 z"
-         style="fill:#90a4ae;fill-rule:evenodd;stroke-width:0.06393424" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9999"
-         style="fill:#cfd8dc;fill-rule:evenodd;stroke-width:0.06393424"
-         d="m 4.7756652,281.67796 0.1072202,2.92603 9.8695956,1.20195 0.1248,-3.17862 -10.1014879,-0.94936 z"
+         id="path4129"
+         style="fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.01678886"
+         d="m 1.3066499,296.33829 2.3973932,0.5915 0.1401167,-3.72067 -2.6621474,-0.26472 0.1245704,3.39395 z"
          inkscape:export-ydpi="69"
-         sodipodi:nodetypes="cccccc"
+         sodipodi:nodetypes="ccccc"
          inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
          inkscape:export-xdpi="69" />
       <path
          inkscape:connector-curvature="0"
-         id="path13915"
-         d="m 14.752034,285.80594 c 0.49792,-0.38463 0.995839,-0.76925 1.493759,-1.15388 0.04171,-1.00686 0.08341,-2.01372 0.125119,-3.02058 -0.498708,0.33195 -0.997417,0.66389 -1.496125,0.99584 -0.04093,1.05949 -0.08174,2.11939 -0.122753,3.17862 z"
-         style="fill:#90a4ae;fill-rule:evenodd;stroke-width:0.06393424" />
+         id="path9999"
+         style="fill:#cfd8dc;fill-rule:evenodd;stroke-width:0.01678886"
+         d="m 1.1854694,293.04565 0.028155,0.76839 2.5916534,0.31563 0.032772,-0.83471 -2.6525459,-0.24931 z"
+         inkscape:export-ydpi="69"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
+         inkscape:export-xdpi="69" />
+      <g
+         id="g1058">
+        <path
+           style="fill:#1e88e5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.01678886"
+           d="m 3.697882,296.9303 0.3940252,-0.60761 0.141426,-3.36272 -0.3928837,0.24911 z"
+           id="path4131"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-xdpi="69"
+           inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-ydpi="69"
+           d="m 1.2831461,295.6943 0.024018,0.64509 2.3963861,0.59111 0.026509,-0.70922 -2.4469194,-0.52698 z"
+           style="fill:#cfd8dc;fill-rule:evenodd;stroke-width:0.01678886"
+           id="path11944"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#90a4ae;fill-rule:evenodd;stroke-width:0.01678886"
+           d="m 3.7034388,296.92945 c 0.1298924,-0.19633 0.259785,-0.39265 0.3896773,-0.58897 0.00864,-0.22056 0.017292,-0.44111 0.025939,-0.66166 -0.1297133,0.1804 -0.2594268,0.36081 -0.3891399,0.54122 -0.00882,0.23647 -0.017675,0.47293 -0.026476,0.70941 z"
+           id="path13913"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#90a4ae;fill-rule:evenodd;stroke-width:0.01678886"
+           d="m 3.8051604,294.12967 c 0.1307485,-0.10105 0.2614969,-0.20201 0.3922455,-0.30301 0.010953,-0.26441 0.021903,-0.5288 0.032855,-0.79321 -0.1309555,0.0872 -0.2619113,0.17433 -0.3928669,0.26151 -0.010748,0.27822 -0.021464,0.55656 -0.032234,0.83471 z"
+           id="path13915"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
-    <ellipse
-       style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.0630781;stroke-opacity:1"
-       id="path4969"
-       cx="1.1738902"
-       cy="295.75995"
-       rx="1.1077443"
-       ry="1.107757" />
     <g
-       id="g4700"
-       transform="matrix(0.25000004,0,0,0.25000004,0,222.74998)">
+       id="g1087"
+       transform="matrix(1.023245,0,0,1.023245,0,-6.9037549)">
       <ellipse
-         ry="4.2340932"
-         rx="4.2340446"
-         cy="292.03979"
-         cx="4.69556"
+         ry="1.1635967"
+         rx="1.1635777"
+         cy="295.8364"
+         cx="1.1635777"
+         id="path4969"
+         style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.06625757;stroke-opacity:1" />
+      <ellipse
+         ry="1.1118815"
+         rx="1.1118631"
+         cy="295.8364"
+         cx="1.1635777"
          id="path4969-2"
-         style="opacity:1;fill:url(#linearGradient5030);fill-opacity:1;stroke:none;stroke-width:0.24109848;stroke-opacity:1" />
+         style="opacity:0.9;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.06331279;stroke-opacity:1" />
       <ellipse
-         ry="1.08314"
-         rx="1.0831277"
-         cy="292.03979"
-         cx="4.69556"
+         ry="0.28443477"
+         rx="0.28443012"
+         cy="295.8364"
+         cx="1.1635777"
          id="path4969-2-7-0-9"
-         style="opacity:0.2;fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:0.06167634;stroke-opacity:1" />
+         style="opacity:0.2;fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:0.0161963;stroke-opacity:1" />
       <ellipse
-         ry="0.68927097"
-         rx="0.68926311"
-         cy="292.03979"
-         cx="4.69556"
+         ry="0.18100397"
+         rx="0.18100099"
+         cy="295.8364"
+         cx="1.1635777"
          id="path4969-2-7"
-         style="opacity:1;fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:0.03924858;stroke-opacity:1" />
+         style="opacity:1;fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:0.01030673;stroke-opacity:1" />
       <ellipse
-         ry="0.49233639"
-         rx="0.49233076"
-         cy="292.03979"
-         cx="4.69556"
+         ry="0.12928854"
+         rx="0.12928641"
+         cy="295.8364"
+         cx="1.1635777"
          id="path4969-2-7-0"
-         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.0280347;stroke-opacity:1" />
+         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.00736196;stroke-opacity:1" />
     </g>
   </g>
 </svg>
