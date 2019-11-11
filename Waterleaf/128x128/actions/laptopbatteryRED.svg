@@ -1,129 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="128"
-   width="128"
-   version="1.1"
-   sodipodi:docname="laptopbatteryRED.svg"
-   inkscape:version="0.92.1 r15371">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1362"
-     inkscape:window-height="695"
-     id="namedview11"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="4.0234375"
-     inkscape:cx="64"
-     inkscape:cy="64"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4551"
-       x="-0.0163125"
-       width="1.032625"
-       y="-0.0094909091"
-       height="1.0189818">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.2175"
-         id="feGaussianBlur4553" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4502"
-       x="-0.018222222"
-       width="1.0364444"
-       y="-0.0089454548"
-       height="1.0178909">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.205"
-         id="feGaussianBlur4504" />
-    </filter>
-  </defs>
-  <rect
-     style="opacity:1;fill:#d50000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.54539871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-     id="rect4495"
-     width="128"
-     height="128"
-     x="0"
-     y="0" />
-  <path
-     inkscape:connector-curvature="0"
-     d="M 10.6,5 V 8.9285715 H 1 V 12.857143 56.071429 C 1,58.247857 2.4272,60 4.2,60 H 29.8 C 31.5728,60 33,58.247857 33,56.071429 V 12.857143 8.9285715 H 23.4 V 5 Z"
-     style="opacity:0.2;fill:#000000;stroke-width:3.54562116;filter:url(#filter4551)"
-     id="path6763-5"
-     sodipodi:nodetypes="ccccssssccccc"
-     transform="scale(2)" />
-  <rect
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02826869;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4502);enable-background:new"
-     id="rect4515-6"
-     width="27"
-     height="55"
-     x="36"
-     y="5"
-     ry="1.933141"
-     transform="scale(2)" />
-  <path
-     inkscape:connector-curvature="0"
-     d="m 21.2,8 v 7.857143 H 2 v 7.857143 86.428574 C 2,114.49571 4.8544,118 8.4,118 h 51.2 c 3.5456,0 6.4,-3.50429 6.4,-7.85714 V 23.714286 15.857143 H 46.8 V 8 Z"
-     style="opacity:1;fill:#f9ce1d;stroke-width:7.09124231"
-     id="path6763"
-     sodipodi:nodetypes="ccccssssccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     d="M 2,47.285714 V 110.14286 C 2,114.49571 4.8544,118 8.4,118 h 51.2 c 3.5456,0 6.4,-3.50429 6.4,-7.85714 V 47.285714 Z"
-     style="fill:#263238;stroke-width:7.09124231"
-     id="path6765"
-     sodipodi:nodetypes="csssscc" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.99967277;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4515"
-     width="52.000328"
-     height="108.00033"
-     x="72.99984"
-     y="8.999836"
-     ry="3.7959976" />
+<svg enable-background="new" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    <title>Paper Symbolic Icon Theme</title>
+    <defs>
+        <filter id="filter4551" x="-.0163125" y="-.0094909091" width="1.032625" height="1.0189818" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.2175"/>
+        </filter>
+        <filter id="filter4502" x="-.018222222" y="-.0089454548" width="1.0364444" height="1.0178909" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.205"/>
+        </filter>
+    </defs>
+    <rect width="128" height="128" fill="#d50000" style="paint-order:markers stroke fill"/>
+    <path transform="scale(2)" d="m10.6 5v3.9285715h-9.6v47.142858c0 2.176428 1.4272 3.928571 3.2 3.928571h25.6c1.7728 0 3.2-1.752143 3.2-3.928571v-47.142858h-9.6v-3.9285715z" filter="url(#filter4551)" opacity=".2" stroke-width="3.5456212"/>
+    <rect transform="scale(2)" x="36" y="5" width="27" height="55" ry="1.933141" enable-background="new" filter="url(#filter4502)" opacity=".2"/>
+    <path d="m21.2 8v7.857143h-19.2v94.285717c0 4.35285 2.8544 7.85714 6.4 7.85714h51.2c3.5456 0 6.4-3.50429 6.4-7.85714v-94.285717h-19.2v-7.857143z" fill="#f9ce1d" stroke-width="7.0912423"/>
+    <path d="m2 47.285714v62.857146c0 4.35285 2.8544 7.85714 6.4 7.85714h51.2c3.5456 0 6.4-3.50429 6.4-7.85714v-62.857146z" fill="#263238" stroke-width="7.0912423"/>
+    <rect x="72.99984" y="8.999836" width="52.000328" height="108.00033" ry="3.7959976" fill="#fff" stroke="#000" stroke-width="1.9996728"/>
 </svg>
