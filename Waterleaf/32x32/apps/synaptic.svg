@@ -1,570 +1,76 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="31.999998"
-   height="31.999998"
-   viewBox="0 0 8.4666662 8.4666668"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="synaptic.svg"
-   inkscape:export-filename="/home/john/Github/gui-art/drafts/synaptic-revision.svg.png"
-   inkscape:export-xdpi="384"
-   inkscape:export-ydpi="384">
-  <defs
-     id="defs2">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
-    <style
-       id="current-color-scheme-3"
-       type="text/css">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
-    <style
-       id="style4492"
-       type="text/css">
-    .str0 {stroke:#4D4948;stroke-width:0.0123919}
+<svg width="31.999998" height="31.999998" version="1.1" viewBox="0 0 8.4666662 8.4666668" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <style type="text/css">.str0 {stroke:#4D4948;stroke-width:0.0123919}
     .str1 {stroke:#838281;stroke-width:0.229479;stroke-linecap:round}
     .fil2 {fill:none}
     .fil0 {fill:#4D4948}
-    .fil1 {fill:white;fill-rule:nonzero}
-  </style>
-    <style
-       type="text/css"
-       id="style4492-1">
-    .str0 {stroke:#4D4948;stroke-width:0.221746}
+    .fil1 {fill:white;fill-rule:nonzero}</style>
+        <style type="text/css">.str0 {stroke:#4D4948;stroke-width:0.221746}
     .str1 {stroke:#00923F;stroke-width:0.887173}
     .str2 {stroke:#E77817;stroke-width:0.887173;stroke-linecap:round}
     .fil2 {fill:none}
     .fil0 {fill:#4D4948}
-    .fil1 {fill:#B6DDC7}
-  </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-6">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-0">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-3-6">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
-    <style
-       type="text/css"
-       id="style4492-15">
-    .str0 {stroke:#4D4948;stroke-width:0.0123919}
+    .fil1 {fill:#B6DDC7}</style>
+        <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <style type="text/css">.str0 {stroke:#4D4948;stroke-width:0.0123919}
     .str1 {stroke:#838281;stroke-width:0.229479;stroke-linecap:round}
     .fil2 {fill:none}
     .fil0 {fill:#4D4948}
-    .fil1 {fill:white;fill-rule:nonzero}
-  </style>
-    <style
-       id="style4492-1-54"
-       type="text/css">
-    .str0 {stroke:#4D4948;stroke-width:0.221746}
+    .fil1 {fill:white;fill-rule:nonzero}</style>
+        <style type="text/css">.str0 {stroke:#4D4948;stroke-width:0.221746}
     .str1 {stroke:#00923F;stroke-width:0.887173}
     .str2 {stroke:#E77817;stroke-width:0.887173;stroke-linecap:round}
     .fil2 {fill:none}
     .fil0 {fill:#4D4948}
-    .fil1 {fill:#B6DDC7}
-  </style>
-    <style
-       id="current-color-scheme-6-7"
-       type="text/css">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-67">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-3-5">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
-    <style
-       type="text/css"
-       id="style4492-3">
-    .str0 {stroke:#4D4948;stroke-width:0.0123919}
+    .fil1 {fill:#B6DDC7}</style>
+        <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <style type="text/css">.str0 {stroke:#4D4948;stroke-width:0.0123919}
     .str1 {stroke:#838281;stroke-width:0.229479;stroke-linecap:round}
     .fil2 {fill:none}
     .fil0 {fill:#4D4948}
-    .fil1 {fill:white;fill-rule:nonzero}
-  </style>
-    <style
-       id="style4492-1-5"
-       type="text/css">
-    .str0 {stroke:#4D4948;stroke-width:0.221746}
+    .fil1 {fill:white;fill-rule:nonzero}</style>
+        <style type="text/css">.str0 {stroke:#4D4948;stroke-width:0.221746}
     .str1 {stroke:#00923F;stroke-width:0.887173}
     .str2 {stroke:#E77817;stroke-width:0.887173;stroke-linecap:round}
     .fil2 {fill:none}
     .fil0 {fill:#4D4948}
-    .fil1 {fill:#B6DDC7}
-  </style>
-    <style
-       id="current-color-scheme-6-6"
-       type="text/css">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="16.093751"
-     inkscape:cx="5.2815531"
-     inkscape:cy="15.999999"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1362"
-     inkscape:window-height="695"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-288.53333)">
-    <g
-       id="layer9"
-       inkscape:label="status"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-48.717663,310.10224)" />
-    <g
-       id="layer1-3"
-       inkscape:label="places"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-16.835342,228.47827)" />
-    <g
-       id="layer14"
-       inkscape:label="mimetypes"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-48.717663,310.10224)" />
-    <g
-       id="layer15"
-       inkscape:label="emblems"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-48.717663,310.10224)" />
-    <g
-       id="g71291"
-       inkscape:label="emotes"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-48.717663,310.10224)" />
-    <g
-       id="layer2"
-       inkscape:label="categories"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-16.835342,248.32203)" />
-    <g
-       id="layer12"
-       inkscape:label="actions"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-48.717663,310.10224)" />
-    <g
-       id="layer9-6"
-       inkscape:label="status"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-30.690394,309.28724)" />
-    <g
-       id="layer1-7"
-       inkscape:label="places"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,1.1919278,227.66327)" />
-    <g
-       id="layer14-5"
-       inkscape:label="mimetypes"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-30.690394,309.28724)" />
-    <g
-       id="layer15-3"
-       inkscape:label="emblems"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-30.690394,309.28724)" />
-    <g
-       id="g71291-5"
-       inkscape:label="emotes"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-30.690394,309.28724)" />
-    <g
-       id="layer2-6"
-       inkscape:label="categories"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,1.1919278,247.50703)" />
-    <g
-       id="layer12-2"
-       inkscape:label="actions"
-       style="display:inline"
-       transform="matrix(0.13229168,0,0,0.13229168,-30.690394,309.28724)" />
-    <g
-       transform="matrix(0.13229168,0,0,0.13229168,-55.241226,300.09368)"
-       style="display:inline"
-       inkscape:label="status"
-       id="layer9-61" />
-    <g
-       transform="matrix(0.13229168,0,0,0.13229168,-23.358906,218.46971)"
-       style="display:inline"
-       inkscape:label="places"
-       id="layer1-8" />
-    <g
-       transform="matrix(0.13229168,0,0,0.13229168,-55.241226,300.09368)"
-       style="display:inline"
-       inkscape:label="mimetypes"
-       id="layer14-7" />
-    <g
-       transform="matrix(0.13229168,0,0,0.13229168,-55.241226,300.09368)"
-       style="display:inline"
-       inkscape:label="emblems"
-       id="layer15-9" />
-    <g
-       transform="matrix(0.13229168,0,0,0.13229168,-55.241226,300.09368)"
-       style="display:inline"
-       inkscape:label="emotes"
-       id="g71291-2" />
-    <g
-       transform="matrix(0.13229168,0,0,0.13229168,-23.358906,238.31347)"
-       style="display:inline"
-       inkscape:label="categories"
-       id="layer2-0" />
-    <g
-       transform="matrix(0.13229168,0,0,0.13229168,-55.241226,300.09368)"
-       style="display:inline"
-       inkscape:label="actions"
-       id="layer12-23" />
-    <g
-       id="layer9-4"
-       inkscape:label="status"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-140.13723,354.36042)" />
-    <g
-       id="layer1-3-9"
-       inkscape:label="places"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-39.269535,96.122583)" />
-    <g
-       id="layer14-2"
-       inkscape:label="mimetypes"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-140.13723,354.36042)" />
-    <g
-       id="layer15-0"
-       inkscape:label="emblems"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-140.13723,354.36042)" />
-    <g
-       id="g71291-6"
-       inkscape:label="emotes"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-140.13723,354.36042)" />
-    <g
-       id="layer2-8"
-       inkscape:label="categories"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-39.269535,158.90326)" />
-    <g
-       id="layer12-9"
-       inkscape:label="actions"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-140.13723,354.36042)" />
-    <g
-       id="layer9-6-26"
-       inkscape:label="status"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-83.103455,351.78197)" />
-    <g
-       id="layer1-7-6"
-       inkscape:label="places"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,17.764241,93.544128)" />
-    <g
-       id="layer14-5-4"
-       inkscape:label="mimetypes"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-83.103455,351.78197)" />
-    <g
-       id="layer15-3-9"
-       inkscape:label="emblems"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-83.103455,351.78197)" />
-    <g
-       id="g71291-5-5"
-       inkscape:label="emotes"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-83.103455,351.78197)" />
-    <g
-       id="layer2-6-0"
-       inkscape:label="categories"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,17.764241,156.3248)" />
-    <g
-       id="layer12-2-4"
-       inkscape:label="actions"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-83.103455,351.78197)" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-160.77615,322.69582)"
-       style="display:inline"
-       inkscape:label="status"
-       id="layer9-61-87" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-59.908462,64.457996)"
-       style="display:inline"
-       inkscape:label="places"
-       id="layer1-8-1" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-160.77615,322.69582)"
-       style="display:inline"
-       inkscape:label="mimetypes"
-       id="layer14-7-72" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-160.77615,322.69582)"
-       style="display:inline"
-       inkscape:label="emblems"
-       id="layer15-9-7" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-160.77615,322.69582)"
-       style="display:inline"
-       inkscape:label="emotes"
-       id="g71291-2-2" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-59.908462,127.23867)"
-       style="display:inline"
-       inkscape:label="categories"
-       id="layer2-0-2" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-160.77615,322.69582)"
-       style="display:inline"
-       inkscape:label="actions"
-       id="layer12-23-6" />
-    <g
-       id="layer9-2"
-       inkscape:label="status"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-43.219658,305.90166)" />
-    <g
-       id="layer1-6"
-       inkscape:label="places"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,57.648036,47.663812)" />
-    <g
-       id="layer14-1"
-       inkscape:label="mimetypes"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-43.219658,305.90166)" />
-    <g
-       id="layer15-8"
-       inkscape:label="emblems"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-43.219658,305.90166)" />
-    <g
-       id="g71291-7"
-       inkscape:label="emotes"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-43.219658,305.90166)" />
-    <g
-       id="layer2-9"
-       inkscape:label="categories"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,57.648036,110.44449)" />
-    <g
-       id="layer12-20"
-       inkscape:label="actions"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,-43.219658,305.90166)" />
-    <g
-       id="layer9-6-2"
-       inkscape:label="status"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,13.814117,303.3232)" />
-    <g
-       id="layer1-7-3"
-       inkscape:label="places"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,114.68182,45.085357)" />
-    <g
-       id="layer14-5-7"
-       inkscape:label="mimetypes"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,13.814117,303.3232)" />
-    <g
-       id="layer15-3-5"
-       inkscape:label="emblems"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,13.814117,303.3232)" />
-    <g
-       id="g71291-5-9"
-       inkscape:label="emotes"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,13.814117,303.3232)" />
-    <g
-       id="layer2-6-2"
-       inkscape:label="categories"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,114.68182,107.86603)" />
-    <g
-       id="layer12-2-2"
-       inkscape:label="actions"
-       style="display:inline"
-       transform="matrix(0.41853783,0,0,0.41853783,13.814117,303.3232)" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-63.858582,274.23706)"
-       style="display:inline"
-       inkscape:label="status"
-       id="layer9-61-8" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,37.009113,15.999225)"
-       style="display:inline"
-       inkscape:label="places"
-       id="layer1-8-9" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-63.858582,274.23706)"
-       style="display:inline"
-       inkscape:label="mimetypes"
-       id="layer14-7-7" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-63.858582,274.23706)"
-       style="display:inline"
-       inkscape:label="emblems"
-       id="layer15-9-3" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-63.858582,274.23706)"
-       style="display:inline"
-       inkscape:label="emotes"
-       id="g71291-2-6" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,37.009113,78.779902)"
-       style="display:inline"
-       inkscape:label="categories"
-       id="layer2-0-1" />
-    <g
-       transform="matrix(0.41853783,0,0,0.41853783,-63.858582,274.23706)"
-       style="display:inline"
-       inkscape:label="actions"
-       id="layer12-23-2" />
-    <path
-       inkscape:export-xdpi="69"
-       inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-ydpi="69"
-       d="m 8.1925642,289.04345 -0.7479355,0.47414 -5.0633784,-0.50377 1.0299373,-0.34832 4.7814401,0.37795 z"
-       style="fill:#1e88e5;fill-rule:evenodd;stroke-width:0.03196645;fill-opacity:1"
-       id="path4127"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-xdpi="69"
-       inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-ydpi="69"
-       d="m 2.6201945,295.47554 4.5647122,1.12621 0.2667867,-7.08424 -5.0688128,-0.50402 0.237186,6.46215 z"
-       style="fill:#64b5f6;fill-rule:evenodd;stroke-width:0.03196645;fill-opacity:1"
-       id="path4129"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#1e88e5;fill-rule:evenodd;stroke-width:0.03196645;fill-opacity:1"
-       d="m 7.1731757,296.60273 0.7502364,-1.15689 0.2692796,-6.4027 -0.748063,0.4743 z"
-       id="path4131"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       inkscape:export-xdpi="69"
-       inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-ydpi="69"
-       d="m 2.5754424,294.24935 0.04573,1.22827 4.5627947,1.1255 0.050474,-1.35039 -4.6590116,-1.00338 z"
-       style="fill:#cfd8dc;fill-rule:evenodd;stroke-width:0.03196645"
-       id="path11944"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#90a4ae;fill-rule:evenodd;stroke-width:0.03196645"
-       d="m 7.1837562,296.60111 c 0.2473191,-0.37381 0.4946387,-0.74761 0.7419578,-1.12141 0.016464,-0.41994 0.032924,-0.83989 0.049388,-1.25983 -0.2469781,0.3435 -0.4939567,0.687 -0.7409348,1.0305 -0.016794,0.45024 -0.033654,0.90049 -0.050411,1.35074 z"
-       id="path13913"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-xdpi="69"
-       inkscape:export-filename="/home/leandro/Área de Trabalho/box.png"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-ydpi="69"
-       d="m 2.3894629,289.20628 0.053608,1.46301 4.9345899,0.60098 0.062397,-1.58931 -5.0505311,-0.47468 z"
-       style="fill:#cfd8dc;fill-rule:evenodd;stroke-width:0.03196645"
-       id="path9999"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#90a4ae;fill-rule:evenodd;stroke-width:0.03196645"
-       d="m 7.3774371,291.27027 c 0.2489495,-0.19232 0.4978985,-0.38463 0.746848,-0.57694 0.020854,-0.50343 0.041703,-1.00686 0.062557,-1.51029 -0.2493435,0.16597 -0.4986875,0.33194 -0.748031,0.49792 -0.020464,0.52974 -0.040868,1.05969 -0.061374,1.58931 z"
-       id="path13915"
-       inkscape:connector-curvature="0" />
-    <ellipse
-       style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.1261562;stroke-opacity:1"
-       id="path4969"
-       cx="2.3477805"
-       cy="294.5199"
-       rx="2.2154887"
-       ry="2.2155139" />
-    <ellipse
-       style="opacity:0.9;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.12054925;stroke-opacity:1"
-       id="path4969-2"
-       cx="2.3477802"
-       cy="294.5199"
-       rx="2.1170225"
-       ry="2.1170468" />
-    <ellipse
-       style="opacity:0.2;fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:0.03083817;stroke-opacity:1"
-       id="path4969-2-7-0-9"
-       cx="2.3477802"
-       cy="294.5199"
-       rx="0.54156393"
-       ry="0.54157007" />
-    <ellipse
-       style="opacity:1;fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:0.01962429;stroke-opacity:1"
-       id="path4969-2-7"
-       cx="2.3477802"
-       cy="294.5199"
-       rx="0.34463158"
-       ry="0.34463552" />
-    <ellipse
-       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.01401735;stroke-opacity:1"
-       id="path4969-2-7-0"
-       cx="2.3477802"
-       cy="294.5199"
-       rx="0.24616541"
-       ry="0.24616823" />
-  </g>
+    .fil1 {fill:#B6DDC7}</style>
+        <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <filter id="filter917" x="-.012000068" y="-.011999932" width="1.0240001" height="1.0239999" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.022155013"/>
+        </filter>
+        <filter id="filter963" x="-.014194737" y="-.010393064" width="1.0283895" height="1.0207861" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.03437233"/>
+        </filter>
+    </defs>
+    <g transform="translate(0,-288.53333)">
+        <g fill-rule="evenodd">
+            <path d="m3.4110409 288.93072-1.028361 0.34778-0.00155 5.2e-4h0.00155l0.2371947 6.46162 4.5532101 1.12345v4e-3l0.0021-3e-3 0.0093 2e-3 5.17e-4 -0.0176 0.738456-1.13843 0.269234-6.40271-5.16e-4 5.2e-4h-5.17e-4z" filter="url(#filter963)" opacity=".2" stroke-width=".03196646"/>
+            <g stroke-width=".03196645">
+                <path d="m8.1925642 289.04345-0.7479355 0.47414-5.0633784-0.50377 1.0299373-0.34832 4.7814401 0.37795z" fill="#1e88e5"/>
+                <path d="m2.6201945 295.47554 4.5647122 1.12621 0.2667867-7.08424-5.0688128-0.50402 0.237186 6.46215z" fill="#64b5f6"/>
+                <path d="m7.1731757 296.60273 0.7502364-1.15689 0.2692796-6.4027-0.748063 0.4743z" fill="#1e88e5"/>
+            </g>
+        </g>
+        <g fill-rule="evenodd" stroke-width=".03196645">
+            <path d="m2.5754424 294.24935 0.04573 1.22827 4.5627947 1.1255 0.050474-1.35039-4.6590116-1.00338z" fill="#cfd8dc"/>
+            <path d="m7.1837562 296.60111c0.2473191-0.37381 0.4946387-0.74761 0.7419578-1.12141 0.016464-0.41994 0.032924-0.83989 0.049388-1.25983-0.2469781 0.3435-0.4939567 0.687-0.7409348 1.0305-0.016794 0.45024-0.033654 0.90049-0.050411 1.35074z" fill="#90a4ae"/>
+            <path d="m2.3894629 289.20628 0.053608 1.46301 4.9345899 0.60098 0.062397-1.58931-5.0505311-0.47468z" fill="#cfd8dc"/>
+            <path d="m7.3774371 291.27027c0.2489495-0.19232 0.4978985-0.38463 0.746848-0.57694 0.020854-0.50343 0.041703-1.00686 0.062557-1.51029-0.2493435 0.16597-0.4986875 0.33194-0.748031 0.49792-0.020464 0.52974-0.040868 1.05969-0.061374 1.58931z" fill="#90a4ae"/>
+        </g>
+        <g>
+            <ellipse cx="2.3477805" cy="294.78448" rx="2.2154887" ry="2.2155139" filter="url(#filter917)" opacity=".2"/>
+            <ellipse cx="2.3477805" cy="294.5199" rx="2.2154887" ry="2.2155139" fill="#2196f3"/>
+            <ellipse cx="2.3477802" cy="294.5199" rx="2.1170225" ry="2.1170468" fill="#fafafa" opacity=".9"/>
+            <ellipse cx="2.3477802" cy="294.5199" rx=".54156393" ry=".54157007" fill="#3689e6" opacity=".2"/>
+            <ellipse cx="2.3477802" cy="294.5199" rx=".34463158" ry=".34463552" fill="#3689e6"/>
+            <ellipse cx="2.3477802" cy="294.5199" rx=".24616541" ry=".24616823" fill="#fafafa"/>
+        </g>
+    </g>
 </svg>
