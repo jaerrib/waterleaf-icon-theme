@@ -1,63 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <filter id="filter1035" x="-.00015824" y="-.00079121" width="1.0003" height="1.0016" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.00098901099"/>
-  </filter>
-  <filter id="filter1039" x="-.00082174" y="-.0022235" width="1.0016" height="1.0044" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.015749999"/>
-  </filter>
-  <filter id="filter1110" x="-5.4306e-10" y="-7.9258e-10" width="1" height="1" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="6.1094761e-09"/>
-  </filter>
- </defs>
- <rect x="2.5" y="7.5" width="27" height="18.5" rx="1.35" ry="1.3214" filter="url(#filter1110)" opacity=".2" stroke-width=".66782" style=""/>
- <g transform="matrix(.5 0 0 .5 -4.8842e-7 .58333)" stroke-width="1.3356">
-  <rect x="5" y="11.833" width="54" height="37" rx="2.7" ry="2.6429" fill="#78909c"/>
-  <path d="m7.7 11.833c-1.4958 0-2.7 1.1787-2.7 2.6429v1.3214c0-1.4641 1.2042-2.6429 2.7-2.6429h48.6c1.4958 0 2.7 1.1787 2.7 2.6429v-1.3214c0-1.4641-1.2042-2.6429-2.7-2.6429z" fill="#fff" opacity=".1"/>
- </g>
- <rect x="8.5" y="10.417" width="3" height="3" ry=".5" opacity=".2"/>
- <rect x="12.5" y="10.417" width="3" height="3" ry=".5" opacity=".2"/>
- <rect x="16.5" y="10.417" width="3" height="3" ry=".5" opacity=".2"/>
- <rect x="20.5" y="10.417" width="3" height="3" ry=".5" opacity=".2"/>
- <rect x="24.5" y="10.417" width="3" height="3" ry=".5" opacity=".2"/>
- <rect x="4.5" y="15.917" width="3" height="3" ry=".5" opacity=".2"/>
- <rect x="8.5" y="15.917" width="3" height="3" ry=".5" opacity=".2"/>
- <rect x="12.5" y="15.917" width="3" height="3" ry=".5" opacity=".2"/>
- <rect x="16.5" y="15.917" width="3" height="3" ry=".5" opacity=".2"/>
- <rect x="20.5" y="15.917" width="3" height="3" ry=".5" opacity=".2"/>
- <rect transform="matrix(.5 0 0 .5 0 1.0003)" x="9" y="18.833" width="6" height="6" ry="1" filter="url(#filter1039)" opacity=".2"/>
- <rect transform="matrix(.5 0 0 .5 0 1.0003)" x="49" y="29.833" width="6" height="6" ry="1" filter="url(#filter1039)" opacity=".2"/>
- <rect x="8.5" y="20.417" width="15" height="3" rx="0" ry=".5" filter="url(#filter1035)" opacity=".2" style=""/>
- <g fill="#fafafa">
-  <rect x="8.5" y="9.4167" width="3" height="3" ry=".5"/>
-  <rect x="12.5" y="9.4167" width="3" height="3" ry=".5"/>
-  <rect x="16.5" y="9.4167" width="3" height="3" ry=".5"/>
-  <rect x="20.5" y="9.4167" width="3" height="3" ry=".5"/>
-  <rect x="24.5" y="9.4167" width="3" height="3" ry=".5"/>
-  <rect x="4.5" y="14.917" width="3" height="3" ry=".5"/>
-  <rect x="8.5" y="14.917" width="3" height="3" ry=".5"/>
-  <rect x="12.5" y="14.917" width="3" height="3" ry=".5"/>
-  <rect x="16.5" y="14.917" width="3" height="3" ry=".5"/>
-  <rect x="20.5" y="14.917" width="3" height="3" ry=".5"/>
-  <g transform="scale(.5)" stroke="#d50000">
-   <rect x="9" y="18.833" width="6" height="6" ry="1"/>
-   <rect x="49" y="29.833" width="6" height="6" ry="1"/>
-  </g>
-  <rect x="8.5" y="19.417" width="15" height="3" rx="0" ry=".5"/>
- </g>
- <g fill="none" stroke="#d50000" stroke-width=".5">
-  <path d="m26.25 18v11"/>
-  <path d="m5.5 28.75h21"/>
-  <path d="m5.75 12.5v16.5"/>
- </g>
+<svg version="1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter1035" x="-.0144" y="-.072000001" width="1.0288" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1039" x="-.009391305" y="-.025411768" width="1.0187826" height="1.0508235" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.18"/>
+        </filter>
+        <filter id="filter1043" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1047" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1051" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1055" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1059" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1063" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1067" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1071" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1075" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1079" x="-.072000001" y="-.072000001" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.090000001"/>
+        </filter>
+        <filter id="filter1110" x="-.010111111" y="-.014756757" width="1.0202222" height="1.0295135" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.11375"/>
+        </filter>
+    </defs>
+    <rect x="2.5" y="7.5" width="27" height="18.5" rx="1.3499999" ry="1.3214285" filter="url(#filter1110)" opacity=".2" stroke-width=".6678189"/>
+    <g transform="matrix(.5 0 0 .5 -4.8841858e-7 .5833335)" stroke-width="1.3356378">
+        <rect x="5.000001" y="11.833333" width="54" height="37" rx="2.6999998" ry="2.6428571" fill="#78909c"/>
+        <path d="m7.700004 11.833333c-1.4958 0-2.7 1.178714-2.7 2.642857v1.321429c0-1.464143 1.2042-2.642858 2.7-2.642858h48.599997c1.4958 0 2.7 1.178715 2.7 2.642858v-1.321429c0-1.464143-1.2042-2.642857-2.7-2.642857z" fill="#fff" opacity=".1"/>
+    </g>
+    <g>
+        <rect x="8.5000029" y="10.417001" width="3" height="3" ry=".5" filter="url(#filter1079)" opacity=".2"/>
+        <rect x="12.500002" y="10.417001" width="3" height="3" ry=".5" filter="url(#filter1075)" opacity=".2"/>
+        <rect x="16.500002" y="10.417001" width="3" height="3" ry=".5" filter="url(#filter1071)" opacity=".2"/>
+        <rect x="20.500002" y="10.417001" width="3" height="3" ry=".5" filter="url(#filter1067)" opacity=".2"/>
+        <rect x="24.500002" y="10.417001" width="3" height="3" ry=".5" filter="url(#filter1063)" opacity=".2"/>
+        <rect x="4.500001" y="15.917" width="3" height="3" ry=".5" filter="url(#filter1059)" opacity=".2"/>
+        <rect x="8.500001" y="15.917" width="3" height="3" ry=".5" filter="url(#filter1055)" opacity=".2"/>
+        <rect x="12.500002" y="15.917" width="3" height="3" ry=".5" filter="url(#filter1051)" opacity=".2"/>
+        <rect x="16.5" y="15.917" width="3" height="3" ry=".5" filter="url(#filter1047)" opacity=".2"/>
+        <rect x="20.5" y="15.917" width="3" height="3" ry=".5" filter="url(#filter1043)" opacity=".2"/>
+    </g>
+    <g transform="matrix(.5 0 0 .5 0 1.0003335)" filter="url(#filter1039)" opacity=".2">
+        <rect x="9.0000029" y="18.833334" width="6" height="6" ry="1" opacity="1"/>
+        <rect x="49" y="29.833332" width="6" height="6" ry="1" opacity="1"/>
+    </g>
+    <rect x="8.500001" y="20.417" width="15" height="3" rx="0" ry=".5" filter="url(#filter1035)" opacity=".2"/>
+    <g fill="#fafafa">
+        <rect x="8.5000019" y="9.416667" width="3" height="3" ry=".5"/>
+        <rect x="12.500002" y="9.416667" width="3" height="3" ry=".5"/>
+        <rect x="16.500002" y="9.416667" width="3" height="3" ry=".5"/>
+        <rect x="20.500002" y="9.416667" width="3" height="3" ry=".5"/>
+        <rect x="24.500002" y="9.416667" width="3" height="3" ry=".5"/>
+        <rect x="4.5000005" y="14.916666" width="3" height="3" ry=".5"/>
+        <rect x="8.500001" y="14.916666" width="3" height="3" ry=".5"/>
+        <rect x="12.500001" y="14.916666" width="3" height="3" ry=".5"/>
+        <rect x="16.5" y="14.916666" width="3" height="3" ry=".5"/>
+        <rect x="20.5" y="14.916666" width="3" height="3" ry=".5"/>
+    </g>
+    <g transform="scale(.5)" fill="#fafafa" stroke="#d50000">
+        <rect x="9.0000029" y="18.833334" width="6" height="6" ry="1"/>
+        <rect x="49" y="29.833332" width="6" height="6" ry="1"/>
+    </g>
+    <rect x="8.500001" y="19.416666" width="15" height="3" rx="0" ry=".5" fill="#fafafa"/>
+    <g fill="none" stroke="#d50000" stroke-width=".5">
+        <path d="m26.25 18v11"/>
+        <path d="m5.5 28.75h21"/>
+        <path d="m5.75 12.5v16.5"/>
+    </g>
 </svg>
