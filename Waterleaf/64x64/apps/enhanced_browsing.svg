@@ -1,9 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <rect style="opacity:0.2" width="56" height="56" x="4" y="5" rx="16.8" ry="16.8"/>
- <rect style="fill:#6943b5" width="56" height="56" x="4" y="4" rx="16.8" ry="16.8"/>
- <path style="opacity:0.2" d="m 44.984376,14.959179 a 3.0003,3.0003 0 0 0 -2.742188,1.855469 l -12,28 a 3.0010702,3.0010702 0 1 0 5.515624,2.367188 l 12,-28 A 3.0003,3.0003 0 0 0 44.984376,14.959179 Z M 22,24.998242 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,16 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z"/>
- <circle style="fill:#67d0ff" cx="22" cy="28" r="4"/>
- <circle style="fill:#67d0ff" cx="22" cy="44" r="4"/>
- <path style="fill:none;stroke:#67d0ff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 33,45 45,17"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 20.800781 4 C 11.493581 4 4 11.493581 4 20.800781 L 4 21.800781 C 4 12.493581 11.493581 5 20.800781 5 L 43.199219 5 C 52.506419 5 60 12.493581 60 21.800781 L 60 20.800781 C 60 11.493581 52.506419 4 43.199219 4 L 20.800781 4 z"/>
+<svg version="1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+        <filter id="filter1005" x="-.012933358" y="-.011192289" width="1.0258667" height="1.0223846" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.24250046"/>
+        </filter>
+    </defs>
+    <g transform="translate(-2.7259878e-7 .99999905)" filter="url(#filter1005)" opacity=".2">
+        <circle cx="15.499997" cy="28.500004" r="6.4999971" stroke-width="2.1666656"/>
+        <circle cx="15.499997" cy="53.500004" r="6.4999971" stroke-width="2.1666656"/>
+        <path d="m49.624201 8.0052398a4.1631685 4.1558685 0 0 0-3.699319 2.7229582l-16.65101 43.632254a4.1637417 4.1564409 0 1 0 7.78077 2.962385l16.65101-43.632255a4.1631685 4.1558685 0 0 0-4.081451-5.6853422z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity="1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    </g>
+    <g fill="#555">
+        <circle cx="15.499997" cy="28.500004" r="6.4999971" stroke-width="2.1666656"/>
+        <circle cx="15.499997" cy="53.500004" r="6.4999971" stroke-width="2.1666656"/>
+        <path d="m49.624201 8.0052398a4.1631685 4.1558685 0 0 0-3.699319 2.7229582l-16.65101 43.632254a4.1637417 4.1564409 0 1 0 7.78077 2.962385l16.65101-43.632255a4.1631685 4.1558685 0 0 0-4.081451-5.6853422z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    </g>
 </svg>
