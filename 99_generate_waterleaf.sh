@@ -18,6 +18,12 @@ fi
 # --- Initialize ---
 echo
 read -p "Before init, press enter to continue ..." RDVAR_XYZ
+
+#Commits defining the fixed points
+COMMIT_PAPIRUS_ICONS="074aa8f2263ecdc5696177baa193e6cbe19b3032"
+COMMIT_PAPIRUS_FOLDERS="e3df02db6998ad8593531f21b762ac7605d2e2ac"
+COMMIT_WATERLEAF_ICONS="2a1790ce1c58f357e8efcd14d68beb5e9f84c617"
+
 cd $(dirname $0)
 THIS_SCRIPT_DIR="$(pwd)"
 OUTDIR="$THIS_SCRIPT_DIR/../.00built/"
@@ -46,6 +52,16 @@ read -p "Before copy, press enter to continue ..." RDVAR_XYZ
 mkdir -p $WKDIR1
 cp -r $THIS_SCRIPT_DIR/* $WKDIR1/
 cp -r $CLONEDIR/* $WKDIR1/
+
+# --- Checkout Git repositories ---
+echo
+read -p "Before git checkouts, press enter to continue ..." RDVAR_XYZ
+cd $WKDIR1/papirus-icon-theme/
+git checkout --detach "$COMMIT_PAPIRUS_ICONS"
+cd $WKDIR1/papirus-folders/
+git checkout --detach "$COMMIT_PAPIRUS_FOLDERS"
+cd $WKDIR1/waterleaf-icon-theme/
+git checkout --detach "$COMMIT_WATERLEAF_ICONS"
 
 # --- Apply patches ---
 echo
