@@ -100,7 +100,10 @@ cp -r $HOME/.icons/Papirus.WorkingTree/* $OUTDIR/Waterleaf/
 # --- Override with original Waterleaf icons ---
 echo
 read -p "Before Waterleaf override, press enter to continue ..." RDVAR_XYZ
-#todo: parse the list file "70_waterleaf_icons.lst" and copy listed Waterleaf icons over the Papirus ones.
+while read LINE1; do
+  sh $WKDIR1/90_cp_icon.sh $WKDIR1/waterleaf-icon-theme/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.png"
+  sh $WKDIR1/90_cp_icon.sh $WKDIR1/waterleaf-icon-theme/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.svg"
+done < $WKDIR1/70_waterleaf_icons.lst
 
 # --- Clean ---
 echo
