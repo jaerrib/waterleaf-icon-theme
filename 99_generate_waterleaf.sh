@@ -22,7 +22,7 @@ read -p "Before init, press enter to continue ..." RDVAR_XYZ
 #Commits defining the fixed points
 COMMIT_PAPIRUS_ICONS="074aa8f2263ecdc5696177baa193e6cbe19b3032"
 COMMIT_PAPIRUS_FOLDERS="e3df02db6998ad8593531f21b762ac7605d2e2ac"
-COMMIT_WATERLEAF_ICONS="2a1790ce1c58f357e8efcd14d68beb5e9f84c617"
+# COMMIT_WATERLEAF_ICONS="2a1790ce1c58f357e8efcd14d68beb5e9f84c617"
 
 cd $(dirname $0)
 THIS_SCRIPT_DIR="$(pwd)"
@@ -61,7 +61,8 @@ git checkout --detach "$COMMIT_PAPIRUS_ICONS"
 cd $WKDIR1/papirus-folders/
 git checkout --detach "$COMMIT_PAPIRUS_FOLDERS"
 cd $WKDIR1/waterleaf-icon-theme/
-git checkout --detach "$COMMIT_WATERLEAF_ICONS"
+git checkout development
+# git checkout --detach "$COMMIT_WATERLEAF_ICONS"
 
 # --- Apply patches ---
 echo

@@ -36,7 +36,7 @@ find $DST_ICON_DIR/ -type f,l -iname "$DST_ICON_NAME" | while read -r ICONFL01 ;
 done
 
 #Copy "$SRC_ICON_NAME" icon variants from source to destination directory
-find $SRC_ICON_DIR/ -type f -iname "$SRC_ICON_NAME" | while read -r ICONFL02 ; do
+find $SRC_ICON_DIR/ -type f,l -iname "$SRC_ICON_NAME" | while read -r ICONFL02 ; do
   ICONFL03="$( echo $ICONFL02 | awk -F'/' '{ print $(NF-2)"/"$(NF-1)"/" }' )/$DST_ICON_NAME"
   # echo "cp --remove-destination $ICONFL02 $DST_ICON_DIR/$ICONFL03"
   mkdir -p "$( dirname "$DST_ICON_DIR/$ICONFL03" )"
