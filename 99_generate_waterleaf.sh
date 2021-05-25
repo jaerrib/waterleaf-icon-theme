@@ -106,6 +106,14 @@ while read LINE1; do
   sh $WKDIR1/90_cp_icon.sh $WKDIR1/waterleaf-icon-theme/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.svg"
 done < $WKDIR1/70_waterleaf_icons.lst
 
+# # --- Icons linking ---
+# echo
+# read -p "Before icons linking, press enter to continue ..." RDVAR_XYZ
+# while read LINE1; do
+#   sh $WKDIR1/91_link_icon.sh $OUTDIR/Waterleaf/ "$LINE1.png"
+#   sh $WKDIR1/91_link_icon.sh $OUTDIR/Waterleaf/ "$LINE1.svg"
+# done < $WKDIR1/70_waterleaf_icons.lst
+
 # --- Clean ---
 echo
 read -p "Before clean, press enter to continue ..." RDVAR_XYZ

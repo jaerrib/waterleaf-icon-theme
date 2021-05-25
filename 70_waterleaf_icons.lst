@@ -1,6 +1,6 @@
 #Waterleaf overriding icons
-about_kde
 about-kde
+about_kde
 amarok__add_lyrics
 amarok_add_playlist
 amarok_album
@@ -67,26 +67,25 @@ amarok_visualizations
 amarok_zoom
 apply
 autodimm
-autodimm
 blockdevice
-configure
 configure
 desktop-environment-gnome
 desktop-profiler
-distributor-logo-q4os-m1
+display
 distributor-logo-q4os1
 distributor-logo-q4os2
 distributor-logo-q4os3
 distributor-logo-q4os4
 distributor-logo-q4os5
-display
+distributor-logo-q4os-m1
 encrypted
 enhanced_browsing
 input-joystick
 kdevdesigner
-kdevdesigner
 keyboard
+kmenu
 khotkeys
+konqueror
 kpager
 laptopbattery
 laptopbatteryORANGE
@@ -103,7 +102,6 @@ q4os_swprofiler
 q4os-updatemgr
 samba
 scheme_acoustic
-scheme_advanced_powersave
 scheme_advanced_powersave
 scheme_power
 scheme_powersave
