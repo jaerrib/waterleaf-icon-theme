@@ -122,3 +122,11 @@ welcome-screen
 x-content-software
 x-content-unix-software
 yast
+#
+#Symlinking folder-documents -> folder_wordprocessing will be better, todo
+folder_wordprocessing
+#
+#Wired network icon and symlink
+nm_device_wired
+#
+#computer
