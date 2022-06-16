@@ -1,0 +1,20 @@
+diff -uNr papirus-icon-theme.a/tools/build_color_folders.sh papirus-icon-theme.b/tools/build_color_folders.sh
+--- papirus-icon-theme.a/tools/build_color_folders.sh	2020-07-19 13:23:53.780661935 +0200
++++ papirus-icon-theme.b/tools/build_color_folders.sh	2020-07-19 13:46:29.000000000 +0200
+@@ -33,7 +33,7 @@
+ SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
+ TARGET_DIR="$SCRIPT_DIR/../Papirus"
+ 
+-DEFAULT_COLOR="blue"
++DEFAULT_COLOR="blue"
+ SIZES_REGEX="(16x16|22x22|24x24|32x32|48x48|64x64)"
+ COLOR_SIZES_REGEX="(22x22|24x24|32x32|48x48|64x64)"
+ FILES_REGEX="(folder|user)-"
+@@ -48,6 +48,7 @@
+ 	#
+ 	# | name     | [0]   | [1]   | [2]   | [3]   |
+ 	# |----------|-------|-------|-------|-------|
++	[waterleaf]=" #90a4ae #78909c #f0f0f0 #f0f0f0"
+ 	[blue]="      #5294e2 #4877b1 #1d344f #e4e4e4"
+ 	[black]="     #4f4f4f #3f3f3f #c2c2c2 #dcdcdc"
+ 	[bluegrey]="  #607d8b #4d646f #222c31 #e4e4e4"
