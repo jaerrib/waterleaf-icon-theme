@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   version="1.1"
+   width="32"
+   id="svg10"
+   sodipodi:docname="amarok_collection.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   style="enable-background:new">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="10.729167"
+     inkscape:cx="7.9223306"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer9">
+    <inkscape:grid
+       type="xygrid"
+       id="grid828" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="status"
+     transform="translate(-560.0002,237)">
+    <g
+       style="fill:#555555;fill-opacity:1;enable-background:new"
+       id="layer1"
+       transform="matrix(1.8571429,0,0,1.8571538,-304.28553,-649.00262)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5057-4"
+         style="color:#000000;text-indent:0;text-transform:none;fill:#555555;fill-opacity:1;enable-background:accumulate"
+         d="m 467,226 v 11 c 0,0 0,1 1,1 h 12 c 0,0 1,0 1,-1 v -9 c 0,-1 -1,-1 -1,-1 h -5 l -2,-2 h -5 c 0,0 -1,0 -1,1 z" />
+    </g>
+    <g
+       id="layer9-5"
+       inkscape:label="status"
+       style="display:inline"
+       transform="matrix(1.8643134,0,0,1.8643244,498.1187,99.396153)" />
+    <g
+       id="layer1-3"
+       inkscape:label="places"
+       style="display:inline"
+       transform="matrix(1.8643134,0,0,1.8643244,947.4186,-1050.892)" />
+    <g
+       id="layer14"
+       inkscape:label="mimetypes"
+       style="display:inline;fill:#ffffff"
+       transform="matrix(0.79233315,0,0,0.79233782,42.759832,55.962936)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 670.0002,-350 c 0,0 0,0 0,1 v 7.1875 c -0.31647,-0.11352 -0.64447,-0.1875 -1,-0.1875 -1.65685,0 -3,1.34315 -3,3 0,1.65685 1.34315,3 3,3 1.65685,0 3,-1.34315 3,-3 v -7 h 6 v 4.1875 c -0.31647,-0.11352 -0.64447,-0.1875 -1,-0.1875 -1.65685,0 -3,1.34315 -3,3 0,1.65685 1.34315,3 3,3 1.65685,0 3,-1.34315 3,-3 v -11 c 0,0 0,0 -1,0 z"
+         id="path7442"
+         sodipodi:nodetypes="cccsssscccsssscsc"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="layer15"
+       inkscape:label="emblems"
+       style="display:inline"
+       transform="matrix(1.8643134,0,0,1.8643244,498.1187,99.396153)" />
+    <g
+       id="g71291"
+       inkscape:label="emotes"
+       style="display:inline"
+       transform="matrix(1.8643134,0,0,1.8643244,498.1187,99.396153)" />
+    <g
+       id="layer2"
+       inkscape:label="categories"
+       style="display:inline"
+       transform="matrix(1.8643134,0,0,1.8643244,947.4186,-771.24332)" />
+    <g
+       id="g6058"
+       inkscape:label="apps"
+       style="display:inline"
+       transform="matrix(1.8643134,0,0,1.8643244,947.4186,-771.24332)" />
+    <g
+       id="layer12"
+       inkscape:label="actions"
+       style="display:inline"
+       transform="matrix(1.8643134,0,0,1.8643244,498.1187,99.396153)" />
+  </g>
+</svg>

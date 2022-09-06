@@ -42,9 +42,9 @@ fi
 if [ ! -d "papirus-icon-theme" ] ; then
   git clone https://github.com/PapirusDevelopmentTeam/papirus-icon-theme.git
 fi
-if [ ! -d "waterleaf-icon-theme" ] ; then
-  git clone https://github.com/jaerrib/waterleaf-icon-theme.git
-fi
+# if [ ! -d "waterleaf-icon-theme" ] ; then
+#   git clone https://github.com/jaerrib/waterleaf-icon-theme.git
+# fi
 
 # --- Copy files ---
 echo
@@ -60,9 +60,9 @@ cd $WKDIR1/papirus-icon-theme/
 git checkout --detach "$COMMIT_PAPIRUS_ICONS"
 cd $WKDIR1/papirus-folders/
 git checkout --detach "$COMMIT_PAPIRUS_FOLDERS"
-cd $WKDIR1/waterleaf-icon-theme/
-git checkout development
-git checkout --detach "$COMMIT_WATERLEAF_ICONS"
+# cd $WKDIR1/waterleaf-icon-theme/
+# git checkout development
+# git checkout --detach "$COMMIT_WATERLEAF_ICONS"
 
 # --- Apply patches ---
 echo
@@ -101,9 +101,11 @@ cp -r $HOME/.icons/Papirus.WorkingTree/* $OUTDIR/Waterleaf/
 # --- Override with original Waterleaf icons ---
 echo
 read -p "Before Waterleaf override, press enter to continue ..." RDVAR_XYZ
+cp $OUTDIR/Waterleaf/index.theme $WKDIR1/Waterleaf/
+read -p "..." RDVAR_XYZ
 while read LINE1; do
-  sh $WKDIR1/90_cp_icon.sh $WKDIR1/waterleaf-icon-theme/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.png"
-  sh $WKDIR1/90_cp_icon.sh $WKDIR1/waterleaf-icon-theme/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.svg"
+  sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.png"
+  sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.svg"
 done < $WKDIR1/70_waterleaf_icons.lst
 
 # # --- Icons linking ---

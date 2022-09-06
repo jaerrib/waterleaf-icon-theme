@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="24"
+   width="24"
+   version="1.1"
+   sodipodi:docname="laptopbatteryORANGE.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="16.09375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <rect
+     style="opacity:1;fill:#ff6d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.97726226;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+     id="rect4495"
+     width="24"
+     height="24"
+     x="0"
+     y="0" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 3.975,1.5 v 1.473215 h -3.6 v 1.473214 16.205357 c 0,0.816159 0.5352,1.473214 1.2,1.473214 h 9.6 c 0.6648,0 1.2,-0.657055 1.2,-1.473214 V 4.446429 2.973215 h -3.6 V 1.5 Z"
+     style="opacity:1;fill:#f9ce1d;stroke-width:1.32960796"
+     id="path6763"
+     sodipodi:nodetypes="ccccssssccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 0.375,8.866072 v 11.785714 c 0,0.816159 0.5352,1.473214 1.2,1.473214 h 9.6 c 0.6648,0 1.2,-0.657055 1.2,-1.473214 V 8.866072 Z"
+     style="fill:#263238;stroke-width:1.32960796"
+     id="path6765"
+     sodipodi:nodetypes="csssscc" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.37493864;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4515"
+     width="9.750061"
+     height="20.250061"
+     x="13.687469"
+     y="1.6874685"
+     ry="0.71174955" />
+</svg>

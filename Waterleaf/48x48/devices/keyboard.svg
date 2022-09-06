@@ -1,0 +1,51 @@
+<svg version="1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter4728" x="-.020222222" y="-.029513514" width="1.0404444" height="1.059027" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.455"/>
+        </filter>
+        <filter id="filter4851" x="-.018782608" y="-.03323077" width="1.0375652" height="1.0664614" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.35999999"/>
+        </filter>
+    </defs>
+    <rect transform="scale(.75)" x="5.0000005" y="14" width="54" height="37" rx="2.6999998" ry="2.6428571" filter="url(#filter4728)" opacity=".2" stroke-width="1.3356378"/>
+    <rect x="3.7500005" y="9.75" width="40.5" height="27.75" rx="2.0249999" ry="1.9821428" fill="#78909c" stroke-width="1.0017283"/>
+    <path d="m5.7750006 9.75c-1.12185 0-2.0249999 0.884036-2.0249999 1.982143v0.991071c0-1.098107 0.9031499-1.982143 2.0249999-1.982143h36.449999c1.12185 0 2.024999 0.884036 2.024999 1.982143v-0.991071c0-1.098107-0.903149-1.982143-2.024999-1.982143z" fill="#fff" opacity=".1" stroke-width="1.0017283"/>
+    <g transform="matrix(.75 0 0 .75 6.4692439 -.02636147)" filter="url(#filter4851)" opacity=".2">
+        <rect x="8.374341" y="41.035149" width="30" height="6" rx="0" ry="1" stroke-width="1.2247448"/>
+        <g transform="translate(-8.6256586,1.0351507)" style="">
+            <rect x="9" y="20" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="17" y="20" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="25" y="20" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="33" y="20" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="41" y="20" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="49" y="20" width="6" height="6" ry="1" opacity="1"/>
+        </g>
+        <g transform="translate(-8.6256586,1.0351507)" style="">
+            <rect x="9" y="31" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="17" y="31" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="25" y="31" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="33" y="31" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="41" y="31" width="6" height="6" ry="1" opacity="1"/>
+            <rect x="49" y="31" width="6" height="6" ry="1" opacity="1"/>
+        </g>
+    </g>
+    <g transform="scale(.75)" fill="#fafafa">
+        <rect x="17" y="39.999996" width="30" height="6" rx="0" ry="1" stroke-width="1.2247448"/>
+        <g>
+            <rect x="9" y="20" width="6" height="6" ry="1"/>
+            <rect x="17" y="20" width="6" height="6" ry="1"/>
+            <rect x="25" y="20" width="6" height="6" ry="1"/>
+            <rect x="33" y="20" width="6" height="6" ry="1"/>
+            <rect x="41" y="20" width="6" height="6" ry="1"/>
+            <rect x="49" y="20" width="6" height="6" ry="1"/>
+        </g>
+        <g>
+            <rect x="9" y="31" width="6" height="6" ry="1"/>
+            <rect x="17" y="31" width="6" height="6" ry="1"/>
+            <rect x="25" y="31" width="6" height="6" ry="1"/>
+            <rect x="33" y="31" width="6" height="6" ry="1"/>
+            <rect x="41" y="31" width="6" height="6" ry="1"/>
+            <rect x="49" y="31" width="6" height="6" ry="1"/>
+        </g>
+    </g>
+</svg>

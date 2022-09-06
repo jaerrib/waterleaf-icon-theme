@@ -1,0 +1,17 @@
+<svg enable-background="new" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <title>Paper Symbolic Icon Theme</title>
+    <defs>
+        <filter id="filter4551" x="-.0163125" y="-.0094909091" width="1.032625" height="1.0189818" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.2175"/>
+        </filter>
+        <filter id="filter4502" x="-.018222222" y="-.0089454548" width="1.0364444" height="1.0178909" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.205"/>
+        </filter>
+    </defs>
+    <rect width="48" height="48" fill="#ff6d00" style="paint-order:markers stroke fill"/>
+    <path transform="scale(.75)" d="m10.6 5v3.9285715h-9.6v47.142858c0 2.176428 1.4272 3.928571 3.2 3.928571h25.6c1.7728 0 3.2-1.752143 3.2-3.928571v-47.142858h-9.6v-3.9285715z" filter="url(#filter4551)" opacity=".2" stroke-width="3.5456212"/>
+    <rect transform="scale(.75)" x="36" y="5" width="27" height="55" ry="1.933141" enable-background="new" filter="url(#filter4502)" opacity=".2"/>
+    <path d="m7.95 2.9999999v2.9464287h-7.2v35.357144c0 1.632318 1.0704 2.946427 2.4 2.946427h19.2c1.3296 0 2.4-1.314109 2.4-2.946427v-35.357144h-7.2v-2.9464287z" fill="#f9ce1d" stroke-width="2.6592159"/>
+    <path d="m0.75 17.732143v23.57143c0 1.632318 1.0704 2.946427 2.4 2.946427h19.2c1.3296 0 2.4-1.314109 2.4-2.946427v-23.57143z" fill="#263238" stroke-width="2.6592159"/>
+    <rect x="27.374939" y="3.3749385" width="19.500122" height="40.500122" ry="1.4234991" fill="#fff" stroke="#000" stroke-width=".74987727"/>
+</svg>
