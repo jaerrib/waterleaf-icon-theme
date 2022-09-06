@@ -21,8 +21,8 @@ read -p "Before init, press enter to continue ..." RDVAR_XYZ
 
 #Commits defining the fixed points
 COMMIT_PAPIRUS_ICONS="074aa8f2263ecdc5696177baa193e6cbe19b3032"
-COMMIT_PAPIRUS_FOLDERS="e3df02db6998ad8593531f21b762ac7605d2e2ac"
-COMMIT_WATERLEAF_ICONS="eecee60a38447de8e97f730cd3866829a3e5f8b4"
+COMMIT_PAPIRUS_FOLDERS="6837aa9ca9f1e87040ed7f5d07e23960010d010f"
+# COMMIT_WATERLEAF_ICONS="eecee60a38447de8e97f730cd3866829a3e5f8b4"
 
 cd $(dirname $0)
 THIS_SCRIPT_DIR="$(pwd)"
@@ -102,7 +102,6 @@ cp -r $HOME/.icons/Papirus.WorkingTree/* $OUTDIR/Waterleaf/
 echo
 read -p "Before Waterleaf override, press enter to continue ..." RDVAR_XYZ
 cp $OUTDIR/Waterleaf/index.theme $WKDIR1/Waterleaf/
-read -p "..." RDVAR_XYZ
 while read LINE1; do
   sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.png"
   sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.svg"
