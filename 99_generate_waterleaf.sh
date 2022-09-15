@@ -101,7 +101,7 @@ cp -r $HOME/.icons/Papirus.WorkingTree/* $OUTDIR/Waterleaf/
 # --- Override with original Waterleaf icons ---
 echo
 read -p "Before Waterleaf override, press enter to continue ..." RDVAR_XYZ
-cp $OUTDIR/Waterleaf/index.theme $WKDIR1/Waterleaf/
+touch $WKDIR1/Waterleaf/index.theme
 while read LINE1; do
   sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.png"
   sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.svg"
@@ -114,6 +114,11 @@ done < $WKDIR1/70_waterleaf_icons.lst
 #   sh $WKDIR1/91_link_icon.sh $OUTDIR/Waterleaf/ "$LINE1.png"
 #   sh $WKDIR1/91_link_icon.sh $OUTDIR/Waterleaf/ "$LINE1.svg"
 # done < $WKDIR1/70_waterleaf_icons.lst
+
+# --- Check and fix symbolic links ---
+echo
+read -p "Before symlinks check, press enter to continue ..." RDVAR_XYZ
+sh $WKDIR1/97_fix_symlinks.sh "$OUTDIR/Waterleaf/" #set FIX_DOUBLE_LINKS=1 for fixing multiple level symlinks
 
 # --- Clean ---
 echo
