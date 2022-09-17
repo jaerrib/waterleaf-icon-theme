@@ -1,4 +1,5 @@
 #!/bin/sh
+
 #This script generates the complete Waterleaf icon theme
 
 # --- Check environment ---
@@ -20,9 +21,12 @@ echo
 read -p "Before init, press enter to continue ..." RDVAR_XYZ
 
 #Commits defining the fixed points
-COMMIT_PAPIRUS_ICONS="074aa8f2263ecdc5696177baa193e6cbe19b3032"
-COMMIT_PAPIRUS_FOLDERS="6837aa9ca9f1e87040ed7f5d07e23960010d010f"
-# COMMIT_WATERLEAF_ICONS="eecee60a38447de8e97f730cd3866829a3e5f8b4"
+if [ "$PAPIRUS_20220916" != "1" ] ; then
+  COMMIT_PAPIRUS_ICONS="074aa8f2263ecdc5696177baa193e6cbe19b3032" #2021-07-21
+else
+  COMMIT_PAPIRUS_ICONS="9c6fba831ec71c1c3551e7e31187d0b0d3abb78b" #2022-09-16
+fi
+COMMIT_PAPIRUS_FOLDERS="6837aa9ca9f1e87040ed7f5d07e23960010d010f" #2022-07-25
 
 cd $(dirname $0)
 THIS_SCRIPT_DIR="$(pwd)"
@@ -42,9 +46,6 @@ fi
 if [ ! -d "papirus-icon-theme" ] ; then
   git clone https://github.com/PapirusDevelopmentTeam/papirus-icon-theme.git
 fi
-# if [ ! -d "waterleaf-icon-theme" ] ; then
-#   git clone https://github.com/jaerrib/waterleaf-icon-theme.git
-# fi
 
 # --- Copy files ---
 echo
@@ -60,9 +61,6 @@ cd $WKDIR1/papirus-icon-theme/
 git checkout --detach "$COMMIT_PAPIRUS_ICONS"
 cd $WKDIR1/papirus-folders/
 git checkout --detach "$COMMIT_PAPIRUS_FOLDERS"
-# cd $WKDIR1/waterleaf-icon-theme/
-# git checkout development
-# git checkout --detach "$COMMIT_WATERLEAF_ICONS"
 
 # --- Apply patches ---
 echo
@@ -70,7 +68,11 @@ read -p "Before patch, press enter to continue ..." RDVAR_XYZ
 cd $WKDIR1/papirus-folders/
 patch -p1 < $WKDIR1/01_waterleaf_define.patch
 cd $WKDIR1/papirus-icon-theme/
-patch -p1 < $WKDIR1/02_waterleaf_colors.patch
+if [ "$PAPIRUS_20220916" != "1" ] ; then
+  patch -p1 < $WKDIR1/02_waterleaf_colors.patch
+else
+  patch -p1 < $WKDIR1/02_waterleaf_colors_20220916.patch
+fi
 
 # --- Generate colored folder icons ---
 echo
