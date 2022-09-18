@@ -1,2 +1,31 @@
-#Linking icons: source -> destination
-folder_wordprocessing folder-documents
+##Linking icons: source -> destination
+
+##Section1 - Trinity icons linking
+folder_wordprocessing      folder-documents
+folder_inbox               folder-mail
+folder_sent_mail           mail-folder-sent
+folder_doc_q4os_startmenu  folder
+folder_important           folder-important
+folder_favorite            folder-favorites
+folder_locked              folder-locked
+folder_print               folder-print
+folder_tar                 folder-tar
+folder_txt                 folder-txt
+folder_html                folder-html
+folder_image               folder-image
+folder_sound               folder-sound
+folder_video               folder-video
+folder_red                 folder-red
+folder_red_open            folder-red-open
+folder_green               folder-green
+folder_green_open          folder-green-open
+folder_blue                folder-blue
+folder_blue_open           folder-blue-open
+folder_yellow              folder-yellow
+folder_yellow_open         folder-yellow-open
+folder_violet              folder-violet
+folder_violet_open         folder-violet-open
+folder_grey                folder-grey
+folder_grey_open           folder-grey-open
+folder_orange              folder-orange
+folder_orange_open         folder-orange-open
