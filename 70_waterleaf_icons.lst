@@ -1,4 +1,4 @@
-#Waterleaf overriding icons
+#Waterleaf specific icons to override Papirus icons
 about-kde
 about_kde
 amarok__add_lyrics
@@ -95,10 +95,10 @@ laptopnobattery
 laptoppower
 media-flash-usb
 media-flash-usb-mounted
+nm_device_wired
 preferences-desktop-keyboard-shortcuts
 processor
 proxy
-q4os_swprofiler
 q4os-updatemgr
 samba
 scheme_acoustic
@@ -107,7 +107,6 @@ scheme_power
 scheme_powersave
 scheme_presentation
 software-store
-stock_new_drawing
 suspend_to_disk
 suspend_to_ram
 synaptic
@@ -122,11 +121,3 @@ welcome-screen
 x-content-software
 x-content-unix-software
 yast
-#
-#Symlinking folder-documents -> folder_wordprocessing will be better, todo
-folder_wordprocessing
-#
-#Wired network icon and symlink
-nm_device_wired
-#
-#computer

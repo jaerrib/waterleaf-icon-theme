@@ -104,18 +104,24 @@ cp -r $HOME/.icons/Papirus.WorkingTree/* $OUTDIR/Waterleaf/
 echo
 read -p "Before Waterleaf override, press enter to continue ..." RDVAR_XYZ
 touch $WKDIR1/Waterleaf/index.theme
-while read LINE1; do
-  sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.png"
-  sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.svg"
+while read LINE1 ; do
+  if [ -n "$( echo "$LINE1" | grep -v "^#" | grep -v "^$" )" ] ; then
+    sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.png"
+    sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.svg"
+  fi
 done < $WKDIR1/70_waterleaf_icons.lst
 
-# # --- Icons linking ---
-# echo
-# read -p "Before icons linking, press enter to continue ..." RDVAR_XYZ
-# while read LINE1; do
-#   sh $WKDIR1/91_link_icon.sh $OUTDIR/Waterleaf/ "$LINE1.png"
-#   sh $WKDIR1/91_link_icon.sh $OUTDIR/Waterleaf/ "$LINE1.svg"
-# done < $WKDIR1/70_waterleaf_icons.lst
+# --- Icons linking ---
+echo
+read -p "Before icons linking, press enter to continue ..." RDVAR_XYZ
+while read LINE1 ; do
+  if [ -n "$( echo "$LINE1" | grep -v "^#" | grep -v "^$" )" ] ; then
+    IC_SRC="$(echo "$LINE1" | awk -F' ' '{ print $1 }' )"
+    IC_TARG="$(echo "$LINE1" | awk -F' ' '{ print $2 }' )"
+    sh $WKDIR1/91_link_icon.sh "$OUTDIR/Waterleaf/" "$IC_SRC.png" "$IC_TARG.png"
+    sh $WKDIR1/91_link_icon.sh "$OUTDIR/Waterleaf/" "$IC_SRC.svg" "$IC_TARG.svg"
+  fi
+done < $WKDIR1/71_link_icons.lst
 
 # --- Check and fix symbolic links ---
 echo

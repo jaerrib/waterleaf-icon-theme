@@ -1,11 +1,11 @@
 #!/bin/sh
 
 #$1 .. Icons directory
-#$2 .. Source icon name to copy
-#$3 .. Destination icon name to be replaced
+#$2 .. Source icon name to copy to be replaced
+#$3 .. Target icon name to be linked to
 
 #1.Remove specified icons "$3" from destination directory "$1"
-#2.Link icon variants "$2" to the destination "$3"
+#2.Link icon variants "$2" to the target "$3"
 
 ICON_DIR="$( readlink -f "$1" )"
 SRC_ICON_NAME="$2"
@@ -19,8 +19,12 @@ if [ ! -f "$ICON_DIR/index.theme" ] ; then
   exit 110
 fi
 
-find $ICON_DIR/ -type f,l -iname "$DST_ICON_NAME" | while read -r ICONFL01 ; do
-  cd "$( dirname "$ICON_DIR/$ICONFL01" )"
-  rm $DST_ICON_NAME
-  ln -s $SRC_ICON_NAME $DST_ICON_NAME
-done
+DST_ICON_FILES="$( find $ICON_DIR/ -type f,l -name "$DST_ICON_NAME" )"
+if [ -n "$DST_ICON_FILES" ] ; then
+  rm -f $( find $ICON_DIR/ -type f,l -name "$SRC_ICON_NAME" | xargs ) #remove all source icons, if at least one target icon found
+  echo "$DST_ICON_FILES" | while read -r ICONFL01 ; do
+    cd "$( dirname "$ICONFL01" )"
+    # echo "linking $SRC_ICON_NAME -> $DST_ICON_NAME, in $(pwd)"
+    ln -s "$DST_ICON_NAME" "$SRC_ICON_NAME"
+  done
+fi
