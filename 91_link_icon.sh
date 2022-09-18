@@ -1,10 +1,10 @@
 #!/bin/sh
 
-#$1 .. Icons directory
-#$2 .. Source icon name to copy to be replaced
+#$1 .. Icon set directory
+#$2 .. Source icon name that is a symlink
 #$3 .. Target icon name to be linked to
 
-#1.Remove specified icons "$3" from destination directory "$1"
+#1.Remove all source icons "$2" from the icon set
 #2.Link icon variants "$2" to the target "$3"
 
 ICON_DIR="$( readlink -f "$1" )"
@@ -21,7 +21,7 @@ fi
 
 DST_ICON_FILES="$( find $ICON_DIR/ -type f,l -name "$DST_ICON_NAME" )"
 if [ -n "$DST_ICON_FILES" ] ; then
-  rm -f $( find $ICON_DIR/ -type f,l -name "$SRC_ICON_NAME" | xargs ) #remove all source icons, if at least one target icon found
+  rm -f $( find $ICON_DIR/ -type f,l -name "$SRC_ICON_NAME" | xargs ) #remove all source icons
   echo "$DST_ICON_FILES" | while read -r ICONFL01 ; do
     cd "$( dirname "$ICONFL01" )"
     # echo "linking $SRC_ICON_NAME -> $DST_ICON_NAME, in $(pwd)"
