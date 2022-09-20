@@ -1,6 +1,9 @@
 ##Linking icons: source -> destination
 
 ##Section1 - Trinity icons linking
+amarok_mostplayed          amarok_favorite_genres
+amarok_random              amarok_dynamic
+amarok_rescan              amarok_playlist_refresh
 folder_wordprocessing      folder-documents
 folder_inbox               folder-mail
 folder_sent_mail           mail-folder-sent
@@ -29,3 +32,15 @@ folder_grey                folder-grey
 folder_grey_open           folder-grey-open
 folder_orange              folder-orange
 folder_orange_open         folder-orange-open
+folder_crystal             folder-favorites
+bookmark_folder            folder-favorites
+kcmdf                      blockdevice
+usbpendrive_unmount        drive-removable-media
+zip_external_mount         drive-removable-media
+about_kde                  desktop-environment-kde
+about-kde                  desktop-environment-kde
+
+##Section2 - Q4OS icons linking
+kmenu                      distributor-logo-q4os-m1
+swcentre                   software-store
+q4os-swprofiler            desktop-profiler
