@@ -68,10 +68,10 @@ autodimm
 blockdevice
 button
 configure
-desktop-environment-gnome
+# desktop-environment-gnome : disabled since included in Papirus icons
 desktop-profiler
 display
-distributor-logo-debian
+# distributor-logo-debian : consider to use over the Papirus variant
 distributor-logo-q4os1
 distributor-logo-q4os2
 distributor-logo-q4os3
