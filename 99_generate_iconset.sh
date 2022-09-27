@@ -1,10 +1,30 @@
 #!/bin/sh
 
-#This script generates the complete Waterleaf icon theme
+#-------------------------------------------------------
+# function: wig_read
+#
+# $1 .. Message
+#-------------------------------------------------------
+wig_read ()
+{
+  local M1MSG="$1"
+  local RDVAR_XYZ
+  if [ "$CONFIRMS" = "1" ] ; then
+    read -p "$M1MSG, press Enter to continue ..." RDVAR_XYZ
+  else
+    echo "$M1MSG > working ..."
+  fi
+}
+
+#-------------------------------------------------------
+# main entry
+#
+# This script generates the complete Waterleaf icon theme
+#-------------------------------------------------------
 
 # --- Check environment ---
 echo
-read -p "Before check, press enter to continue ..." RDVAR_XYZ
+wig_read "Before check"
 if [ "$(id -u)" = "0" ]; then
   echo
   echo "Please run script as a user, exiting ..."
@@ -18,7 +38,7 @@ fi
 
 # --- Initialize ---
 echo
-read -p "Before init, press enter to continue ..." RDVAR_XYZ
+wig_read "Before init"
 
 #Commits defining the fixed points
 if [ "$PAPIRUS_20220916" != "1" ] ; then
@@ -30,14 +50,14 @@ COMMIT_PAPIRUS_FOLDERS="6837aa9ca9f1e87040ed7f5d07e23960010d010f" #2022-07-25
 
 cd $(dirname $0)
 THIS_SCRIPT_DIR="$(pwd)"
-OUTDIR="$THIS_SCRIPT_DIR/../.00built/"
+OUTDIR="$(readlink -m "$THIS_SCRIPT_DIR/../.build1_iconset/")"
 CLONEDIR="$THIS_SCRIPT_DIR/../.clone.tmp/"
-WKDIR1="/tmp/.99gendebnr/"
+WKDIR1="/tmp/.00_gendebnr_wtrlf/"
 rm -rf $OUTDIR $WKDIR1
 
 # --- Clone Papirus repository ---
 echo
-read -p "Before clone, press enter to continue ..." RDVAR_XYZ
+wig_read "Before clone"
 mkdir -p "$CLONEDIR/"
 cd $CLONEDIR/
 if [ ! -d "papirus-folders" ] ; then
@@ -49,14 +69,14 @@ fi
 
 # --- Copy files ---
 echo
-read -p "Before copy, press enter to continue ..." RDVAR_XYZ
-mkdir -p $WKDIR1
+wig_read "Before copy"
+mkdir -p $WKDIR1/
 cp -r $THIS_SCRIPT_DIR/* $WKDIR1/
 cp -r $CLONEDIR/* $WKDIR1/
 
 # --- Checkout Git repositories ---
 echo
-read -p "Before git checkouts, press enter to continue ..." RDVAR_XYZ
+wig_read "Before git checkouts"
 cd $WKDIR1/papirus-icon-theme/
 git checkout --detach "$COMMIT_PAPIRUS_ICONS"
 cd $WKDIR1/papirus-folders/
@@ -64,7 +84,7 @@ git checkout --detach "$COMMIT_PAPIRUS_FOLDERS"
 
 # --- Apply patches ---
 echo
-read -p "Before patch, press enter to continue ..." RDVAR_XYZ
+wig_read "Before patch"
 cd $WKDIR1/papirus-folders/
 patch -p1 < $WKDIR1/01_waterleaf_define.patch
 cd $WKDIR1/papirus-icon-theme/
@@ -76,59 +96,53 @@ fi
 
 # --- Generate colored folder icons ---
 echo
-read -p "Before build color folders, press enter to continue ..." RDVAR_XYZ
+wig_read "Before build color folders"
 cd $WKDIR1/papirus-icon-theme/
 $WKDIR1/papirus-icon-theme/tools/build_color_folders.sh
 
 # --- Override default folder icons ---
 echo
-read -p "Before defaults override, press enter to continue ..." RDVAR_XYZ
+wig_read "Before defaults override"
 mkdir -p $HOME/.icons/
 rm -f $HOME/.icons/Papirus.WorkingTree
 ln -s $WKDIR1/papirus-icon-theme/Papirus $HOME/.icons/Papirus.WorkingTree
 $WKDIR1/papirus-folders/papirus-folders -t Papirus.WorkingTree -C waterleaf
 
-# --- Edit to change to Waterleaf ---
+# --- Edits to modify iconset ---
 echo
-read -p "Before edit, press enter to continue ..." RDVAR_XYZ
+wig_read "Before modifications"
 rm -f $HOME/.icons/Papirus.WorkingTree/icon-theme.cache
 sed -i "s/Papirus/Waterleaf/" $HOME/.icons/Papirus.WorkingTree/index.theme
 
 # --- Copy result ---
 echo
-read -p "Before result copy, press enter to continue ..." RDVAR_XYZ
+wig_read "Before result copy"
 mkdir -p $OUTDIR/Waterleaf/
 cp -r $HOME/.icons/Papirus.WorkingTree/* $OUTDIR/Waterleaf/
 
-# --- Override with original Waterleaf icons ---
+# --- Override with new specific icons ---
 echo
-read -p "Before Waterleaf override, press enter to continue ..." RDVAR_XYZ
+wig_read "Before Waterleaf override"
 touch $WKDIR1/Waterleaf/index.theme
-while read LINE1 ; do
-  if [ -n "$( echo "$LINE1" | grep -v "^#" | grep -v "^$" )" ] ; then
-    sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.png"
-    sh $WKDIR1/90_cp_icon.sh $WKDIR1/Waterleaf/ $OUTDIR/Waterleaf/ "$LINE1.svg"
-  fi
-done < $WKDIR1/70_waterleaf_icons.lst
+sh $WKDIR1/90_cp_icons.sh "$WKDIR1/Waterleaf/" "$OUTDIR/Waterleaf/" "$WKDIR1/70_override_icons.lst"
 
 # --- Icons linking ---
 echo
-read -p "Before icons linking, press enter to continue ..." RDVAR_XYZ
-while read LINE1 ; do
-  if [ -n "$( echo "$LINE1" | grep -v "^#" | grep -v "^$" )" ] ; then
-    IC_SRC="$(echo "$LINE1" | awk -F' ' '{ print $1 }' )"
-    IC_TARG="$(echo "$LINE1" | awk -F' ' '{ print $2 }' )"
-    sh $WKDIR1/91_link_icon.sh "$OUTDIR/Waterleaf/" "$IC_SRC.png" "$IC_TARG.png"
-    sh $WKDIR1/91_link_icon.sh "$OUTDIR/Waterleaf/" "$IC_SRC.svg" "$IC_TARG.svg"
-  fi
-done < $WKDIR1/71_link_icons.lst
+wig_read "Before icons linking"
+sh $WKDIR1/91_link_icons.sh "$OUTDIR/Waterleaf/" "$WKDIR1/71_link_icons.lst"
 
 # --- Check and fix symbolic links ---
 echo
-read -p "Before symlinks check, press enter to continue ..." RDVAR_XYZ
-sh $WKDIR1/97_fix_symlinks.sh "$OUTDIR/Waterleaf/" #set FIX_DOUBLE_LINKS=1 for fixing multiple level symlinks
+wig_read "Before symlinks check"
+sh $WKDIR1/95_fix_symlinks.sh "$OUTDIR/Waterleaf/" #set FIX_DOUBLE_LINKS=1 for fixing multiple level symlinks
 
 # --- Clean ---
 echo
-read -p "Before clean, press enter to continue ..." RDVAR_XYZ
+wig_read "Before clean"
 rm -f $HOME/.icons/Papirus.WorkingTree
+
+# --- Complete ---
+echo
+echo "Completed >"
+echo " Waterleaf icon set has been generated in: \"$OUTDIR/\""
+echo

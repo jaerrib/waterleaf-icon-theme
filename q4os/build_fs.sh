@@ -5,24 +5,21 @@
 ##a complementary secondary icon set consisting from the remaining icons and symlinks.
 ##Build process treats and fixes missing symlinks for the primary icon set,
 ##and takes care about proper data ingegrity for both output icon sets.
-##
-##Caution: the input icon set must have multiple level symlinks fixed and no broken symlinks.
-##So fix the input icon set before running this script.
-##
-##To get proper Waterleaf input icon set, we need to generate it using command:
-## FIX_DOUBLE_LINKS=1 sh 99_generate_waterleaf.sh
 
 cd "$(dirname $0)"
 THIS_SCRIPT_DIR="$(pwd)"
 
-SRCDIR="$THIS_SCRIPT_DIR"
-WKDIR1="/tmp/.0aaaaax1/"
+MAPS_DIR="$THIS_SCRIPT_DIR/maps/" #*.map1 mapping files directory
+WKDIR1="$(mktemp -d -t ".00_spliticonset_XXXXXXXXXX")/"
 
 ARCHIVE1="$1" #input icon set
+OUTDIR1="$2" #output dir
 
 ICONSET_IN="$WKDIR1/in_iconset/"
 ICONSET_OUT1="$WKDIR1/out_iconset-base/"
 ICONSET_OUT2="$WKDIR1/out_iconset-extra/"
+
+SYMLINKS_FIX_SCRIPT="$THIS_SCRIPT_DIR/../95_fix_symlinks.sh"
 
 WKFL01="$WKDIR1/.iconset_in_names.lst" #all icons names list
 ICIN_LIST_FL="$WKDIR1/.iconset_in_files.lst" #all icon files full path list
@@ -43,7 +40,7 @@ if [ -z "$2" ] || [ "$(readlink -f "$2")" = "/" ] ; then
   return 10
 fi
 
-rsync -a --delete --exclude=*.svg --exclude=*.png --exclude=index.theme "$1/" "$2/"
+rsync -a --delete --exclude=*.svg --exclude=*.png --exclude=COPYING --exclude=AUTHORS --exclude=index.theme "$1/" "$2/"
 }
 
 make_lists ()
@@ -54,7 +51,7 @@ local WKFL02="$WKDIR1/.bbb.lst"
 if [ -f "$BROKEN_LINKS_LIST" ] ; then
   local BBLST="$BROKEN_LINKS_LIST"
 fi
-cat $SRCDIR/maps/*.map1 $BBLST | sort -u > $WKFL02
+cat $MAPS_DIR/*.map1 $BBLST | sort -u > $WKFL02
 comm -12 $WKFL02 $WKFL01 > $WKDIR1/out1_std.lst
 comm -13 $WKFL02 $WKFL01 > $WKDIR1/out2_extra.lst
 rm "$WKFL02"
@@ -104,16 +101,27 @@ if [ ! -f "$ARCHIVE1/index.theme" ] ; then
   echo "[E:] Iconset source file not found, exiting ..."
   exit 10
 fi
-echo "cleaning ..."
-rm -rf $WKDIR1
-mkdir -p $WKDIR1
+if [ -z "$OUTDIR1" ] || [ "$OUTDIR1" = "/" ] ; then
+  echo "[E:] Incorrect output directory, exiting ..."
+  exit 11
+fi
+echo
+echo "Building icon theme directories ..."
+echo "Cleaning ..."
+# rm -rf $WKDIR1
+# mkdir -p $WKDIR1
 mkdir -p "$ICONSET_IN"
-echo "copying ..."
+echo "Copying ..."
 cp -r $ARCHIVE1/* $ICONSET_IN/
+
+
+#caution: the input icon set must have multiple level symlinks fixed and no broken symlinks,
+#so fix the input icon set first
+FIX_DOUBLE_LINKS="1" sh "$SYMLINKS_FIX_SCRIPT" "$ICONSET_IN/"
 
 #make icons lists from the input icon set
 # read -p "press Enter to continue ..." XXX
-echo "create icons listings ..."
+echo "Create icons listings ..."
 find "$ICONSET_IN/" -name "*.svg" -o -name "*.png" | sort -u > $ICIN_LIST_FL
 cat "$ICIN_LIST_FL" | awk -F'/' '{ print $(NF) }' | awk -F'\\.png$' '{ print $1 }' | awk -F'\\.svg$' '{ print $1 }' | sort -u > $WKFL01
 
@@ -123,7 +131,7 @@ cat "$ICIN_LIST_FL" | awk -F'/' '{ print $(NF) }' | awk -F'\\.png$' '{ print $1 
 # find "$ICONSET_IN" -type l | xargs file | grep 'symbolic link to' | grep -v 'broken symbolic link' | awk -F'symbolic link to ' '{ print $1"->:"$2 }' | tr -d ' ' | sed 's/:->:/ -> /g' > $WKFL04
 
 echo
-echo "phase 1 - create a temporary output dir to create broken symlinks list"
+echo "Phase 1 - create a temporary output dir to create broken symlinks list"
 # read -p "press Enter to continue ..." XXX
 make_lists
 create_out_dir "$WKDIR1/out1_std.lst" "$ICONSET_OUT1"
@@ -131,7 +139,7 @@ find "$ICONSET_OUT1" -type l | xargs file | grep 'broken symbolic link to' | awk
 rm -rf "$ICONSET_OUT1"
 
 echo
-echo "phase 2 - create final output dirs - treat broken links"
+echo "Phase 2 - create final output dirs - treat broken links"
 # read -p "press Enter to continue ..." XXX
 make_lists
 copy_dir_structure "$ICONSET_IN" "$ICONSET_OUT1"
@@ -141,34 +149,60 @@ create_out_dir "$WKDIR1/out2_extra.lst" "$ICONSET_OUT2"
 cp $ICONSET_IN/index.theme $ICONSET_OUT1
 
 echo
-echo "perform checkings"
+echo "Perform checkings ..."
 # read -p "press Enter to continue ..." XXX
-CHKLST1="$WKDIR1/.checklist1.lst"
-CHKLST2="$WKDIR1/.checklist2.lst"
-CHKLST3="$WKDIR1/.checklist3.lst"
+CHKLST1="$WKDIR1/.checklist1.lst" #broken links checklist
+CHKLST2="$WKDIR1/.checklist2.lst" #check if primary icon set listing matches icons in the generated icon set
+CHKLST3="$WKDIR1/.checklist3.lst" #sum of icons in output icon sets must give all the icons in the input icon set
+CHKLST4="$WKDIR1/.checklist4.lst" #check for conflicting files in both iconsets
 
-cd $ICONSET_IN/
-find . -name "*.svg" -o -name "*.png" | sort > ../.chk1_in.lst
-cd $ICONSET_OUT1/
-find . -name "*.svg" -o -name "*.png" | sort > ../.chk1_out.lst
-cd $ICONSET_OUT2/
-find . -name "*.svg" -o -name "*.png" | sort >> ../.chk1_out.lst
-cd ..
-cat .chk1_out.lst | sort > .check1_in.lst
-cat .chk1_out.lst | sort > .check1_out.lst
-rm .chk1_*.lst
-comm -3 .check1_in.lst .check1_out.lst > $CHKLST3
-
-# echo "note, this list should be empty, broken links checklist:" > $CHKLST1
+#broken links checklist
 find "$ICONSET_OUT1" -type l | xargs file | grep 'broken symbolic link to' >> $CHKLST1
 WKFL06="$WKDIR1/.chkwkfl06.lst" #all icons in out iconset 1
+
+#check if primary icon set listing matches icons in the generated icon set
 find "$ICONSET_OUT1" -name "*.svg" -o -name "*.png" | awk -F'/' '{ print $(NF) }' | awk -F'\\.png$' '{ print $1 }' | awk -F'\\.svg$' '{ print $1 }' | sort -u > $WKFL06
 comm -3 $WKFL06 $WKDIR1/out1_std.lst > $CHKLST2
-if [ -n "$( cat $CHKLST1 )" ] || [ -n "$( cat $CHKLST2 )" ] || [ -n "$( cat $CHKLST3 )" ] ; then
-  echo "[E:] Error: Non-zero checklists, please check the checklists !"
-fi
+
+#check if sum of icons in output icon sets gives all icons in the input icon set
+cd $ICONSET_IN/
+find . -type f,l -name "*.svg" -o -name "*.png" | sort > $WKDIR1/chk1_in.lst
+cd $ICONSET_OUT1/
+find . -type f,l -name "*.svg" -o -name "*.png" | sort > $WKDIR1/chk1_out.lst
+cd $ICONSET_OUT2/
+find . -type f,l -name "*.svg" -o -name "*.png" | sort >> $WKDIR1/chk1_out.lst
+cat $WKDIR1/chk1_in.lst | sort > $WKDIR1/check1_in.lst
+cat $WKDIR1/chk1_out.lst | sort > $WKDIR1/check1_out.lst
+rm $WKDIR1/chk1_in.lst $WKDIR1/chk1_out.lst
+comm -3 $WKDIR1/check1_in.lst $WKDIR1/check1_out.lst > $CHKLST3
+rm $WKDIR1/check1_in.lst $WKDIR1/check1_out.lst
+
+#check for conflicting files in both iconsets
+cd $ICONSET_OUT1/
+find -L . -type f,l | sort > $WKDIR1/mchk_1.lst
+cd $ICONSET_OUT2/
+find -L . -type f,l | sort > $WKDIR1/mchk_2.lst
+comm -12 $WKDIR1/mchk_1.lst $WKDIR1/mchk_2.lst > $CHKLST4
+rm $WKDIR1/mchk_1.lst $WKDIR1/mchk_2.lst
+
+#generate a control icon set
 ICONSET_OUT3="$WKDIR1/zout_check_iconset/"
 cd $ICONSET_OUT1/
 rsync -aR ./ $ICONSET_OUT3/
 cd $ICONSET_OUT2/
 rsync -aR ./ $ICONSET_OUT3/
+
+echo
+echo "Moving result to the output directory and cleaning..."
+rm -rf "$OUTDIR1" ; mkdir -p "$OUTDIR1/"
+mv "$ICONSET_OUT1" "$OUTDIR1/"
+mv "$ICONSET_OUT2" "$OUTDIR1/"
+if [ -n "$( cat $CHKLST1 )" ] || [ -n "$( cat $CHKLST2 )" ] || [ -n "$( cat $CHKLST3 )" ] || [ -n "$( cat $CHKLST4 )" ] ; then
+  read -p "[E:] Error: Non-zero checklists, please check the checklists !" RDVAR1
+else
+  rm -rf "$WKDIR1"
+fi
+
+echo
+echo "Completed. Filesystem has been prepared in: \"$WKDIR1\""
+echo

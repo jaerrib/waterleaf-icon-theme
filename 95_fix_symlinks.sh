@@ -5,7 +5,7 @@
 
 #$1 .. source directory
 
-ICON_DIR="$( readlink -f "$1" )"
+ICON_DIR="$1"
 
 if [ ! -f "$ICON_DIR/index.theme" ] ; then
   #safety check
