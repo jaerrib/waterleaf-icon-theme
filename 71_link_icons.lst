@@ -1,4 +1,4 @@
-##Linking icons: source -> destination
+##Linking icons: symlink -> target
 
 ##Section1 - Trinity icons linking
 amarok_mostplayed          amarok_favorite_genres
@@ -39,6 +39,7 @@ usbpendrive_unmount        drive-removable-media
 zip_external_mount         drive-removable-media
 about_kde                  desktop-environment-kde
 about-kde                  desktop-environment-kde
+www                        internet-web-browser
 
 ##Section2 - Q4OS icons linking
 kmenu                      distributor-logo-q4os-m1
