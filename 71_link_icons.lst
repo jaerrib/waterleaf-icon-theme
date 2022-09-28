@@ -40,6 +40,14 @@ zip_external_mount         drive-removable-media
 about_kde                  desktop-environment-kde
 about-kde                  desktop-environment-kde
 www                        internet-web-browser
+1downarrow                 arrow-down
+1leftarrow                 arrow-left
+1rightarrow                arrow-right
+1uparrow                   arrow-up
+2downarrow                 arrow-down-double
+2leftarrow                 arrow-left-double
+2rightarrow                arrow-right-double
+2uparrow                   arrow-up-double
 
 ##Section2 - Q4OS icons linking
 kmenu                      distributor-logo-q4os-m1
