@@ -67,6 +67,7 @@ apply
 autodimm
 blockdevice
 button
+# computer : make a svg variant
 configure
 # desktop-environment-gnome : disabled since included in Papirus icons
 desktop-profiler
