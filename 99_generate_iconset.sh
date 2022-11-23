@@ -41,10 +41,11 @@ echo
 wig_read "Before init"
 
 #Commits defining the fixed points
-if [ "$PAPIRUS_20220916" != "1" ] ; then
+if [ "$PAPIRUS_NEW" != "1" ] ; then
   COMMIT_PAPIRUS_ICONS="074aa8f2263ecdc5696177baa193e6cbe19b3032" #2021-07-21
 else
-  COMMIT_PAPIRUS_ICONS="9c6fba831ec71c1c3551e7e31187d0b0d3abb78b" #2022-09-16
+  echo "Using new Papirus icons commit ..."
+  COMMIT_PAPIRUS_ICONS="6fe16ea79b3d7f3f01065c75eed2d0ceefcc5bbc" #2022-11-15
 fi
 COMMIT_PAPIRUS_FOLDERS="6837aa9ca9f1e87040ed7f5d07e23960010d010f" #2022-07-25
 
@@ -88,7 +89,7 @@ wig_read "Before patch"
 cd $WKDIR1/papirus-folders/
 patch -p1 < $WKDIR1/01_waterleaf_define.patch
 cd $WKDIR1/papirus-icon-theme/
-if [ "$PAPIRUS_20220916" != "1" ] ; then
+if [ "$PAPIRUS_NEW" != "1" ] ; then
   patch -p1 < $WKDIR1/02_waterleaf_colors.patch
 else
   patch -p1 < $WKDIR1/02_waterleaf_colors_20220916.patch
@@ -108,11 +109,13 @@ rm -f $HOME/.icons/Papirus.WorkingTree
 ln -s $WKDIR1/papirus-icon-theme/Papirus $HOME/.icons/Papirus.WorkingTree
 $WKDIR1/papirus-folders/papirus-folders -t Papirus.WorkingTree -C waterleaf
 
-# --- Edits to modify iconset ---
+# --- Specific edits to the source iconset ---
 echo
 wig_read "Before modifications"
 rm -f $HOME/.icons/Papirus.WorkingTree/icon-theme.cache
 sed -i "s/Papirus/Waterleaf/" $HOME/.icons/Papirus.WorkingTree/index.theme
+cp $WKDIR1/Waterleaf/16x16/places/16wlf_folder-documents.svg $HOME/.icons/Papirus.WorkingTree/16x16/places/folder-documents.svg
+cp $WKDIR1/Waterleaf/16x16/places/16wlf_folder.svg $HOME/.icons/Papirus.WorkingTree/16x16/places/folder.svg
 
 # --- Copy result ---
 echo
