@@ -9,21 +9,20 @@
 cd "$(dirname $0)"
 THIS_SCRIPT_DIR="$(pwd)"
 
-MAPS_DIR="$THIS_SCRIPT_DIR/maps/" #*.map1 mapping files directory
 WKDIR1="$(mktemp -d -t ".00_spliticonset_XXXXXXXXXX")/"
 
 ARCHIVE1="$1" #input icon set
 OUTDIR1="$2" #output dir
 
 ICONSET_IN="$WKDIR1/in_iconset/"
-ICONSET_OUT1="$WKDIR1/out_iconset-base/"
-ICONSET_OUT2="$WKDIR1/out_iconset-extra/"
+ICONSET_OUT1="$WKDIR1/outset1/"
+ICONSET_OUT2="$WKDIR1/outset2/"
 
 SYMLINKS_FIX_SCRIPT="$THIS_SCRIPT_DIR/../95_fix_symlinks.sh"
 
 WKFL01="$WKDIR1/.iconset_in_names.lst" #all icons names list
 ICIN_LIST_FL="$WKDIR1/.iconset_in_files.lst" #all icon files full path list
-BROKEN_LINKS_LIST="$WKDIR1/.brokenlinks.map1" #unsatisfied symlinks on phase-1
+BROKEN_LINKS_LIST="$WKDIR1/.brokenlinks.map" #unsatisfied symlinks on phase-1
 
 #----------------------------------------------------------------------------------------------
 # functions
@@ -51,7 +50,7 @@ local WKFL02="$WKDIR1/.bbb.lst"
 if [ -f "$BROKEN_LINKS_LIST" ] ; then
   local BBLST="$BROKEN_LINKS_LIST"
 fi
-cat $MAPS_DIR/*.map1 $BBLST | sort -u > $WKFL02
+cat $MAPS_PATH $BBLST | sort -u > $WKFL02
 comm -12 $WKFL02 $WKFL01 > $WKDIR1/out1_std.lst
 comm -13 $WKFL02 $WKFL01 > $WKDIR1/out2_extra.lst
 rm "$WKFL02"
@@ -97,13 +96,17 @@ rm -rf $WKDIR1/tmp/
 
 #extract the iconset
 # read -p "press Enter to continue ..." XXX
-if [ ! -f "$ARCHIVE1/index.theme" ] ; then
+if [ ! -f "$ARCHIVE1/index.theme" ] && [ ! -d "$ARCHIVE1/32x32/" ] ; then
   echo "[E:] Iconset source file not found, exiting ..."
   exit 10
 fi
 if [ -z "$OUTDIR1" ] || [ "$OUTDIR1" = "/" ] ; then
   echo "[E:] Incorrect output directory, exiting ..."
   exit 11
+fi
+if [ -z "$MAPS_PATH" ] || [ -z "$( ls $MAPS_PATH )" ] ; then
+  echo "[E:] Map files $MAPS_PATH don't exist, exiting ..."
+  exit 12
 fi
 echo
 echo "Building icon theme directories ..."
@@ -115,9 +118,11 @@ echo "Copying ..."
 cp -r $ARCHIVE1/* $ICONSET_IN/
 
 
-#caution: the input icon set must have multiple level symlinks fixed and no broken symlinks,
-#so fix the input icon set first
-FIX_DOUBLE_LINKS="1" sh "$SYMLINKS_FIX_SCRIPT" "$ICONSET_IN/"
+if [ "$INITF_SYMLINKS" != "0" ] ; then
+  #caution: the input icon set must have multiple level symlinks fixed and no broken symlinks,
+  #so fix the input icon set first
+  FIX_DOUBLE_LINKS="1" sh "$SYMLINKS_FIX_SCRIPT" "$ICONSET_IN/"
+fi
 
 #make icons lists from the input icon set
 # read -p "press Enter to continue ..." XXX
