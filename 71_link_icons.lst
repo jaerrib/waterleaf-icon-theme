@@ -74,10 +74,7 @@ delete_user  list-remove-user
 edit_add  edit-add
 editshred  edit-delete-shred
 empty  application-x-zerosize
-exec  application-x-desktop
 exec  application-x-executable
-exec  application-x-ms-dos-executable
-fileclose  dialog-close
 fileclose  window-close
 fileexport  document-export
 fileimport  document-import
