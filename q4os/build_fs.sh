@@ -96,7 +96,7 @@ rm -rf $WKDIR1/tmp/
 
 #extract the iconset
 # read -p "press Enter to continue ..." XXX
-if [ ! -f "$ARCHIVE1/index.theme" ] && [ ! -d "$ARCHIVE1/32x32/" ] ; then
+if [ ! -f "$ARCHIVE1/index.theme" ] && [ ! -d "$ARCHIVE1/32x32/" ] && [ ! -d "$ARCHIVE1/places/" ] ; then
   echo "[E:] Iconset source file not found, exiting ..."
   exit 10
 fi

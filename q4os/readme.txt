@@ -1,4 +1,4 @@
-Build Waterleaf packages for Debian and Q4OS:
+Build packages for Debian and Q4OS:
 $ sh build_debs.sh
 
 Prerequisities:
