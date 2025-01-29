@@ -23,11 +23,11 @@
   </filter>
  </defs>
  <rect transform="matrix(0 -.75 -.75 0 -1.5087e-6 0)" x="-61" y="-62" width="7" height="60" rx="2.5" ry="2.5862" filter="url(#filter5081)" opacity=".2" stroke-width="1.0171"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-46.5" width="5.25" height="45" rx="1.875" ry="1.9397" fill="#1a1a1a" stroke-width=".76282"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-46.5" width="5.25" height="45" rx="1.875" ry="1.9397" fill="#666" stroke-width=".76282"/>
  <rect transform="scale(.75)" x="4.5" y="14.87" width="55" height="40" rx="2.6442" ry="2.5" filter="url(#filter5062)" opacity=".2" stroke-width="1.0284"/>
- <g transform="matrix(.76683 0 0 .73404 -62.709 82.198)" stroke-width="1.0281">
-  <rect x="86.178" y="-97.809" width="53.793" height="40.87" rx="2.5862" ry="2.5543" fill="#1a1a1a"/>
-  <rect x="90.316" y="-93.722" width="45.517" height="32.696" fill="#3689e6"/>
-  <path d="m88.764-97.809c-1.4328 0-2.5862 1.1392-2.5862 2.5543v1.0217c0-1.4151 1.1534-2.5543 2.5862-2.5543h48.621c1.4276 0 2.5862 1.1392 2.5862 2.5543v-1.0217c0-1.4151-1.1586-2.5543-2.5862-2.5543z" fill="#7e8087" opacity=".2"/>
+ <g stroke-width=".77134">
+  <rect x="3.3749" y="10.402" width="41.25" height="30" rx="1.9832" ry="1.875" fill="#666"/>
+  <rect x="6.548" y="13.402" width="34.904" height="24" fill="#3689e6"/>
+  <path d="m5.3579 10.402c-1.0987 0-1.9832 0.83622-1.9832 1.875v0.74997c0-1.0387 0.88446-1.875 1.9832-1.875h37.284c1.0947 0 1.9832 0.83622 1.9832 1.875v-0.74997c0-1.0387-0.88845-1.875-1.9832-1.875z" fill="#ccc" opacity=".2"/>
  </g>
 </svg>
