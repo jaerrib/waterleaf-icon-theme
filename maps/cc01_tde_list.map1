@@ -285,6 +285,7 @@ altn
 altntool
 altvstime
 amarok
+amarok__add_lyrics
 amarok_add_lyrics
 amarok_add_playlist
 amarok_album
@@ -4152,6 +4153,7 @@ findf
 find-in-files
 find-payee
 find-text
+finish
 finland
 fi_notification_settings
 firewall
@@ -4677,6 +4679,14 @@ guyana
 gv
 gvdirpart
 gvim
+gwen_actualsize
+gwen_browse
+gwen_delete
+gwen_fittowin
+gwen_imgview
+gwen_info
+gwen_print
+gwen_save
 gwenview
 h323
 hail
@@ -8819,6 +8829,7 @@ nm_device_vpn
 nm_device_wired
 nm_device_wwan
 nm_no_connection
+nm_signal_0
 nm_signal_00
 nm_signal_100
 nm_signal_25
@@ -13363,6 +13374,7 @@ window16
 window-close
 window-decoration-gradient
 window-decoration-gradient-inactive
+window_duplicate
 window_fullscreen
 window_list
 windowlist_icon

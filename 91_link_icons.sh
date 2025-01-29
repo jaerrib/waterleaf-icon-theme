@@ -55,9 +55,12 @@ fi
 
 while read LINE1 ; do
   if [ -n "$( echo "$LINE1" | grep -v "^#" | grep -v "^$" )" ] ; then
+    printf .
     IC_SRC="$(echo "$LINE1" | awk -F' ' '{ print $1 }' )"
     IC_TARG="$(echo "$LINE1" | awk -F' ' '{ print $2 }' )"
     link_icon "$ICONS_DIR" "$IC_SRC.png" "$IC_TARG.png"
     link_icon "$ICONS_DIR" "$IC_SRC.svg" "$IC_TARG.svg"
   fi
 done < "$SYMLINKS_LIST"
+
+printf '\n'
