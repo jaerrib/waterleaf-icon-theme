@@ -1,0 +1,42 @@
+#!/usr/bin/make -f
+
+# See debhelper(7) (uncomment to enable).
+# Output every command that modifies files on the build system.
+#export DH_VERBOSE = 1
+
+
+%:
+	dh $@
+
+
+override_dh_install:
+	dh_install
+	
+	rm -rf ../.built1_iconset ../.built2_fsdeb
+	sudo -n -u $$USER BUILD_TDE_ICONSET=1 PAPIRUS_VER=1 ACCENTI=dark dash 99_generate_iconset.sh
+	mkdir -p debian/waterleaf-dark-icon-theme/usr/share/icons/
+	mkdir -p debian/waterleaf-dark-icon-theme-tde/usr/share/icons/
+	mkdir -p debian/waterleaf-dark-icon-theme-extra/usr/share/icons/
+	mv ../.built2_fsdeb/out_iconset1-base  debian/waterleaf-dark-icon-theme/usr/share/icons/Waterleaf-Dark
+	mv ../.built2_fsdeb/out_iconset2-tde   debian/waterleaf-dark-icon-theme-tde/usr/share/icons/Waterleaf-Dark
+	mv ../.built2_fsdeb/out_iconset3-extra debian/waterleaf-dark-icon-theme-extra/usr/share/icons/Waterleaf-Dark
+	
+	rm -rf ../.built1_iconset ../.built2_fsdeb
+	sudo -n -u $$USER BUILD_TDE_ICONSET=1 PAPIRUS_VER=1 ACCENTI=light dash 99_generate_iconset.sh
+	mkdir -p debian/waterleaf-light-icon-theme/usr/share/icons/
+	mkdir -p debian/waterleaf-light-icon-theme-tde/usr/share/icons/
+	mkdir -p debian/waterleaf-light-icon-theme-extra/usr/share/icons/
+	mv ../.built2_fsdeb/out_iconset1-base  debian/waterleaf-light-icon-theme/usr/share/icons/Waterleaf-Light
+	mv ../.built2_fsdeb/out_iconset2-tde   debian/waterleaf-light-icon-theme-tde/usr/share/icons/Waterleaf-Light
+	mv ../.built2_fsdeb/out_iconset3-extra debian/waterleaf-light-icon-theme-extra/usr/share/icons/Waterleaf-Light
+	
+	rm -rf ../.built1_iconset ../.built2_fsdeb
+	sudo -n -u $$USER BUILD_TDE_ICONSET=1 PAPIRUS_VER= ACCENTI= dash 99_generate_iconset.sh
+	mkdir -p debian/waterleaf-icon-theme/usr/share/icons/
+	mkdir -p debian/waterleaf-icon-theme-tde/usr/share/icons/
+	mkdir -p debian/waterleaf-icon-theme-extra/usr/share/icons/
+	mv ../.built2_fsdeb/out_iconset1-base  debian/waterleaf-icon-theme/usr/share/icons/Waterleaf
+	mv ../.built2_fsdeb/out_iconset2-tde   debian/waterleaf-icon-theme-tde/usr/share/icons/Waterleaf
+	mv ../.built2_fsdeb/out_iconset3-extra debian/waterleaf-icon-theme-extra/usr/share/icons/Waterleaf
+	
+	# rm -rf ../.built1_iconset ../.built2_fsdeb
