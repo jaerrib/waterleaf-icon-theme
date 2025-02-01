@@ -18,8 +18,6 @@ ICONSET_IN="$WKDIR1/in_iconset/"
 ICONSET_OUT1="$WKDIR1/outset1/"
 ICONSET_OUT2="$WKDIR1/outset2/"
 
-SYMLINKS_FIX_SCRIPT="$THIS_SCRIPT_DIR/../95_fix_symlinks.sh"
-
 WKFL01="$WKDIR1/.iconset_in_names.lst" #all icons names list
 ICIN_LIST_FL="$WKDIR1/.iconset_in_files.lst" #all icon files full path list
 BROKEN_LINKS_LIST="$WKDIR1/.brokenlinks.map" #unsatisfied symlinks on phase-1
@@ -118,16 +116,16 @@ echo "Copying ..."
 cp -r $ARCHIVE1/* $ICONSET_IN/
 
 
-if [ "$INITF_SYMLINKS" != "0" ] ; then
+if [ "$INITF_SYMLINKS" = "1" ] ; then
   #caution: the input icon set must have multiple level symlinks fixed and no broken symlinks,
   #so fix the input icon set first
-  FIX_DOUBLE_LINKS="1" sh "$SYMLINKS_FIX_SCRIPT" "$ICONSET_IN/"
+  FIX_DOUBLE_LINKS="1" sh 95_fix_symlinks.sh "$ICONSET_IN/"
 fi
 
 #make icons lists from the input icon set
 # read -p "press Enter to continue ..." XXX
 echo "Create icons listings ..."
-find "$ICONSET_IN/" -name "*.svg" -o -name "*.png" | sort -u > $ICIN_LIST_FL
+find "$ICONSET_IN/" -name '*.svg' -o -name '*.png' | sort -u > $ICIN_LIST_FL
 cat "$ICIN_LIST_FL" | awk -F'/' '{ print $(NF) }' | awk -F'\\.png$' '{ print $1 }' | awk -F'\\.svg$' '{ print $1 }' | sort -u > $WKFL01
 
 # #make all symlinks list from the input icon set
@@ -166,16 +164,16 @@ find "$ICONSET_OUT1" -type l | xargs file | grep 'broken symbolic link to' >> $C
 WKFL06="$WKDIR1/.chkwkfl06.lst" #all icons in out iconset 1
 
 #check if primary icon set listing matches icons in the generated icon set
-find "$ICONSET_OUT1" -name "*.svg" -o -name "*.png" | awk -F'/' '{ print $(NF) }' | awk -F'\\.png$' '{ print $1 }' | awk -F'\\.svg$' '{ print $1 }' | sort -u > $WKFL06
+find "$ICONSET_OUT1" -name '*.svg' -o -name '*.png' | awk -F'/' '{ print $(NF) }' | awk -F'\\.png$' '{ print $1 }' | awk -F'\\.svg$' '{ print $1 }' | sort -u > $WKFL06
 comm -3 $WKFL06 $WKDIR1/out1_std.lst > $CHKLST2
 
 #check if sum of icons in output icon sets gives all icons in the input icon set
 cd $ICONSET_IN/
-find . -type f,l -name "*.svg" -o -name "*.png" | sort > $WKDIR1/chk1_in.lst
+find . -name '*.svg' -type f,l -o -name '*.png' -type f,l | sort > $WKDIR1/chk1_in.lst
 cd $ICONSET_OUT1/
-find . -type f,l -name "*.svg" -o -name "*.png" | sort > $WKDIR1/chk1_out.lst
+find . -name '*.svg' -type f,l -o -name '*.png' -type f,l | sort > $WKDIR1/chk1_out.lst
 cd $ICONSET_OUT2/
-find . -type f,l -name "*.svg" -o -name "*.png" | sort >> $WKDIR1/chk1_out.lst
+find . -name '*.svg' -type f,l -o -name '*.png' -type f,l | sort >> $WKDIR1/chk1_out.lst
 cat $WKDIR1/chk1_in.lst | sort > $WKDIR1/check1_in.lst
 cat $WKDIR1/chk1_out.lst | sort > $WKDIR1/check1_out.lst
 rm $WKDIR1/chk1_in.lst $WKDIR1/chk1_out.lst
@@ -203,11 +201,11 @@ rm -rf "$OUTDIR1" ; mkdir -p "$OUTDIR1/"
 mv "$ICONSET_OUT1" "$OUTDIR1/"
 mv "$ICONSET_OUT2" "$OUTDIR1/"
 if [ -n "$( cat $CHKLST1 )" ] || [ -n "$( cat $CHKLST2 )" ] || [ -n "$( cat $CHKLST3 )" ] || [ -n "$( cat $CHKLST4 )" ] ; then
-  read -p "[E:] Error: Non-zero checklists, please check the checklists !" RDVAR1
-else
+  echo "[E:] Error: Non-zero checklists, please check the checklists !" ; sleep 10
+  # read -p "  ..press Enter to continue ..." RDVAR1
   rm -rf "$WKDIR1"
 fi
 
 echo
-echo "Completed. Filesystem has been prepared in: \"$WKDIR1\""
+echo "Completed. Filesystem has been prepared in: \"$OUTDIR1\""
 echo

@@ -1,0 +1,105 @@
+Source: waterleaf-icon-theme
+Section: none
+Priority: optional
+Maintainer: John Beers <jaerrib@tutanota.com>
+Build-Depends: debhelper (>= 9~), git, scour, q4os-devpack-base
+Standards-Version: 3.8.4
+
+Package: waterleaf-icon-theme
+Architecture: all
+Pre-Depends:
+Depends: q4os-desktop (>= 4.0), hicolor-icon-theme
+Recommends:
+Conflicts: waterleaf-icon-theme-tde (<< 20241205-4.4-a1), waterleaf-icon-theme-extra (<< 20241205-4.4-a1)
+Provides:
+Replaces:
+Breaks:
+Description: Waterleaf icon theme
+
+Package: waterleaf-icon-theme-tde
+Architecture: all
+Pre-Depends:
+Depends: q4os-desktop (>= 4.0), waterleaf-icon-theme
+Recommends:
+Conflicts:
+Provides:
+Replaces:
+Breaks:
+Description: Waterleaf icon theme TDE
+
+Package: waterleaf-icon-theme-extra
+Architecture: all
+Pre-Depends:
+Depends: q4os-desktop (>= 4.0), waterleaf-icon-theme, waterleaf-icon-theme-tde
+Recommends:
+Conflicts:
+Provides:
+Replaces:
+Breaks:
+Description: Waterleaf icon theme extra
+
+Package: waterleaf-dark-icon-theme
+Architecture: all
+Pre-Depends:
+Depends: q4os-desktop (>= 4.0), hicolor-icon-theme
+Recommends:
+Conflicts:
+Provides:
+Replaces:
+Breaks:
+Description: Waterleaf icon theme for dark themes
+
+Package: waterleaf-dark-icon-theme-tde
+Architecture: all
+Pre-Depends:
+Depends: q4os-desktop (>= 4.0), waterleaf-dark-icon-theme
+Recommends:
+Conflicts:
+Provides:
+Replaces:
+Breaks:
+Description: Waterleaf icon theme TDE for dark themes
+
+Package: waterleaf-dark-icon-theme-extra
+Architecture: all
+Pre-Depends:
+Depends: q4os-desktop (>= 4.0), waterleaf-dark-icon-theme, waterleaf-dark-icon-theme-tde
+Recommends:
+Conflicts:
+Provides:
+Replaces:
+Breaks:
+Description: Waterleaf icon theme extra for dark themes
+
+Package: waterleaf-light-icon-theme
+Architecture: all
+Pre-Depends:
+Depends: q4os-desktop (>= 4.0), hicolor-icon-theme
+Recommends:
+Conflicts:
+Provides:
+Replaces:
+Breaks:
+Description: Waterleaf icon theme for bright themes
+
+Package: waterleaf-light-icon-theme-tde
+Architecture: all
+Pre-Depends:
+Depends: q4os-desktop (>= 4.0), waterleaf-light-icon-theme
+Recommends:
+Conflicts:
+Provides:
+Replaces:
+Breaks:
+Description: Waterleaf icon theme TDE for bright themes
+
+Package: waterleaf-light-icon-theme-extra
+Architecture: all
+Pre-Depends:
+Depends: q4os-desktop (>= 4.0), waterleaf-light-icon-theme, waterleaf-light-icon-theme-tde
+Recommends:
+Conflicts:
+Provides:
+Replaces:
+Breaks:
+Description: Waterleaf icon theme extra for bright themes

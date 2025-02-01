@@ -617,6 +617,7 @@ channel-secure-symbolic
 character-set
 charcoaltool
 checkbox
+checkbox-checked-symbolic
 check_constraint
 checkmark
 child2category
@@ -1831,6 +1832,7 @@ input-touchpad
 input-touchpad-off
 input-touchpad-on
 input-touchpad-symbolic
+input-touchscreen
 input-tvremote
 insert-button
 insertcell
@@ -1973,6 +1975,7 @@ kdenlive-zone-end
 kdenlive-zone-start
 kdenlive-zoom-large
 kdenlive-zoom-small
+kdesrc-build
 kdesvn
 kdevelop
 kdiamond
@@ -2312,6 +2315,7 @@ mail-forward-attachment
 mail-forward-custom
 mail-forwarded
 mail-forwarded-replied
+mail-forward-symbolic
 mail-inbox-symbolic
 mail-invitation
 mail-mark-important
@@ -2326,6 +2330,8 @@ mail-meeting-request-reply
 mail-message
 mail-message-new
 mail-message-new-list
+mail-message-new-symbolic
+mail-outbox-symbolic
 mail-queue
 mail-queued
 mail-read
@@ -2334,15 +2340,18 @@ mail-receive
 mail-replied
 mail-replied-symbolic
 mail-reply-all
+mail-reply-all-symbolic
 mail-reply-author
 mail-reply-custom
 mail-reply-custom-all
 mail-reply-list
 mail-reply-sender
+mail-reply-sender-symbolic
 mail-send
 mail-send-receive-symbolic
 mail-send-symbolic
 mail-sent
+mail-sent-symbolic
 mail-signature-unknown
 mail-signed
 mail-signed-full
@@ -2644,6 +2653,7 @@ network-mobile-off
 network-mobile-on
 network-modem
 network-offline
+network-offline-symbolic
 network-rj11-female
 network-rj45-female
 network-server
@@ -3023,6 +3033,7 @@ preferences-desktop-theme-global
 preferences-desktop-theme-windowdecorations
 preferences-desktop-thunderbolt
 preferences-desktop-touchpad
+preferences-desktop-touchscreen
 preferences-desktop-user
 preferences-desktop-user-password
 preferences-desktop-virtual
@@ -3041,6 +3052,7 @@ preferences-log
 preferences-media-playback-amarok
 preferences-online-accounts
 preferences-other
+preferences-other-symbolic
 preferences-plugin
 preferences-releasenotes
 preferences-scroll
@@ -3085,6 +3097,7 @@ preferences-system-network-vpn
 preferences-system-network-wakeonlan
 preferences-system-performance
 preferences-system-power-management
+preferences-system-search-symbolic
 preferences-system-services
 preferences-system-session-services
 preferences-system-splash
