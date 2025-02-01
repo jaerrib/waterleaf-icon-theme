@@ -23,11 +23,11 @@
   </filter>
  </defs>
  <rect transform="matrix(0,-1,-1,0,0,0)" x="-61" y="-62" width="7" height="60" rx="2.5" ry="2.5862" filter="url(#filter5081)" opacity=".2" stroke-width="1.0171"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-62" width="7" height="60" rx="2.5" ry="2.5862" fill="#666" stroke-width="1.0171"/>
- <rect x="4.5" y="14.87" width="55" height="40" rx="2.6442" ry="2.5" filter="url(#filter5062)" opacity=".2" stroke-width="1.0284"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-62" width="7" height="60" rx="2.5" ry="2.5862" fill="#90a4ae" stroke-width="1.0171"/>
  <g stroke-width="1.0284">
-  <rect x="4.4964" y="13.872" width="54.998" height="40" rx="2.6441" ry="2.4999" fill="#666"/>
-  <rect x="8.7271" y="17.872" width="46.537" height="32" fill="#3689e6"/>
+  <rect x="4.5" y="14.87" width="55" height="40" rx="2.6442" ry="2.5" filter="url(#filter5062)" opacity=".2"/>
+  <rect x="4.4964" y="13.872" width="54.998" height="40" rx="2.6441" ry="2.4999" fill="#90a4ae"/>
+  <rect x="8.7271" y="17.872" width="46.537" height="32" fill="#455a64"/>
   <path d="m7.1403 13.872c-1.4649 0-2.6441 1.115-2.6441 2.4999v0.99996c0-1.385 1.1792-2.4999 2.6441-2.4999h49.71c1.4596 0 2.6441 1.115 2.6441 2.4999v-0.99996c0-1.385-1.1846-2.4999-2.6441-2.4999z" fill="#b3b3b3" opacity=".2"/>
  </g>
 </svg>

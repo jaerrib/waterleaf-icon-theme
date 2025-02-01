@@ -20,8 +20,8 @@
   </filter>
   <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
  </defs>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.562" y="-22.281" width="2.5156" height="21.562" rx=".89844" ry=".92942" fill="#666" stroke-width=".36552"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.562" y="-22.281" width="2.5156" height="21.562" rx=".89844" ry=".92942" fill="#90a4ae" stroke-width=".36552"/>
  <rect transform="scale(.35938)" x="4.5" y="14.87" width="55" height="40" rx="2.6442" ry="2.5" filter="url(#filter5062)" opacity=".2" stroke-width="1.0284"/>
- <rect x="1.6172" y="4.9844" width="19.766" height="14.375" rx=".95027" ry=".89844" fill="#666" stroke-width=".3696"/>
- <rect x="3.1376" y="6.4219" width="16.725" height="11.5" fill="#3689e6" stroke-width=".3696"/>
+ <rect x="1.6172" y="4.9844" width="19.766" height="14.375" rx=".95027" ry=".89844" fill="#90a4ae" stroke-width=".3696"/>
+ <rect x="3.1376" y="6.4219" width="16.725" height="11.5" fill="#455a64" stroke-width=".3696"/>
 </svg>

@@ -20,11 +20,8 @@
   </filter>
   <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
  </defs>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-30" y="-31" width="3.5" height="30" rx="1.25" ry="1.2931" fill="#666" stroke-width=".50855"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-30" y="-31" width="3.5" height="30" rx="1.25" ry="1.2931" fill="#90a4ae" stroke-width=".50855"/>
  <rect transform="scale(.5)" x="4.5" y="14.87" width="55" height="40" rx="2.6442" ry="2.5" filter="url(#filter5062)" opacity=".2" stroke-width="1.0284"/>
- <g stroke-width=".51422">
-  <rect x="2.2499" y="6.9352" width="27.5" height="20" rx="1.3221" ry="1.25" fill="#666"/>
-  <rect x="4.3653" y="8.9352" width="23.269" height="16" fill="#3689e6"/>
-  <path d="m3.5719 6.9352c-0.73248 0-1.3221 0.55748-1.3221 1.25v0.49998c0-0.69249 0.58964-1.25 1.3221-1.25h24.856c0.72982 0 1.3221 0.55748 1.3221 1.25v-0.49998c0-0.69249-0.5923-1.25-1.3221-1.25z" fill="#b3b3b3" opacity=".2"/>
- </g>
+ <rect x="2.2499" y="6.9352" width="27.5" height="20" rx="1.3221" ry="1.25" fill="#90a4ae" stroke-width=".51422"/>
+ <rect x="4.3653" y="8.9352" width="23.269" height="16" fill="#455a64" stroke-width=".51422"/>
 </svg>
