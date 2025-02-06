@@ -26,8 +26,15 @@ else
   PATCH_ICONS="$WK1DIR/02_waterleaf_colors_001.patch"
 fi
 
-echo && wig_read "Before upstream copy"
-rsync -a $SETUPDIR/../.clone.tmp/* $WK1DIR/
+if [ -d "$SETUPDIR/../.clone.tmp" ] ; then
+  echo && wig_read "Before upstream copy"
+  rsync -a $SETUPDIR/../.clone.tmp/* $WK1DIR/
+else
+  echo && wig_read "Before upstream clone"
+  cd $WK1DIR/
+  git clone https://github.com/PapirusDevelopmentTeam/papirus-folders.git
+  git clone https://github.com/PapirusDevelopmentTeam/papirus-icon-theme.git
+fi
 
 # --- Checkout Git repositories ---
 echo && wig_read "Before git checkouts"
@@ -37,8 +44,8 @@ cd $WK1DIR/papirus-icon-theme/
 git checkout --detach "$COMMIT_PAPIRUS_ICONS"
 
 # --- Apply patches ---
-echo && wig_read "Before patch"
 if [ -n "$PATCH_ICONS" ] ; then
+  echo && wig_read "Before patch"
   cd $WK1DIR/papirus-icon-theme/
   patch -p1 < $PATCH_ICONS
 fi
