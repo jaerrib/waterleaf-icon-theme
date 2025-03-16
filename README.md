@@ -18,8 +18,8 @@ To build packages for Debian and Q4OS, run:
 
 
 ## Copying or reusing
-- "[Waterleaf Icons](https://github.com/jaerrib/waterleaf-icon-theme)" by [John Beers](https://github.com/jaerrib/) licensed under [CC-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)
-- Original Debonaire/Paper-Q4OS icons by [Q4OS Team](https://github.com/q4osteam) licensed under [CC-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)
-- "[Paper Icons](http://snwh.org/paper/icons)" by [Sam Hewitt](http://samuelhewitt.com/) licensed under [CC-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+- "[Waterleaf Icons](https://github.com/jaerrib/waterleaf-icon-theme)" by [John Beers](https://github.com/jaerrib/) licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+- Original Debonaire/Paper-Q4OS icons by [Q4OS Team](https://github.com/q4osteam) licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+- "[Paper Icons](http://snwh.org/paper/icons)" by [Sam Hewitt](http://samuelhewitt.com/) licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 - "[Deepin Icons](https://github.com/linuxdeepin/deepin-icon-theme)" licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
 - "[Papirus Icons]( https://git.io/papirus-icon-theme)" licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
