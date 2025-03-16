@@ -1,0 +1,59 @@
+##linking icons unconditionally ; if icon exists, remove it first
+##symlink -> target
+
+##Section1 - Trinity icons linking
+amarok_mostplayed          amarok_favorite_genres
+amarok_random              amarok_dynamic
+amarok_rescan              amarok_playlist_refresh
+folder_wordprocessing      folder-documents
+folder_inbox               folder-mail
+folder_sent_mail           mail-folder-sent
+folder_doc_q4os_startmenu  folder
+folder_important           folder-important
+folder_favorite            folder-favorites
+folder_locked              folder-locked
+folder_print               folder-print
+folder_tar                 folder-tar
+folder_txt                 folder-txt
+folder_html                folder-html
+folder_image               folder-image
+folder_sound               folder-sound
+folder_video               folder-video
+folder_red                 folder-red
+folder_red_open            folder-red-open
+folder_green               folder-green
+folder_green_open          folder-green-open
+folder_blue                folder-blue
+folder_blue_open           folder-blue-open
+folder_yellow              folder-yellow
+folder_yellow_open         folder-yellow-open
+folder_violet              folder-violet
+folder_violet_open         folder-violet-open
+folder_cyan                folder-cyan
+folder_cyan_open           folder-cyan-open
+folder_grey                folder-grey
+folder_grey_open           folder-grey-open
+folder_orange              folder-orange
+folder_orange_open         folder-orange-open
+folder_crystal             folder-favorites
+bookmark_folder            folder-favorites
+kcmdf                      blockdevice
+usbpendrive_unmount        drive-removable-media
+zip_external_mount         drive-removable-media
+about_kde                  desktop-environment-kde
+about-kde                  desktop-environment-kde
+www                        internet-web-browser
+1downarrow                 arrow-down
+1leftarrow                 arrow-left
+1rightarrow                arrow-right
+1uparrow                   arrow-up
+2downarrow                 arrow-down-double
+2leftarrow                 arrow-left-double
+2rightarrow                arrow-right-double
+2uparrow                   arrow-up-double
+exec                       application-x-executable
+
+##Section2 - Q4OS icons linking
+kmenu                      distributor-logo-q4os-m1
+swcentre                   software-store
+q4os-swprofiler            desktop-profiler

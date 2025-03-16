@@ -16,7 +16,7 @@
    id="svg14"
    sodipodi:docname="distributor-logo-q4os3.svg"
    inkscape:version="0.92.1 r15371"
-   inkscape:export-filename="/home/john/Nextcloud/Q4OS Stuff/distributor-logo-q4os1.png"
+   inkscape:export-filename="/home/john/Nextcloud/Q4OS Stuff/distributor-logo-q4os3.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt" />
       </cc:Work>
