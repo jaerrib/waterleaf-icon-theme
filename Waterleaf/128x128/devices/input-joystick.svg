@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="128" height="128" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <title>Paper Symbolic Icon Theme</title>
+ <defs>
+  <filter id="filter7554" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+  <filter id="filter3324" x="-.012027" y="-.011973" width="1.0241" height="1.0239" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.070156076"/>
+  </filter>
+ </defs>
+ <g transform="translate(-.66919)">
+  <g transform="matrix(7.4286,0,0,7.3956,-3894.4,1184.9)" enable-background="new" filter="url(#filter3324)" opacity=".2">
+   <path d="m532-158.06c-0.554 0-1 0.446-1 1v3l2 2 2-2v-3c0-0.554-0.446-1-1-1zm-5 5.0625c-0.554 0-1 0.446-1 1v2c0 0.554 0.44602 1.0051 1 1h2.9375l2-2-2-2zm9.0625 0-2 2 2 2h2.9375c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm-3.0625 3.0625-2 2v2.9375c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2.9375z"/>
+  </g>
+  <g transform="matrix(7.4286,0,0,7.3956,-3896.4,1182.9)" filter="url(#filter7554)">
+   <path d="m532-158.06c-0.554 0-1 0.446-1 1v3l2 2 2-2v-3c0-0.554-0.446-1-1-1zm-5 5.0625c-0.554 0-1 0.446-1 1v2c0 0.554 0.44602 1.0051 1 1h2.9375l2-2-2-2zm9.0625 0-2 2 2 2h2.9375c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm-3.0625 3.0625-2 2v2.9375c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2.9375z" fill="#555"/>
+  </g>
+ </g>
+</svg>
