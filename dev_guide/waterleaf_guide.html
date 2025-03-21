@@ -83,7 +83,6 @@
 <p>A basic rules to follow while designing:<br>
 <ul>
 <li><p>Smaller size icons, especially 16 and 24, should be more "schematic" and simplified with thicker lines and less colors, to be distinguishable as best as possible.</p></li>
-<li><p>Shadows, effects, color blending and transitions should be applied for size 48 and above only.</p></li>
 <li><p>The whitespace varies for different icon sizes and should increase proportionally along with the icon size. It should equal the baseline distance from the canvas edge.</p></li>
 <li><p>A basic guide, listed as:<br>canvas size | baseline | x-height | whitespace | percent of space used, rounded up</p>
 <table>
@@ -139,7 +138,9 @@
 </table>
 </li>
 <li><p>Drawings are centered on the vertical axis for all size variants.</p></li>
-<li><p>Horizontal positioning of drawings may follow two rules. The default is to align the bottommost part of the drawing with the baseline. An option is to center the drawing on the horizontal axis, so it can be set higher than the baseline.</p></li>
+<li><p>Horizontal positioning of drawing may follow two rules. The default is to align the bottommost part of the drawing with the baseline. An option is to center the drawing on the horizontal axis, so it can be set higher than the baseline.</p></li>
+<li><p>Shadows, effects, color blending, and transitions are be applied for size 48 and above only and should be consistent across the iconset. Shadows for 48 variant are subtle and become bolder as size increases.</p></li>
+<li><p>Shadows are an extra part of the drawing. Aspect ratio and positioning of actual drawing is being calculated before shadows addition, so shadows may overflow both baseline and whitespace.</p></li>
 </ul>
 <br>
 
@@ -147,7 +148,7 @@
 <p>There are, however, exceptions to these guidelines. Rounder or lighter components will generally require some overshoot to compensate for the optical illusion that makes them look smaller than their rectangular counterparts. Some groups of a specific application icons could deviate from the guidelines somewhat, depending on the specific application design. Moreover, some system icons, especially mimetype icons, have ascending and descending elements, which are those elements that extend beyond the baseline and x-height line.<p>
 
 <br><hr>
-<p><font size="2" color="gray">Waterleaf icons composition guidelines, developer manual, rev. 12/2019</font></p>
+<p><font size="2" color="gray">Waterleaf icons composition guidelines, developer manual, rev. 03/2025</font></p>
 <br><br><br><br>
 
 </body>
