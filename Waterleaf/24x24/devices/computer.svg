@@ -15,13 +15,13 @@
     .fil0 {fill:#4D4948}
     .fil1 {fill:#B6DDC7}</style>
   <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
-  <filter id="filter5062" x="-.010364" y="-.01425" width="1.0207" height="1.0285" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.23749999"/>
-  </filter>
   <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+  <filter id="filter4451" x="-.010364" y="-.01425" width="1.0207" height="1.0285" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.087082872"/>
+  </filter>
  </defs>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.562" y="-22.281" width="2.5156" height="21.562" rx=".89844" ry=".92942" fill="#90a4ae" stroke-width=".36552"/>
- <rect transform="scale(.35938)" x="4.5" y="14.87" width="55" height="40" rx="2.6442" ry="2.5" filter="url(#filter5062)" opacity=".2" stroke-width="1.0284"/>
- <rect x="1.6172" y="4.9844" width="19.766" height="14.375" rx=".95027" ry=".89844" fill="#90a4ae" stroke-width=".3696"/>
- <rect x="3.1376" y="6.4219" width="16.725" height="11.5" fill="#455a64" stroke-width=".3696"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-22" y="-22.5" width="5.5" height="22" rx=".9203" ry=".91667" fill="#90a4ae" stroke-width=".54593"/>
+ <rect x="1.4167" y="3.267" width="20.167" height="14.666" rx=".96956" ry=".91663" filter="url(#filter4451)" opacity=".2" stroke-width=".3771"/>
+ <rect x="1.4167" y="3.117" width="20.167" height="14.666" rx=".96956" ry=".91663" fill="#90a4ae" stroke-width=".3771"/>
+ <rect x="2.8833" y="4.5837" width="17.233" height="11.733" fill="#455a64" stroke-width=".37896"/>
 </svg>

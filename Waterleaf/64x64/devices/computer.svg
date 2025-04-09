@@ -15,19 +15,17 @@
     .fil0 {fill:#4D4948}
     .fil1 {fill:#B6DDC7}</style>
   <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
-  <filter id="filter5062" x="-.010364" y="-.01425" width="1.0207" height="1.0285" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.23749999"/>
+  <filter id="filter1970" x="-.010364" y="-.01425" width="1.0207" height="1.0285" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.23750172"/>
   </filter>
-  <filter id="filter5081" x="-.057429" y="-.0067" width="1.1149" height="1.0134" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.1675"/>
+  <filter id="filter2015" x="-.03" y="-.0075" width="1.06" height="1.015" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.1875"/>
   </filter>
  </defs>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-61" y="-62" width="7" height="60" rx="2.5" ry="2.5862" filter="url(#filter5081)" opacity=".2" stroke-width="1.0171"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-62" width="7" height="60" rx="2.5" ry="2.5862" fill="#90a4ae" stroke-width="1.0171"/>
- <g stroke-width="1.0284">
-  <rect x="4.5" y="14.87" width="55" height="40" rx="2.6442" ry="2.5" filter="url(#filter5062)" opacity=".2"/>
-  <rect x="4.4964" y="13.872" width="54.998" height="40" rx="2.6441" ry="2.4999" fill="#90a4ae"/>
-  <rect x="8.7271" y="17.872" width="46.537" height="32" fill="#455a64"/>
-  <path d="m7.1403 13.872c-1.4649 0-2.6441 1.115-2.6441 2.4999v0.99996c0-1.385 1.1792-2.4999 2.6441-2.4999h49.71c1.4596 0 2.6441 1.115 2.6441 2.4999v-0.99996c0-1.385-1.1846-2.4999-2.6441-2.4999z" fill="#b3b3b3" opacity=".2"/>
- </g>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-61" y="-62" width="15" height="60" rx="2.5099" ry="2.5" filter="url(#filter2015)" opacity=".2" stroke-width="1.4889"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-62" width="15" height="60" rx="2.5099" ry="2.5" fill="#90a4ae" stroke-width="1.4889"/>
+ <rect x="4.4997" y="9.146" width="55.001" height="40" rx="2.6443" ry="2.4999" filter="url(#filter1970)" opacity=".2" stroke-width="1.0285"/>
+ <rect x="4.4997" y="8.146" width="55.001" height="40" rx="2.6443" ry="2.4999" fill="#90a4ae" stroke-width="1.0285"/>
+ <rect x="8.5" y="12.146" width="47" height="32" fill="#455a64" stroke-width="1.0335"/>
+ <path d="m6.903 8.146c-1.4792 0-2.6699 1.1258-2.6699 2.5242v1.0097c0-1.3984 1.1908-2.5242 2.6699-2.5242h50.195c1.4738 0 2.6699 1.1258 2.6699 2.5242v-1.0097c0-1.3984-1.1961-2.5242-2.6699-2.5242z" fill="#b3b3b3" opacity=".2" stroke-width="1.0384"/>
 </svg>
