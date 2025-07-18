@@ -14,7 +14,7 @@ diff -uNr papirus-icon-theme.a/tools/build_color_folders.sh papirus-icon-theme.b
  	#
  	# | name     | [0]   | [1]   | [2]   | [3]   |
  	# |----------|-------|-------|-------|-------|
-+	[waterleaf]=" #90a4ae #78909c #f0f0f0 #f0f0f0"
++	[waterleaf]=" #90a4ae #718994 #f0f0f0 #f0f0f0"
  	[adwaita]="   #93c0ea #3a87e5 #3a87e5 #e4e4e4"
  	[blue]="      #5294e2 #4877b1 #1d344f #e4e4e4"
  	[black]="     #4f4f4f #3f3f3f #c2c2c2 #dcdcdc"

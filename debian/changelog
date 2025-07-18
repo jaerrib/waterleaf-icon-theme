@@ -1,3 +1,18 @@
+waterleaf-icon-theme (20250716-4.6-a1) UNRELEASED; urgency=medium
+
+  * Fix scripts for reproducible build
+  * Improve styling consistency for icons <= 32
+  * Fix build fail, in case Papirus cloned repo is missing
+  * Update development guide for icons shadowing and placing
+  * Add tqt3-dev-tools to build dependencies
+  * Update readme
+  * Add size 22 icons to design basics, update rev date
+  * Replace nm_device_wired with svg variant
+  * Modify folders colors
+  * Update Papirus upstream base to the latest commit 2025-07-13
+
+ -- Q4OS Team <devteam@q4os.org>  Wed, 16 Jul 2025 11:55:23 +0200
+
 waterleaf-icon-theme (20250106-4.5-a1) UNRELEASED; urgency=medium
 
   * Non-maintainer upload.

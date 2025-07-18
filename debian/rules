@@ -31,7 +31,7 @@ override_dh_install:
 	mv ../.built2_fsdeb/out_iconset3-extra debian/waterleaf-light-icon-theme-extra/usr/share/icons/Waterleaf-Light
 	
 	rm -rf ../.built1_iconset ../.built2_fsdeb
-	sudo -n -u $$USER BUILD_TDE_ICONSET=1 PAPIRUS_VER= ACCENTI= dash 99_generate_iconset.sh
+	sudo -n -u $$USER BUILD_TDE_ICONSET=1 PAPIRUS_VER=1 ACCENTI= dash 99_generate_iconset.sh
 	mkdir -p debian/waterleaf-icon-theme/usr/share/icons/
 	mkdir -p debian/waterleaf-icon-theme-tde/usr/share/icons/
 	mkdir -p debian/waterleaf-icon-theme-extra/usr/share/icons/

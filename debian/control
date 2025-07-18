@@ -2,7 +2,7 @@ Source: waterleaf-icon-theme
 Section: none
 Priority: optional
 Maintainer: John Beers <jaerrib@tutanota.com>
-Build-Depends: debhelper (>= 9~), git, scour, q4os-devpack-base
+Build-Depends: debhelper (>= 9~), git, scour, tqt3-dev-tools, q4os-devpack-base
 Standards-Version: 3.8.4
 
 Package: waterleaf-icon-theme
