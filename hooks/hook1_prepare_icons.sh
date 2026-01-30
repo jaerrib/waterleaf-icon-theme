@@ -14,11 +14,11 @@ fi
 COMMIT_PAPIRUS_FOLDERS="7ea3dce2e3672dd0a50f4d4a6587589bac6f65e6" #2023-12-10
 if [ "$PAPIRUS_VER" = "new" ] ; then
   echo "* Using Papirus icons commit: \"The most recent\""
-  COMMIT_PAPIRUS_ICONS="466184391d8a52f21858ccc322701405e5ec06bd" #2024-10-19
+  COMMIT_PAPIRUS_ICONS=""
   PATCH_ICONS="$WK1DIR/02_waterleaf_colors_20220916.patch"
 elif [ "$PAPIRUS_VER" = "1" ] ; then
   echo "* Using Papirus icons commit: \"$PAPIRUS_VER\""
-  COMMIT_PAPIRUS_ICONS="466184391d8a52f21858ccc322701405e5ec06bd" #2024-10-19
+  COMMIT_PAPIRUS_ICONS="499efdb60791ad24d6d2e793e238be07500f682a" #2025-07-13
   PATCH_ICONS="$WK1DIR/02_waterleaf_colors_20220916.patch"
 else
   echo "* Using Papirus icons commit: \"Waterleaf stable\""
@@ -40,8 +40,10 @@ fi
 echo && wig_read "Before git checkouts"
 cd $WK1DIR/papirus-folders/
 git checkout --detach "$COMMIT_PAPIRUS_FOLDERS"
-cd $WK1DIR/papirus-icon-theme/
-git checkout --detach "$COMMIT_PAPIRUS_ICONS"
+if [ -n "$COMMIT_PAPIRUS_ICONS" ] ; then
+  cd $WK1DIR/papirus-icon-theme/
+  git checkout --detach "$COMMIT_PAPIRUS_ICONS"
+fi
 
 # --- Apply patches ---
 if [ -n "$PATCH_ICONS" ] ; then
